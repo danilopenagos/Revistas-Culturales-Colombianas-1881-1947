@@ -1,0 +1,454 @@
+NombreR,NumContrib,Colaborador,Roles,Seudonimo,PaisOrigen,Titulo,NumFasciculo,Fecha,Fecha-ISO,Traduccion,Traductor,Lengua,LenguaOriginal,Tipo,TipoIndice,Dedicatoria,ObrasResenadas,CantidadPaginas,Paginacion
+Athenea,1a,"Olózaga de Cabo, Susana",Director,NA,Colombia,NA,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Athenea,1b,"Restrepo Castro, Ana",Administrador,NA,Colombia,NA,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Athenea,2,Anónimo,Creador,NA,NA,Mujeres Diario de Dario,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,Elogio,NA,NA,1.2,2
+Athenea,3,Anónimo,Ilustrador,NA,NA,NA,1,NA,1927-04-01,No,NA,NA,NA,Imagen,NA,NA,NA,1.2,2
+Athenea,4,Anónimo,Creador,V. de Lusich,NA,NA,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,Elogio,NA,NA,0.7,2
+Athenea,5,Anónimo,Ilustrador,NA,NA,NA,1,NA,1927-04-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,3
+Athenea,6,"Gómez, Carlos E.",Creador,NA,NA,Protección Infantil,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,3
+Athenea,7,"Amiel, Henri-Frédéric",Creador,Amiel,Suiza,Una lágrima,1,NA,1927-04-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,0.2,3
+Athenea,8,Anónimo,Creador,NA,NA,La madre,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,4
+Athenea,9,Anónimo,Ilustrador,NA,NA,NA,1,NA,1927-04-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,4
+Athenea,10,"Uribe Vallejo, Fita",Creador,NA,Colombia,NA,1,NA,1927-04-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.1,4
+Athenea,11,Susana,Creador,Susana,NA,Las modas. Ellas,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,5
+Athenea,12,Anónimo,Ilustrador,NA,NA,NA,1,NA,1927-04-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,5
+Athenea,13,"Posada, Aureliano",Creador,NA,NA,Ellos,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,5
+Athenea,13,"Posada, Aureliano",Creador,NA,NA,Ellos,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,6
+Athenea,14,Anónimo,Ilustrador,NA,NA,NA,1,NA,1927-04-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.5,6
+Athenea,15,"Bécquer, Gustavo Adolfo",Creador,NA,España,El canto de la fuente,1,NA,1927-04-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,6
+Athenea,16,"Tobón Mejía, Marco",Creador,NA,Colombia,Arte y artistas. Roberto Pizano,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,7
+Athenea,16,"Pizano, Roberto",Ilustrador,NA,Colombia,NA,1,NA,1927-04-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,7
+Athenea,16,"Pizano, Roberto",Ilustrador,NA,Colombia,NA,1,NA,1927-04-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,7
+Athenea,17,Anónimo,Creador,NA,NA,Exposición de Woodcut,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,8
+Athenea,17,Anónimo,Ilustrador,NA,NA,NA,1,NA,1927-04-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.6,8
+Athenea,16,"Tobón Mejía, Marco",Creador,NA,Colombia,Arte y artistas. Roberto Pizano,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,8
+Athenea,18,"Cano, Antonio José",Creador,NA,Colombia,Eunice,1,NA,1927-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,9
+Athenea,19,"Greiff, Otto de",Creador,NA,Colombia,Cancion,1,NA,1927-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,9
+Athenea,20,"Angulo J., Enriqueta",Creador,NA,Colombia,Tres pajaros….,1,NA,1927-04-01,No,NA,Español,NA,Prosa Ficción,NA,"""A una querida amiga que cultiva la cultura y a ratos la murmuración"".",NA,1,10
+Athenea,21,"Restrepo Restrepo, Carlos Eugenio",Creador,"Restrepo, Carlos E.",Colombia,Estímulos,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,Estímulos,NA,NA,0.2,11
+Athenea,22,"Latorre, Luis M.",Creador,NA,NA,Estímulos,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,Estímulos,NA,NA,0.2,11
+Athenea,23,"Uribe Vallejo, Fita",Creador,NA,Colombia,Estímulos,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,Estímulos,NA,NA,0.1,11
+Athenea,24,"Castro, Alfonso",Creador,NA,Colombia,Estímulos,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,Estímulos,NA,NA,0.2,11
+Athenea,25,"Greiff, Otto de",Creador,NA,Colombia,Estímulos,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,Estímulos,NA,NA,0.2,11
+Athenea,26,"Gallego, Romualdo",Creador,NA,Colombia,Estímulos,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,Estímulos,NA,NA,0.1,11
+Athenea,27,Anónimo,Creador,NA,NA,Comentarios,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,Comentarios,NA,NA,1,12
+Athenea,28,"Folleett Jameson, Helen",Creador,Madame Quivive,NA,La mujer y los deportes,1,NA,1927-04-01,Sí,Anónimo,Español,Inglés,Prosa No Ficción,NA,NA,NA,0.7,13
+Athenea,29,"Rusiñol, Santiago",Creador,NA,España,La oracion del amor,1,NA,1927-04-01,Sí,Anónimo,Español,Catalán,Prosa Ficción,NA,NA,NA,0.3,13
+Athenea,30,Anónimo,Creador,NA,NA,Formularios,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,14
+Athenea,30,Anónimo,Creador,NA,NA,Formularios,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,14
+Athenea,30,Anónimo,Creador,NA,NA,Formularios,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,14
+Athenea,30,Anónimo,Creador,NA,NA,Formularios,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,14
+Athenea,30,Aurora,Creador,NA,NA,Formularios,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,Preguntas y respuestas,NA,NA,0.3,14
+Athenea,30,Pauline,Creador,NA,NA,Formularios,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,Preguntas y respuestas,NA,NA,0.2,14
+Athenea,30,Anónimo,Creador,NA,NA,Formularios,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,Preguntas y respuestas,NA,NA,0.1,14
+Athenea,31,Anónimo,Ilustrador,NA,NA,NA,1,NA,1927-04-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.4,15
+Athenea,31,Anónimo,Creador,NA,NA,Nido de condores,1,NA,1927-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,15
+Athenea,32,"Jaramillo Vélez, Guillermo",Ilustrador,NA,Colombia,Ana y Sofía Villamizar,1,NA,1927-04-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,15
+Athenea,32,"Jaramillo Vélez, Guillermo",Ilustrador,NA,Colombia,Ana y Sofía Villamizar,1,NA,1927-04-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,15
+Athenea,33,Anónimo,Creador,NA,NA,NA,1,NA,1927-04-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Athenea,34a,"Olózaga de Cabo, Susana",Director,NA,Colombia,NA,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Athenea,34b,"Restrepo Castro, Ana",Administrador,NA,Colombia,NA,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Athenea,35,Anónimo,Ilustrador,NA,NA,La madre,2,NA,1927-05-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.4,18
+Athenea,36,"Gómez, Carlos E.",Creador,NA,NA,El centavo de la madre,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,18
+Athenea,37,Anónimo,Ilustrador,NA,NA,NA,2,NA,1927-05-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,19
+Athenea,37,Anónimo,Ilustrador,NA,NA,NA,2,NA,1927-05-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,19
+Athenea,37,Susana,Creador,Susana,NA,Las modas,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,19-20
+Athenea,38,"Posada, Aureliano",Creador,NA,NA,Las modas,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,20
+Athenea,39,Anónimo,Creador,Ninon,NA,El maquillage,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,Para Athenea,NA,0.7,20
+Athenea,40,Anónimo,Ilustrador,NA,NA,NA,2,NA,1927-05-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,21
+Athenea,41a,"Uribe Mejía, Francisco Antonio",Creador,FAU,Colombia,"""Athenea""",2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,21
+Athenea,41b,"Lopera Berrío, Emilia",Creador,NA,Colombia,"""Athenea""",2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,21-22
+Athenea,42,Anónimo,Ilustrador,NA,NA,Blasina Botero de Isaza,2,NA,1927-05-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.1,22
+Athenea,42,Anónimo,Creador,Gislana,NA,Entrevistas femeninas con doña Blasina Botero de Isaza,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,Entrevista,NA,NA,0.7,22
+Athenea,43,"Gómez Escobar, Francisco",Creador,Efe Gómez,Colombia,Alma faustica,2,NA,1927-05-01,No,NA,Español,NA,Prosa Ficción,NA,"A Doña Susana Olózaga de Cabo, como pobre dedica Efe Gómez",NA,0.7,23-25
+Athenea,44,Anónimo,Ilustrador,NA,NA,NA,2,NA,1927-05-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,23
+Athenea,44,"Gómez Escobar, Francisco",Creador,Efe Gómez,Colombia,Alma faustica,2,NA,1927-05-01,No,NA,Español,NA,Prosa Ficción,NA,"A Doña Susana Olózaga de Cabo, como pobre dedica Efe Gómez",NA,0.7,25
+Athenea,44,Anónimo,Ilustrador,NA,NA,NA,2,NA,1927-05-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,25
+Athenea,44,Anónimo,Ilustrador,NA,NA,NA,2,NA,1927-05-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.1,25
+Athenea,45,"Botero de Molina, Tila",Creador,NA,NA,De nuestros colaboradores,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,25
+Athenea,45,"Cock Quevedo, Lucía",Creador,NA,NA,De nuestros colaboradores,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,A Doña Susana Olózaga de Cabo y a Doña Fita Uribe,NA,0.1,25
+Athenea,46,"Mejía Ángel, Gustavo",Creador,NA,Colombia,Versos (inéditos): Luz Adela,2,NA,1927-05-01,No,NA,Español,NA,Poesía,Versos,NA,NA,0.2,26
+Athenea,46,"Mejía Ángel, Gustavo",Creador,NA,Colombia,Versos (inéditos): Diario,2,NA,1927-05-01,No,NA,Español,NA,Poesía,Versos,NA,NA,0.2,26
+Athenea,47,Anónimo,Creador,K.,NA,Rodo y el pragmatismo,2,NA,1927-05-01,No,NA,Español,NA,Reseña,NA,NA,Conferencia en el Centro de Estudiantes del Dr. Alfonso Castro sobre José Enrique Rodó,0.3,26
+Athenea,48,"Ortega y Gasset, José",Creador,NA,España,La ternura,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,26
+Athenea,49,Anónimo,Creador,NA,NA,El problema de las sirvientas,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,27
+Athenea,50,Anónimo,Creador,NA,NA,Consejos útiles,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,27
+Athenea,51,Anónimo,Ilustrador,NA,NA,NA,2,NA,1927-05-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.5,28
+Athenea,51,Anónimo,Creador,NA,NA,Consejos a las esposas y a los maridos,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,28
+Athenea,52,"Jaramillo Ángel, Ana",Creador,NA,NA,Escuela de enfermeras,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,29
+Athenea,53,Anónimo,Creador,NA,NA,NA,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,29
+Athenea,54,"Robledo, Emilio",Creador,NA,Colombia,Escuela de enfermeras,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,29
+Athenea,55,"Uribe Muñoz, Bernardo",Creador,NA,Colombia,Mujeres de América,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,29
+Athenea,56,"Jaramillo Vélez, Guillermo",Ilustrador,NA,Colombia,NA,2,NA,1927-05-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,30
+Athenea,56,Anónimo,Creador,NA,NA,La vida en broma,2,NA,1927-05-01,No,NA,NA,NA,Prosa Ficción,NA,NA,NA,0.1,30
+Athenea,56,Anónimo,Creador,NA,NA,La vida en broma (Salió de apuro),2,NA,1927-05-01,No,NA,NA,NA,Prosa Ficción,NA,NA,NA,0.1,30
+Athenea,56,Anónimo,Creador,NA,NA,La vida en broma (Un caso doloroso),2,NA,1927-05-01,No,NA,NA,NA,Prosa Ficción,NA,NA,NA,0.1,30
+Athenea,56,Anónimo,Creador,NA,NA,La vida en broma (Anécdota),2,NA,1927-05-01,No,NA,NA,NA,Prosa Ficción,NA,NA,NA,0.3,30
+Athenea,56,Anónimo,Creador,NA,NA,La vida en broma,2,NA,1927-05-01,No,NA,NA,NA,Prosa Ficción,NA,NA,NA,0.1,30
+Athenea,57,Anónimo,Ilustrador,NA,NA,NA,2,NA,1927-05-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,31
+Athenea,57,Anónimo,Creador,NA,NA,Doña Camila Quiroga,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,31
+Athenea,58,Anónimo,Creador,NA,NA,Preguntas y respuestas,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,Preguntas y respuestas,NA,NA,0.3,31
+Athenea,58,Mariela,Creador,Mariela,NA,Preguntas y respuestas,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,Preguntas y respuestas,NA,NA,0.1,31
+Athenea,58,"Restrepo Castro, Ana",Administrador,NA,Colombia,Preguntas y respuestas,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,Preguntas y respuestas,NA,NA,0.1,31
+Athenea,59,Anónimo,Creador,NA,NA,Comentarios,2,NA,1927-05-01,No,NA,Español,NA,Prosa No Ficción,Comentarios,NA,NA,0.5,32
+Athenea,60,Anónimo,Creador,NA,NA,NA,2,NA,1927-05-01,No,NA,Español,NA,Publicidad,NA,NA,NA,0.5,32
+Athenea,61,"Restrepo Restrepo, Carlos Eugenio",Creador,"Restrepo, Carlos E.",Colombia,Intuición,3,Mayo de 1927,1927-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Athenea,62,Anónimo,Ilustrador,NA,NA,NA,3,NA,1927-06-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,34
+Athenea,62,Anónimo,Creador,E. M.,NA,El día de la madre,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,34
+Athenea,62,"Bravo Nicholls, Rita",Creador,NA,NA,El día de la madre,3,Mayo 21 de 1927,1927-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,34
+Athenea,63,Anónimo,Ilustrador,NA,NA,NA,3,NA,1927-06-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.5,35
+Athenea,63,"Escobar, Lázaro",Creador,NA,NA,Madre!!!,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.8,35-36
+Athenea,64,Luz Stella,Creador,NA,NA,Oracion por el hijo ausente,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,Oración,NA,NA,0.7,36
+Athenea,65,Ramiro,Creador,NA,NA,La imaginacion,3,NA,1927-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.1,37
+Athenea,65,"Uribe Uribe, Amalia",Creador,NA,NA,La imaginacion,3,NA,1927-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.1,37
+Athenea,66,"Uribe, Amelia",Creador,NA,NA,¡Ingrato!,3,NA,1927-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,37
+Athenea,67,Anónimo,Creador,C. L.,NA,Salutaris mater,3,NA,1927-06-01,No,NA,Español,NA,Prosa Ficción,NA,"A la señorita doña Fita Uribe. Envío respetuoso, C. L.",NA,0.2,37
+Athenea,68,Luz Stella,Creador,NA,NA,NA,3,NA,1927-06-01,No,NA,Español,NA,Prosa Ficción,NA,"Para ""Athenea""",NA,0.1,37
+Athenea,69,"Uribe Mejía, Francisco Antonio",Creador,FAU,Colombia,Tenaz perseverancia,3,NA,1927-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.1,37
+Athenea,70,Anónimo,Creador,NA,NA,NA,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,37
+Athenea,71,Anónimo,Creador,NA,NA,NA,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,37
+Athenea,72,"Cano Gutiérrez, Fidel",Creador,NA,Colombia,Amor de madre,3,NA,1927-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,38
+Athenea,73,"Torres Bodet, Jaime",Creador,NA,México​,Versos a la madre (Mi madre),3,NA,1927-06-01,No,NA,Español,NA,Poesía,Versos,NA,NA,0.3,39
+Athenea,73,"Carriego, Evaristo",Creador,NA,Argentina,Versos a la madre (La silla que ahora nadie ocupa),3,NA,1927-06-01,No,NA,Español,NA,Poesía,Versos,NA,NA,0.2,39
+Athenea,73,"Marquina, Eduardo",Creador,NA,España,Versos a la madre (Madre),3,NA,1927-06-01,No,NA,Español,NA,Poesía,Versos,NA,NA,0.2,39
+Athenea,73,"Vélez Carmona, Juan Clímaco",Creador,NA,Colombia,Versos a la madre (Madre),3,NA,1927-06-01,No,NA,Español,NA,Poesía,Versos,NA,NA,0.3,39
+Athenea,74,"Jammes, Francis",Creador,NA,Francia,Motivos (Oración para que un niño no se muera),3,NA,1927-06-01,Sí,Anónimo,Español,Francés,Poesía,Motivos,NA,NA,0.1,40
+Athenea,74,"Fort, Paul",Creador,NA,Francia,Motivos (La lámpara),3,NA,1927-06-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Motivos,NA,NA,0.1,40
+Athenea,74,"Duque Bernal, Mario",Creador,NA,NA,Motivos (Madre),3,NA,1927-06-01,No,NA,Español,NA,Poesía,Motivos,NA,NA,0.3,40
+Athenea,74,"Uribe Vallejo, Fita",Creador,NA,Colombia,Motivos (A través del pensamiento),3,NA,1927-06-01,No,NA,Español,NA,Prosa Ficción,Motivos,NA,NA,0.3,40
+Athenea,74,"Uribe Vallejo, Fita",Creador,NA,Colombia,Motivos (Invernal),3,NA,1927-06-01,No,NA,Español,NA,Prosa Ficción,Motivos,NA,NA,0.2,40
+Athenea,75,Anónimo,Ilustrador,NA,NA,NA,3,NA,1927-06-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,41
+Athenea,75,Anónimo,Ilustrador,NA,NA,NA,3,NA,1927-06-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,41
+Athenea,75,Susana,Creador,Susana,NA,Las modas (Mussolini y las modas),3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,41-42
+Athenea,75,Anónimo,Ilustrador,NA,NA,NA,3,NA,1927-06-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,41
+Athenea,75,Susana,Creador,Susana,NA,Las modas (Mussolini y las modas),3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,41-42
+Athenea,76,"Toro, Rita de",Creador,NA,NA,El matrimonio. Algunas consideraciones alrededor de este problema,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,42
+Athenea,77,Anónimo,Creador,NA,NA,El peligro de los labios pintados,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,Boletín,NA,NA,0.2,42
+Athenea,78,"Vieco Ortiz, Luis Eduardo",Ilustrador,NA,NA,NA,3,NA,1927-06-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.5,43
+Athenea,78,Anónimo,Creador,NA,NA,Arte y artistas. Luis E. Vieco,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,43
+Athenea,79,"Catalina, Severo",Creador,NA,España,La artista,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,43
+Athenea,80,Anónimo,Ilustrador,NA,NA,NA,3,NA,1927-06-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.4,44
+Athenea,80,Anónimo,Creador,Incógnita,NA,El gato de doña Francisca,3,NA,1927-06-01,No,NA,Español,NA,Prosa Ficción,Cuento corto,NA,NA,0.4,44
+Athenea,81,Esopo,Creador,NA,Grecia,El pavo real y la grulla,3,NA,1927-06-01,Sí,Anónimo,Español,Griego,Prosa Ficción,Cuento corto,NA,NA,0.2,44
+Athenea,82,Anónimo,Ilustrador,NA,NA,NA,3,NA,1927-06-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,45
+Athenea,82,"Lovell, Mary Frances",Creador,"Lovell, María F.",Reino Unido,Página de los niños. Carta a los niños,3,NA,1927-06-01,Sí,Anónimo,Español,Inglés,Prosa No Ficción,Carta,NA,NA,0.6,45
+Athenea,83,Anónimo,Creador,NA,NA,Adivinanza,3,NA,1927-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.1,45
+Athenea,84,Anónimo,Creador,NA,NA,Formularios,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,46
+Athenea,84,Anónimo,Creador,NA,NA,Formularios,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,46
+Athenea,84,Anónimo,Creador,NA,NA,Formularios,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,46
+Athenea,84,Anónimo,Creador,NA,NA,Formularios,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,46
+Athenea,84,Anónimo,Creador,NA,NA,Formularios,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,46
+Athenea,84,Anónimo,Creador,NA,NA,Formularios,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,46
+Athenea,84,Anónimo,Creador,NA,NA,Formularios,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,46
+Athenea,84,Anónimo,Creador,NA,NA,Formularios,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,46
+Athenea,84,Anónimo,Creador,NA,NA,Formularios,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,46
+Athenea,85,Anónimo,Creador,NA,NA,NA,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,46
+Athenea,86,Anónimo,Ilustrador,NA,NA,NA,3,NA,1927-06-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,47
+Athenea,86,"González Vélez, Ernesto María",Creador,Vate,Colombia,Fiesta de las serpentinas (Impresiones),3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,47
+Athenea,86,Anónimo,Ilustrador,NA,NA,NA,3,NA,1927-06-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,47
+Athenea,86,Anónimo,Creador,NA,NA,Fiesta de las serpentinas,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,47
+Athenea,87,Anónimo,Creador,NA,NA,Comentarios,3,NA,1927-06-01,No,NA,Español,NA,Prosa No Ficción,Comentarios,NA,NA,0.5,48
+Athenea,88,Anónimo,Creador,NA,NA,NA,3,NA,1927-06-01,No,NA,Español,NA,Publicidad,NA,NA,NA,0.5,48
+Athenea,89a,"Olózaga de Cabo, Susana",Director,NA,Colombia,El monumento a la madre,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,49
+Athenea,89b,"Restrepo Castro, Ana",Administrador,NA,Colombia,El monumento a la madre,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,49
+Athenea,90,"Sánchez Lafaurie, Juana",Creador,Marzia de Luzignan,Colombia,Marzia de Luzignan,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,NA,"Para la Revista femenina Athenea, con la más franca y decidida simpatía",NA,0.5,50
+Athenea,91,"Mesa Nicholls, Salvador",Creador,NA,Colombia,Mis versos,4,NA,1927-06-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,50
+Athenea,92,Anónimo,Ilustrador,NA,NA,NA,4,NA,1927-06-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,51
+Athenea,93,"Álvarez, Antonio",Creador,NA,Colombia,Cuentos cortos: El pequeño Fausto,4,NA,1927-06-15,No,NA,Español,NA,Prosa Ficción,Cuento corto,NA,NA,0.9,51-52
+Athenea,93,Anónimo,Ilustrador,NA,NA,NA,4,NA,1927-06-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,51
+Athenea,93,"Uribe Vallejo, Fita",Creador,NA,Colombia,Cuentos cortos: Aurora del Real,4,NA,1927-06-15,No,NA,Español,NA,Prosa Ficción,Cuento corto,NA,NA,0.6,52
+Athenea,94,"Solís Moncada, José",Creador,NA,Colombia,Sobre Athenea,4,NA,1927-06-15,No,NA,Español,NA,Prosa Ficción,NA,Para el album de la señorita Amelia Uribe Uribe,NA,0.5,53
+Athenea,95,Anónimo,Creador,NA,NA,Pensamientos,4,NA,1927-06-15,No,NA,Español,NA,Prosa Ficción,Pensamientos,NA,NA,0.5,53
+Athenea,96,Susana,Creador,Susana,NA,Las modas. Ellas,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,54
+Athenea,96,Anónimo,Ilustrador,NA,NA,NA,4,NA,1927-06-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,54
+Athenea,96,"Posada, Aureliano",Creador,NA,NA,Ellos,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,54
+Athenea,97,"Loebel, Rosa Elena",Creador,Idalia Vassalis,Venezuela,Reglas de conducta. Nuestra conducta en la iglesia,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Reglas de conducta,NA,NA,0.3,55
+Athenea,97,"González Vélez, Ernesto María",Creador,Vate,Colombia,Reglas de conducta. Como deben sentarse en los palcos las personas,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Reglas de conducta,NA,NA,0.3,55
+Athenea,98,Anónimo,Creador,NA,NA,La belleza,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,55
+Athenea,99,Anónimo,Ilustrador,NA,NA,NA,4,NA,1927-06-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.5,56
+Athenea,99,Anónimo,Ilustrador,NA,NA,NA,4,NA,1927-06-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.5,56
+Athenea,100,Anónimo,Ilustrador,NA,NA,NA,4,NA,1927-06-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,57
+Athenea,100,Anónimo,Creador,Gislana,NA,Entrevistas femeninas con la señora doña Mercedes Restrepo de Escobar,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Entrevista,NA,NA,1.1,57-58
+Athenea,101,Anónimo,Creador,NA,NA,Educación física de la mujer,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,58
+Athenea,102,Anónimo,Ilustrador,NA,NA,NA,4,NA,1927-06-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.5,59
+Athenea,102,Anónimo,Ilustrador,NA,NA,NA,4,NA,1927-06-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,59
+Athenea,102,Anónimo,Creador,NA,NA,Del cine,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,59
+Athenea,103,Anónimo,Ilustrador,NA,NA,NA,4,NA,1927-06-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,60
+Athenea,103,"Lovell, Mary Frances",Creador,"Lovell, María F.",Reino Unido,Página de los niños.,4,NA,1927-06-15,Sí,Anónimo,Español,Inglés,Prosa No Ficción,Carta,NA,NA,0.5,60
+Athenea,103,Anónimo,Creador,NA,NA,Charada,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,60
+Athenea,103,Anónimo,Creador,NA,NA,En la clase,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,60
+Athenea,104,Anónimo,Creador,NA,NA,Formularios (Conocimientos útiles: Mixtura para desengrasar el cabello),4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Formularios,NA,NA,0.1,61
+Athenea,104,Anónimo,Creador,NA,NA,Formularios (Conocimientos útiles: Arrugas/Para hacer desaparecer las arrugas),4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Formularios,NA,NA,0.1,61
+Athenea,104,Anónimo,Creador,NA,NA,Formularios (Conocimientos útiles: Caries dentaria),4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Formularios,NA,NA,0.1,61
+Athenea,104,Anónimo,Creador,NA,NA,Formularios (Conocimientos útiles: Dentrífico),4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Formularios,NA,NA,0.1,61
+Athenea,104,Anónimo,Creador,NA,NA,Formularios (Conocimientos útiles: Mixtura contra la alopecia o caída del cabello),4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Formularios,NA,NA,0.1,61
+Athenea,104,Anónimo,Creador,NA,NA,Formularios (Recetas de cocina: Modos de utilizar la piña),4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,61
+Athenea,104,Anónimo,Creador,NA,NA,Formularios (Recetas de cocina: Ensalada de piña),4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,61
+Athenea,104,Anónimo,Creador,NA,NA,Formularios (Recetas de cocina: Piña larfait),4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,61
+Athenea,104,Anónimo,Creador,NA,NA,Formularios (Recetas de cocina: Piña a la princesa),4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,61
+Athenea,104,Anónimo,Creador,NA,NA,Formularios (Recetas de cocina: Bizcocho de piña a la reina),4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,61
+Athenea,105,"Sánchez Lafaurie, Juana",Creador,Marzia de Luzignan,Colombia,Cartas,4,Mayo 7 de 1927,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Carta,NA,NA,0.2,62
+Athenea,105,"Sanín Cano, Baldomero",Creador,NA,Colombia,Cartas,4,Mayo 14 de 1927,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Carta,NA,NA,0.1,62
+Athenea,105,"Jiménez de Pertuz, Julia",Creador,"Bolena, Lydia",Colombia,Cartas,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Carta,NA,NA,0.2,62
+Athenea,105,"Londoño, Asennett",Creador,NA,NA,Cartas,4,Mayo 9 de 1927,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Carta,NA,NA,0.2,62
+Athenea,105,"Nieto Caballero, Luis Eduardo",Creador,NA,Colombia,Cartas,4,Mayo 17 de 1927,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Carta,NA,NA,0.2,62
+Athenea,105,"Rasch Isla, Miguel",Creador,NA,Colombia,Cartas,4,Mayo 19 de 1927,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Carta,NA,NA,0.1,62
+Athenea,106,"Restrepo Castro, Ana",Administrador,NA,Colombia,Preguntas y respuestas,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Preguntas y respuestas,NA,NA,0.5,63
+Athenea,107,Anónimo,Creador,NA,NA,Variedades,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,0.5,63
+Athenea,107,Anónimo,Creador,NA,NA,Comentarios,4,NA,1927-06-15,No,NA,Español,NA,Prosa No Ficción,Comentarios,NA,NA,0.5,64
+Athenea,108,Anónimo,Creador,NA,NA,NA,4,NA,1927-06-15,No,NA,Español,NA,Publicidad,NA,NA,NA,0.5,64
+Athenea,109a,"Olózaga de Cabo, Susana",Director,NA,Colombia,La mujer colombiana,5,NA,1927-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Athenea,109b,"Restrepo Castro, Ana",Administrador,NA,Colombia,La mujer colombiana,5,NA,1927-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Athenea,110,"Vélez, Bernardo",Creador,NA,NA,El pudor del genio,5,NA,1927-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.3,66-67
+Athenea,110,"Vélez, Eladio",Ilustrador,NA,Colombia,NA,5,NA,1927-07-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.1,66
+Athenea,111,Anónimo,Creador,NA,NA,Educación física de la mujer: Belleza y salud por medio de la gimnasia racional,5,NA,1927-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,67
+Athenea,112,Anónimo,Ilustrador,NA,NA,NA,5,NA,1927-07-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.4,68
+Athenea,112,Anónimo,Creador,NA,NA,Las modas. Sombreros,5,NA,1927-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,68
+Athenea,112,Anónimo,Creador,NA,NA,Las modas. El peinado,5,NA,1927-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,68
+Athenea,113,Anónimo,Ilustrador,NA,NA,NA,5,NA,1927-07-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,69
+Athenea,113,"Uribe Vallejo, Fita",Creador,NA,Colombia,Bajo la noche,5,NA,1927-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,69
+Athenea,113,"Uribe Vallejo, Fita",Creador,NA,Colombia,Plegaria,5,NA,1927-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,69
+Athenea,113,"Uribe Vallejo, Fita",Creador,NA,Colombia,Canción crepuscular,5,NA,1927-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,69
+Athenea,114,"Montoya de Restrepo, Graciela",Creador,NA,NA,Lindbergh,5,NA,1927-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.8,70
+Athenea,114,Anónimo,Ilustrador,NA,NA,NA,5,NA,1927-07-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,70
+Athenea,115,Anónimo,Ilustrador,NA,NA,NA,5,NA,1927-07-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,71
+Athenea,116,Anónimo,Ilustrador,NA,NA,NA,5,NA,1927-07-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.1,71
+Athenea,116,"Angell, George Thorndike",Creador,NA,Estados Unidos,Página de los niños. Doce lecciones para enseñar a los niños compasión a los animales,5,NA,1927-07-01,Sí,Anónimo,Español,Inglés,Prosa Ficción,NA,NA,NA,0.6,71
+Athenea,117,"Cárdenas Roa, María",Creador,Luz Stella,Colombia,Maden Style,5,NA,1927-07-01,No,NA,Español,NA,Poesía,NA,"Para ""Athenea"" con mi admiración fraterna",NA,1,72
+Athenea,118,"Jaramillo Gaitán, Uva",Creador,NA,Colombia,Cromos,5,NA,1927-07-01,No,NA,Español,NA,Prosa No Ficción,NA,"Especial para ""Athenea""",NA,0.4,73
+Athenea,118,Anónimo,Ilustrador,NA,NA,NA,5,NA,1927-07-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.4,73
+Athenea,119,"Santos Millán, Isabel",Creador,Itsih,Colombia,¡Amor!,5,NA,1927-07-01,No,NA,Español,NA,Prosa Ficción,NA,"Original para ""Athenea""",NA,0.2,73
+Athenea,120,"Molina Uribe, Antonio",Creador,NA,Colombia,El velo de la amada,5,NA,1927-07-01,No,NA,Español,NA,Prosa Ficción,NA,"Para Inés Molina M. y Arturo Euse, cariñosamente",NA,1.3,74-75
+Athenea,121,Anónimo,Ilustrador,NA,NA,NA,5,NA,1927-07-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,75
+Athenea,121,"Velásquez Botero, Samuel",Creador,NA,Colombia,El hombre,5,NA,1927-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,75
+Athenea,121,"Velásquez Botero, Samuel",Creador,NA,Colombia,NA,5,NA,1927-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,75
+Athenea,122,Anónimo,Creador,NA,NA,Formularios. Recetas de cocina. Flores,5,NA,1927-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,76
+Athenea,122,Anónimo,Creador,NA,NA,Formularios. Recetas de cocina. Flores artificiales de pasta,5,NA,1927-07-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.6,76
+Athenea,123,Anónimo,Creador,NA,NA,NA,5,NA,1927-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,76
+Athenea,124,"Botero, Francisco",Creador,NA,NA,Hasta la triste carroña,5,NA,1927-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,77
+Athenea,125,Anónimo,Ilustrador,NA,NA,NA,5,NA,1927-07-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,77
+Athenea,125,Anónimo,Ilustrador,NA,NA,NA,5,NA,1927-07-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,77
+Athenea,125,Anónimo,Ilustrador,NA,NA,NA,5,NA,1927-07-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,77
+Athenea,126,Anónimo,Ilustrador,NA,NA,NA,5,NA,1927-07-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.5,78
+Athenea,127,"Calvo, Luis Antonio",Creador,NA,Colombia,El Artista Calvo,5,NA,1927-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,78
+Athenea,128,"Jaramillo Vélez, Guillermo",Ilustrador,NA,Colombia,NA,5,NA,1927-07-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.6,79
+Athenea,129,Anónimo,Creador,NA,NA,Situación difícil,5,NA,1927-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,79
+Athenea,129,Anónimo,Creador,NA,NA,Resistencia a la moda,5,NA,1927-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,79
+Athenea,130,Anónimo,Creador,NA,NA,Comentarios,5,NA,1927-07-01,No,NA,Español,NA,Prosa No Ficción,Comentarios,NA,NA,0.5,80
+Athenea,131,Anónimo,Creador,NA,NA,NA,5,NA,1927-07-01,No,NA,Español,NA,Publicidad,NA,NA,NA,0.5,80
+Athenea,132a,"Olózaga de Cabo, Susana",Director,NA,Colombia,La mujer en la universidad,6,NA,1927-07-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Athenea,132b,"Restrepo Castro, Ana",Administrador,NA,Colombia,La mujer en la universidad,6,NA,1927-07-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Athenea,133,"López y López, José",Creador,NA,NA,Arte y artistas. Palabras sin ilación. Un libro y un hombre,6,NA,1927-07-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,"Biografía de Gregorio Vásquez, por Roberto Pizano Restrepo",1.9,82-83
+Athenea,133,Anónimo,Ilustrador,NA,NA,NA,6,NA,1927-07-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.1,82
+Athenea,134,"Fletcher Espinosa, Georgina",Creador,NA,España,La mujer con dedal,6,NA,1927-07-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,84
+Athenea,135,Anónimo,Creador,NA,NA,Modas,6,NA,1927-07-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,85
+Athenea,135,Anónimo,Ilustrador,NA,NA,NA,6,NA,1927-07-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.1,85
+Athenea,136,"Dupin de Dudevant, Amantine-Aurore-Lucile",Creador,George Sand,Francia,NA,6,NA,1927-07-15,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,0.1,85
+Athenea,136,"L'Enclos, Anne de",Creador,"de Lenclos, Ninon",Francia,NA,6,NA,1927-07-15,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,0.1,85
+Athenea,137,Anónimo,Ilustrador,NA,NA,NA,6,NA,1927-07-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,86
+Athenea,137,Anónimo,Creador,NA,NA,Matrominios,6,NA,1927-07-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,86
+Athenea,137,Anónimo,Ilustrador,NA,NA,NA,6,NA,1927-07-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,86
+Athenea,137,Anónimo,Creador,NA,NA,Matrominios,6,NA,1927-07-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,86
+Athenea,138,Anónimo,Creador,NA,NA,Elegancias,6,NA,1927-07-15,No,NA,Español,NA,Prosa No Ficción,Serie de actitudes,NA,NA,0.5,87
+Athenea,139,"Santos Millán, Isabel",Creador,Itsih,Colombia,NA,6,Mayo 22 de 1927,1927-07-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,87
+Athenea,139,"Gómez Corena, Pedro",Creador,NA,Colombia,NA,6,Julio 7 de 1927,1927-07-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,87
+Athenea,140,"Isaza de Jaramillo Meza, Blanca",Creador,NA,Colombia,A mi hijo Omar,6,NA,1927-07-15,No,NA,Español,NA,Poesía,NA,"Especial para ""Athenea""",NA,0.5,88
+Athenea,140,Anónimo,Ilustrador,NA,NA,NA,6,NA,1927-07-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.5,88
+Athenea,141,"Jaramillo Meza, Juan Bautista",Creador,NA,Colombia,Agoreria,6,NA,1927-07-15,No,NA,Español,NA,Poesía,NA,"Especial para ""Athenea""",NA,0.5,89
+Athenea,141,Anónimo,Ilustrador,NA,NA,NA,6,NA,1927-07-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.5,89
+Athenea,142,Luz Stella,Creador,NA,NA,Marila,6,NA,1927-07-15,No,NA,Español,NA,Prosa Ficción,NA,"A Fita Uribe, cariñosamente",NA,2,90-92
+Athenea,142,Anónimo,Ilustrador,NA,NA,NA,6,NA,1927-07-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,90
+Athenea,142,Anónimo,Ilustrador,NA,NA,NA,6,NA,1927-07-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,91
+Athenea,143,"Fletcher Espinosa, Georgina",Creador,NA,España,De nuestros colaboradores,6,Mayo 23 de 1927,1927-07-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,92
+Athenea,144,Anónimo,Ilustrador,NA,NA,NA,6,NA,1927-07-15,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,93
+Athenea,144,Anónimo,Creador,NA,NA,Página de los niños. Bandas de piedad,6,NA,1927-07-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.8,93
+Athenea,145,"Riva de Sella, Leopoldo",Creador,NA,España,Divagaciones deportivas,6,NA,1927-07-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,94
+Athenea,146,Anónimo,Creador,NA,NA,Sobre belleza femenina,6,NA,1927-07-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,94
+Athenea,147,Anónimo,Creador,NA,NA,Formularios. Frutas de sartén,6,NA,1927-07-15,No,NA,Español,NA,Prosa No Ficción,Formularios,NA,NA,0.5,95
+Athenea,147,Anónimo,Creador,NA,NA,Formularios. Frutillas de sartén,6,NA,1927-07-15,No,NA,Español,NA,Prosa No Ficción,Formularios,NA,NA,0.4,95
+Athenea,148,Agustín,Creador,San Agustín,Argelia,NA,6,NA,1927-07-15,Sí,Anónimo,Español,Latín,Prosa No Ficción,NA,NA,NA,0.1,95
+Athenea,149,Anónimo,Creador,NA,NA,Comentarios,6,NA,1927-07-15,No,NA,Español,NA,Prosa No Ficción,Comentarios,NA,NA,0.5,96
+Athenea,150,Anónimo,Creador,NA,NA,NA,6,NA,1927-07-15,No,NA,Español,NA,Publicidad,NA,NA,NA,0.5,96
+Athenea,151a,"Olózaga de Cabo, Susana",Director,NA,Colombia,Es preciso leer,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Athenea,151b,"Restrepo Castro, Ana",Administrador,NA,Colombia,Es preciso leer,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Athenea,152,"Álvarez R., Lisandro",Creador,,Colombia,Crimen de amor,8,NA,1927-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.4,114-116
+Athenea,153,Anónimo,Creador,NA,NA,El centavo de navidad,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,116
+Athenea,153,Anónimo,Ilustrador,NA,NA,NA,8,NA,1927-09-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,116
+Athenea,154,"Solís Moncada, José",Creador,NA,Colombia,Una idea blanca,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,"Para la revista ""Athenea"" con toda simpatía",NA,1,117
+Athenea,155,Anónimo,Creador,NA,NA,El aguinaldo de Agua de Dios,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,118
+Athenea,156,Anónimo,Creador,NA,NA,NA,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,118
+Athenea,156,Anónimo,Ilustrador,NA,NA,NA,8,NA,1927-09-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.1,118
+Athenea,156,Anónimo,Ilustrador,NA,NA,NA,8,NA,1927-09-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.1,118
+Athenea,157,"Maya, Luz",Creador,NA,NA,NA,8,NA,1927-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,118
+Athenea,158,Anónimo,Ilustrador,NA,NA,NA,8,NA,1927-09-01,No,NA,NA,NA,Imagen,NA,NA,NA,1,119
+Athenea,159,"Euse Sánchez, Arturo",Creador,NA,NA,Serrana,8,NA,1927-09-01,No,NA,Español,NA,Poesía,NA,Para Fita Uribe,NA,0.3,120
+Athenea,160,"Botero, Francisco",Creador,NA,NA,Leve,8,NA,1927-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,120
+Athenea,161,"Ávila, Alfonso María de",Creador,NA,NA,Nocturno XXXII,8,NA,1927-09-01,No,NA,Español,NA,Poesía,NA,"(Inédito para ""Athenea""",NA,0.2,120
+Athenea,162,"León Gómez, Adolfo",Creador,NA,Colombia,Desilusión,8,NA,1927-09-01,No,NA,Español,NA,Poesía,NA,Para José Solís Moncada,NA,0.4,120
+Athenea,163,Anónimo,Creador,NA,NA,Tocador ideal,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,Formularios,NA,NA,1,121
+Athenea,164,Anónimo,Creador,NA,NA,Rompecabezas,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,122
+Athenea,165,Anónimo,Creador,Juancho Q.,NA,De nuestros colaboradores,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,123
+Athenea,165,"Castro, Cristóbal de",Creador,NA,España,De nuestros colaboradores. Nos omnis moriar,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,123
+Athenea,165,"Segura, Silvino",Creador,NA,Colombia,De nuestros colaboradores,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,123
+Athenea,165,"Ávila, Alfonso María de",Creador,NA,NA,De nuestros colaboradores. La rosa que me diste,8,NA,1927-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,123
+Athenea,166,Anónimo,Ilustrador,NA,NA,NA,8,NA,1927-09-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,124
+Athenea,166,Anónimo,Creador,NA,NA,Originalidades de la moda,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,124
+Athenea,166,Anónimo,Ilustrador,NA,NA,NA,8,NA,1927-09-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,124
+Athenea,166,Anónimo,Creador,NA,NA,Originalidades de la moda,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,124
+Athenea,167,Anónimo,Creador,NA,NA,Modas,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,125
+Athenea,167,Anónimo,Ilustrador,NA,NA,NA,8,NA,1927-09-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,125
+Athenea,167,Anónimo,Ilustrador,NA,NA,NA,8,NA,1927-09-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,125
+Athenea,168,"Clapiers, Luc de",Creador,Vauvenargues,Francia,NA,8,NA,1927-09-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,0.4,125
+Athenea,169,"Grün, A.",Creador,NA,NA,NA,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,125
+Athenea,170,"Pacón, P.",Creador,NA,NA,NA,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,125
+Athenea,171,Anónimo,Creador,NA,NA,Formularios. Sopa de alcachofas,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,126
+Athenea,171,Anónimo,Creador,NA,NA,Formularios. Aguacates a la imperial,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,126
+Athenea,171,Anónimo,Creador,NA,NA,Formularios. Chartreuse de pollo,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,126
+Athenea,171,Anónimo,Creador,NA,NA,Formularios. Sorbete de moras,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,126
+Athenea,171,Anónimo,Creador,NA,NA,Formularios. Biftec con salsa madera,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,126
+Athenea,171,Anónimo,Creador,NA,NA,Formularios. Salsa madera,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,126
+Athenea,171,Anónimo,Creador,NA,NA,Formularios. Papas con queso,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,126
+Athenea,171,Anónimo,Creador,NA,NA,Formularios. Crema de piña napolitana,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,126
+Athenea,172,Anónimo,Creador,NA,NA,Fecha memorable,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,126
+Athenea,173,Anónimo,Creador,NA,NA,Página de los niños,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,127
+Athenea,173,Anónimo,Ilustrador,NA,NA,NA,8,NA,1927-09-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,127
+Athenea,174,Anónimo,Creador,NA,NA,Comentarios,8,NA,1927-09-01,No,NA,Español,NA,Prosa No Ficción,Comentarios,NA,NA,0.5,128
+Athenea,175,Anónimo,Creador,NA,NA,NA,8,NA,1927-09-01,No,NA,Español,NA,Publicidad,NA,NA,NA,0.5,128
+Athenea,176a,"Olózaga de Cabo, Susana",Director,NA,Colombia,Jorge Isaacs,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Athenea,176b,"Uribe Vallejo, Fita",Administrador,NA,Colombia,Jorge Isaacs,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Athenea,177,Anónimo,Ilustrador,NA,NA,NA,9,NA,1927-10-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,130
+Athenea,177,"Martín, José",Creador,NA,NA,NA,9,NA,1927-10-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.7,130
+Athenea,178,Anónimo,Creador,NA,NA,La única apuesta que ganó,9,NA,1927-10-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.1,130
+Athenea,179,"Facio Lince, José María",Creador,NA,Colombia,"Discurso pronunciado por el doctor Jose M. Facio Lince. Apertura del Colejio de Santa Teres de Jesús, de Medellín el 7 de abril de 1850",9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,Discurso,NA,NA,1.7,131-132
+Athenea,180,Anónimo,Creador,NA,NA,Tocador ideal. Contra los barrillos o puntos negros de la cara y la nariz,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,Formularios,NA,NA,0.3,132
+Athenea,181,"Santos Millán, Isabel",Creador,Itsih,Colombia,Lucha de un alma,9,NA,1927-10-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.4,133-135
+Athenea,182a,"Uribe Álvarez, Eduardo",Creador,NA,NA,Sociedad protectora de animales,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,135
+Athenea,182b,"Campuzano S., F. Luis",Creador,NA,NA,Sociedad protectora de animales,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,135
+Athenea,182c,"Barriga S., R. Alberto",Creador,NA,NA,Sociedad protectora de animales,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,135
+Athenea,183,"Carrasquilla, Tomás",Creador,NA,Colombia,Salutaris hostia,9,NA,1927-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,135
+Athenea,184,"Ibarbourou, Juana de",Creador,NA,Uruguay,La promesa,9,NA,1927-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,136
+Athenea,185,"Ibarbourou, Juana de",Creador,NA,Uruguay,Vida aldeana,9,NA,1927-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,136
+Athenea,186,"Luisi, Luisa",Creador,"Luisi Janicki, Luisa",Uruguay,Mis versos,9,NA,1927-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,136
+Athenea,187,"Luisi, Luisa",Creador,"Luisi Janicki, Luisa",Uruguay,Fue un viento de tragedia…,9,NA,1927-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,136
+Athenea,188,"Fort, Paul",Creador,NA,Francia,Mi retrato,9,NA,1927-10-01,Sí,Anónimo,Español,Francés,Poesía,NA,NA,NA,0.4,137
+Athenea,188,"Fort, Paul",Ilustrador,NA,Francia,NA,9,NA,1927-10-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,137
+Athenea,189,"Fort, Paul",Creador,NA,Francia,Filomela,9,NA,1927-10-01,Sí,Anónimo,Español,Francés,Poesía,NA,NA,NA,0.2,137
+Athenea,190,"Fort, Paul",Creador,NA,Francia,La zagala que ha muerto enamorada,9,NA,1927-10-01,Sí,Anónimo,Español,Francés,Poesía,NA,NA,NA,0.2,137
+Athenea,191,"Bardina Castarà, Joan",Creador,NA,España,La educación de los hijos. El espíritu de odio por el Dr. Bardina,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,NA,Na,NA,1,138
+Athenea,192,Anónimo,Ilustrador,NA,NA,NA,9,NA,1927-10-01,No,NA,NA,NA,Imagen,Modelo de dormitorio,NA,NA,0.5,139
+Athenea,192,Anónimo,Ilustrador,NA,NA,NA,9,NA,1927-10-01,No,NA,NA,NA,Imagen,Modelo de biblioteca,NA,NA,0.5,139
+Athenea,193,Anónimo,Creador,NA,NA,Formularios. Comida sencilla. Consomé fácil,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,140
+Athenea,193,Anónimo,Creador,NA,NA,Formularios. Comida sencilla. Molde de pescado,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,140
+Athenea,193,Anónimo,Creador,NA,NA,Formularios. Comida sencilla. Rosas de papas,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,140
+Athenea,193,Anónimo,Creador,NA,NA,Formularios. Comida sencilla. Ponche de licores,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,140
+Athenea,193,Anónimo,Creador,NA,NA,Formularios. Comida sencilla. Pernil de cordero asado,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,140
+Athenea,193,Anónimo,Creador,NA,NA,Formularios. Comida sencilla. Salsa de yerbabuena,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,140
+Athenea,193,Anónimo,Creador,NA,NA,Formularios. Comida sencilla. Ensalada de pepinos,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,140
+Athenea,193,Anónimo,Creador,NA,NA,Formularios. Comida sencilla. Postre del día,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,140
+Athenea,193,Anónimo,Creador,NA,NA,En una tienda de géneros,9,NA,1927-10-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,140
+Athenea,194,Anónimo,Creador,NA,NA,El aguinaldo de Agua de Dios,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,141
+Athenea,195,Anónimo,Ilustrador,NA,NA,NA,9,NA,1927-10-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,141
+Athenea,196,"Jaramillo, Manuel José",Creador,"Jaramillo, Manuel J.",Colombia,El jumento,9,NA,1927-10-01,No,NA,Español,NA,Poesía,NA,A la gentil poetisa Rosario Sansores,NA,0.3,141
+Athenea,197,Anónimo,Ilustrador,NA,NA,NA,9,NA,1927-10-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,142
+Athenea,197,Anónimo,Creador,NA,NA,Página de los niños,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,142
+Athenea,198,Anónimo,Ilustrador,NA,NA,NA,9,NA,1927-10-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,143
+Athenea,198,Anónimo,Ilustrador,NA,NA,NA,9,NA,1927-10-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,143
+Athenea,198,Anónimo,Creador,NA,NA,Modas,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,143
+Athenea,199,Anónimo,Creador,NA,NA,Comentarios,9,NA,1927-10-01,No,NA,Español,NA,Prosa No Ficción,Comentarios,NA,NA,0.5,144
+Athenea,200,Anónimo,Creador,NA,NA,NA,9,NA,1927-10-01,No,NA,Español,NA,Publicidad,NA,NA,NA,0.5,144
+Athenea,201,"García Sanchiz, Federico",Creador,NA,España,El invalido,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,NA,"Para ""Athenea""",NA,1,NA
+Athenea,202,"Uribe V., Alberto",Creador,NA,NA,Lo de siempre…,10,NA,1927-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,146
+Athenea,203,Anónimo,Creador,NA,NA,Una Escritora Profesora de Belleza,10,NA,1927-11-01,Sí,Anónimo,Español,NA,Prosa No Ficción,NA,NA,NA,0.9,147
+Athenea,204,Anónimo,Creador,NA,NA,Pensamientos,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,147
+Athenea,205,"Hernández Mesa, Mauro",Creador,NA,NA,Leyendas,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,NA,Dedicada al modesto sabio Joaquín Antonio Uribe,NA,1.2,"148,149"
+Athenea,206,Anónimo,Creador,NA,NA,Formularios. Sopa napoles,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,149
+Athenea,206,Anónimo,Creador,NA,NA,Formularios. Chateaubriand,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,149
+Athenea,206,Anónimo,Creador,NA,NA,Formularios. Verduras para el anterior chateaubriand,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.3,149
+Athenea,206,Anónimo,Creador,NA,NA,Formularios. Puré de papas,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,149
+Athenea,206,Anónimo,Creador,NA,NA,Formularios. Tomates rellenos,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,149
+Athenea,206,Anónimo,Creador,NA,NA,Formularios. Frituras de banano,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,149
+Athenea,207,Francisco Bruno,Creador,NA,NA,Grazia Deledda y la literatura femenina italiana,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.3,150-151
+Athenea,207,Anónimo,Ilustrador,NA,NA,Grazia Deledda-Escritora italiana,10,NA,1927-11-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.1,150
+Athenea,208,Anónimo,Creador,NA,NA,El aguinaldo de Agua de Dios,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,151
+Athenea,209,Anónimo,Creador,NA,NA,La simpatía,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,151
+Athenea,209,Anónimo,Creador,NA,NA,Ha partido,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,151
+Athenea,210,"Carrere Moreno, Emilio",Creador,NA,España,Estampa de nacimiento,10,NA,1927-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,NA
+Athenea,211,Anónimo,Ilustrador,NA,NA,NA,10,NA,1927-11-01,No,NA,NA,NA,Imagen,NA,NA,NA,1.5,NA
+Athenea,212,Anónimo,Ilustrador,NA,NA,NA,10,NA,1927-11-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,154
+Athenea,212,"Tagore, Rabindranath",Creador,NA,India,"Poemas de ""La ofrenda lírica"". Ya es hora…",10,NA,1927-11-01,Sí,Anónimo,Español,"Bengalí, inglés",Poesía,Poema,NA,NA,0.1,154
+Athenea,212,"Tagore, Rabindranath",Creador,NA,India,"Poemas de ""La ofrenda lírica"". Tu me has hecho, Señor, interminable",10,NA,1927-11-01,Sí,Anónimo,Español,"Bengalí, inglés",Poesía,Poema,NA,NA,0.3,154
+Athenea,212,"Tagore, Rabindranath",Creador,NA,India,"Poemas de ""La ofrenda lírica"". En la suave pendiente del río desolado",10,NA,1927-11-01,Sí,Anónimo,Español,"Bengalí, inglés",Poesía,Poema,NA,NA,0.4,154
+Athenea,213,Anónimo,Ilustrador,NA,NA,NA,10,NA,1927-11-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,155
+Athenea,213,Anónimo,Creador,NA,NA,Página de los niños,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,155
+Athenea,214,Anónimo,Creador,NA,NA,Educación física de la mujer,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.8,156
+Athenea,214,Anónimo,Ilustrador,NA,NA,NA,10,NA,1927-11-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.1,156
+Athenea,215,Anónimo,Creador,NA,NA,NA,10,NA,1927-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.1,156
+Athenea,216,Anónimo,Creador,NA,NA,Modas,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.8,159
+Athenea,216,Anónimo,Ilustrador,NA,NA,NA,10,NA,1927-11-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,159
+Athenea,217,Anónimo,Creador,NA,NA,Comentarios,10,NA,1927-11-01,No,NA,Español,NA,Prosa No Ficción,Comentarios,NA,NA,0.5,160
+Athenea,218,Anónimo,Creador,NA,NA,NA,10,NA,1927-11-01,No,NA,Español,NA,Publicidad,NA,NA,NA,0.5,160
+Athenea,219a,"Olózaga de Cabo, Susana",Director,NA,Colombia,Importante reforma,11,NA,1927-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Athenea,219b,"Uribe Vallejo, Fita",Administrador,NA,Colombia,Importante reforma,11,NA,1927-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Athenea,220,"Montoya A., Justo",Creador,NA,NA,El patron grijalba,11,NA,1927-12-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.7,162
+Athenea,221,"Maudet, Alejandro José",Creador,Alejandro Sux,Argentina,Soy casi Dios,11,NA,1927-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,162
+Athenea,222,"Uribe Muñoz, Bernardo",Creador,NA,Colombia,El Rey Sibarita,11,NA,1927-12-01,No,NA,Español,NA,Prosa Ficción,NA,A Romelia Agudelo y al Dr. Jose J. Gómez R.,NA,0.8,163
+Athenea,222,Anónimo,Ilustrador,NA,NA,NA,11,NA,1927-12-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,163
+Athenea,223,Anónimo,Creador,NA,NA,Formularios. Pasta de hojaldre,11,NA,1927-12-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.3,164
+Athenea,223,Anónimo,Creador,NA,NA,Formularios. Pastel de pollo,11,NA,1927-12-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.3,164
+Athenea,223,Anónimo,Creador,NA,NA,Formularios. Doucreuts,11,NA,1927-12-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.2,164
+Athenea,223,Anónimo,Creador,NA,NA,Formularios. Helado de tomate,11,NA,1927-12-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,164
+Athenea,223,Anónimo,Creador,NA,NA,Formularios. Postre napoleon,11,NA,1927-12-01,No,NA,Español,NA,Prosa No Ficción,Receta de cocina,NA,NA,0.1,164
+Athenea,224,"Uribe Muñoz, Bernardo",Creador,NA,Colombia,Zoila Aurora Caceres (Evangelina),11,NA,1927-12-01,No,NA,Español,NA,Prosa No Ficción,NA,"Del libro en preparación ""Mujeres de América"". Para mi amigo Efe Gómez",NA,2.3,165-167
+Athenea,224,Anónimo,Ilustrador,NA,NA,NA,11,NA,1927-12-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,165
+Athenea,224,Anónimo,Ilustrador,NA,NA,NA,11,NA,1927-12-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,165
+Athenea,225,"Galindo, Marco Aurelio",Creador,NA,México​,Novios,11,NA,1927-12-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,167
+Athenea,226,"Fletcher Espinosa, Georgina",Creador,NA,España,Para las damas. La fiesta de la costura,11,NA,1927-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,168-169
+Athenea,226,Anónimo,Ilustrador,NA,NA,NA,11,NA,1927-12-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.1,168
+Athenea,227,Anónimo,Creador,NA,NA,Variedades,11,NA,1927-12-01,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,0.9,169
+Athenea,228,"Gómez Henao, Graciela",Creador,NA,Colombia,Nochebuena?,11,NA,1927-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.9,170-171
+Athenea,228,Anónimo,Ilustrador,NA,NA,NA,11,NA,1927-12-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,170
+Athenea,229,"Nieto, Ricardo",Creador,NA,Colombia,Estrofas de colores,11,NA,1927-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,171
+Athenea,230,Ovidio,Creador,NA,Italia,NA,11,NA,1927-12-01,Sí,Anónimo,Español,Latín,Prosa No Ficción,NA,NA,NA,0.1,171
+Athenea,231,Anónimo,Creador,NA,NA,Página de los niños.,11,NA,1927-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,172-173
+Athenea,231,Anónimo,Ilustrador,NA,NA,NA,11,NA,1927-12-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,172
+Athenea,231,Anónimo,Creador,NA,NA,Tocador ideal,11,NA,1927-12-01,No,NA,Español,NA,Prosa No Ficción,Formularios,NA,NA,0.7,173
+Athenea,232,Anónimo,Creador,NA,NA,Educación física de la mujer,11,NA,1927-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,174
+Athenea,233,Anónimo,Creador,NA,NA,Decía Carmen Sylva,11,NA,1927-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,174
+Athenea,234,Susana,Creador,Susana,NA,Modas,11,NA,1927-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,175
+Athenea,235,Anónimo,Creador,NA,NA,NA,11,NA,1927-12-01,No,NA,Español,NA,Publicidad,NA,NA,NA,0.5,176
+Athenea,236,Anónimo,Creador,NA,NA,Recortes,11,NA,1927-12-01,No,NA,Español,NA,Prosa No Ficción,Recortes,NA,NA,0.5,176
+Athenea,237a,"Olózaga de Cabo, Susana",Director,NA,Colombia,Tomás Carrasquilla,12,NA,1928-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.8,177
+Athenea,237b,"Uribe Vallejo, Fita",Administrador,NA,Colombia,Tomás Carrasquilla,12,NA,1928-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.8,177
+Athenea,238,"Mejía Arango, José Félix",Ilustrador,Pepe Mexía,Colombia,NA,12,NA,1928-01-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,177
+Athenea,239,"Restrepo Restrepo, Carlos Eugenio",Creador,"Restrepo, Carlos E.",Colombia,Tomas el mago,12,NA,1928-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,178
+Athenea,240,"Molina, Ana C. de",Creador,NA,NA,El maestro Carrasquilla,12,NA,1928-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.8,179
+Athenea,240,Anónimo,Ilustrador,NA,NA,NA,12,NA,1928-01-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,179
+Athenea,241,Anónimo,Creador,NA,NA,El vuelo de Lindbergh,12,NA,1928-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,180
+Athenea,241,Anónimo,Ilustrador,NA,NA,NA,12,NA,1928-01-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,180
+Athenea,242,Anónimo,Creador,NA,NA,Alcantarillado y pavimentación,12,NA,1928-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,180
+Athenea,243,Anónimo,Creador,NA,NA,1000 niños sin colegio,12,NA,1928-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,180
+Athenea,244,Anónimo,Creador,NA,NA,El sabor de la vida,12,NA,1928-01-01,No,NA,Español,NA,Reseña,NA,NA,El sabor de la vida,0.1,180
+Athenea,245,"Solís Moncada, José",Creador,NA,Colombia,Una gran montaña,12,NA,1928-01-01,No,NA,Español,NA,Prosa No Ficción,NA,En Athenea para Doña Susana Olozaga de Cabo amistosamente,NA,0.8,181
+Athenea,246,"Pereira Teixeira de Vasconcelos, Joaquim",Creador,Teixeira de Pascoaes,Portugal,Nuevo amor,12,NA,1928-01-01,Sí,Anónimo,Español,Portugués,Poesía,NA,NA,NA,0.2,181
+Athenea,247,"González Gómez, José Ignacio",Creador,NA,NA,Tomás Carrasquilla. Crítico y novelista,12,NA,1928-01-01,No,NA,Español,NA,Reseña,NA,NA,Homilías,0.8,182
+Athenea,248,"Lowell, Amy",Creador,NA,Estados Unidos,La prenda,12,NA,1928-01-01,Sí,Anónimo,Español,Inglés,Poesía,NA,NA,NA,0.2,182
+Athenea,249,"Uribe Muñoz, Bernardo",Creador,NA,Colombia,Eneida para Kundry,12,NA,1928-01-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,183
+Athenea,250,"Cabo, Ignacio",Creador,NA,NA,Para Tomás Carrasquilla,12,NA,1928-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,183
+Athenea,251,Anónimo,Creador,NA,NA,NA,12,NA,1928-01-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.1,183
+Athenea,252,"Liévano, Roberto",Creador,NA,NA,Tomás Carrasquilla,12,NA,1928-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,184
+Athenea,253,"Valencia, Guillermo",Creador,NA,Colombia,Reliquias,12,NA,1928-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,185
+Athenea,253,Anónimo,Ilustrador,NA,NA,NA,12,NA,1928-01-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.5,185
+Athenea,254,"Maseras, Alfonso",Creador,NA,España,Poemas (Nocturno),12,NA,1928-01-01,Sí,Anónimo,Español,Catalán,Poesía,Poema,NA,NA,0.3,186
+Athenea,254,"Maseras, Alfonso",Creador,NA,España,Poemas (Durmiose el mar),12,NA,1928-01-01,Sí,Anónimo,Español,Catalán,Poesía,Poema,NA,NA,0.5,186
+Athenea,254,Anónimo,Ilustrador,NA,NA,NA,12,NA,1928-01-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,186
+Athenea,255,Anónimo,Creador,NA,NA,Educación física de la mujer,12,NA,1928-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,187
+Athenea,255,Anónimo,Ilustrador,NA,NA,NA,12,NA,1928-01-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,187
+Athenea,256,"Rieux, Fanny-Adèle de",Creador,Madame de Rieux,Francia,Pensamientos,12,NA,1928-01-01,Sí,Anónimo,Español,Francés,Prosa Ficción,NA,NA,NA,0.1,187
+Athenea,257,Anónimo,Ilustrador,NA,NA,NA,12,NA,1928-01-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.3,188
+Athenea,257,Anónimo,Creador,NA,NA,Página de los niños,12,NA,1928-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.1,188-189
+Athenea,258,Anónimo,Creador,NA,NA,Tocador ideal,12,NA,1928-01-01,No,NA,Español,NA,Prosa No Ficción,Formularios,NA,NA,0.6,189
+Athenea,259,Anónimo,Creador,Susana,NA,Modas,12,NA,1928-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,190
+Athenea,259,Anónimo,Ilustrador,NA,NA,NA,12,NA,1928-01-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.5,190
+Athenea,260,Anónimo,Creador,L. A. R.,NA,Semblanzas heroicas,12,NA,1928-01-01,No,NA,Español,NA,Reseña,Semblanza,NA,Semblanzas heroicas,0.6,191
+Athenea,261,Anónimo,Creador,NA,NA,Clase de moral,12,NA,1928-01-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,191
+Athenea,262,Anónimo,Creador,NA,NA,NA,12,NA,1928-01-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,192

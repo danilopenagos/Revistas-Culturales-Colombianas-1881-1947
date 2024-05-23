@@ -1,0 +1,304 @@
+NombreR,NumContrib,Colaborador,Roles,Seudonimo,PaisOrigen,Titulo,NumFasciculo,Fecha,Fecha-ISO,Traduccion,Traductor,Lengua,LenguaOriginal,Tipo,TipoIndice,Dedicatoria,ObrasResenadas,CantidadPaginas,Paginacion
+El Montañés,1,"Montoya, Gabriel",Ilustrador,NA,Colombia,El montañero,Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.2,SD
+El Montañés,2,Anónimo,Creador,NA,NA,Estatutos de la Compañía de El Montañés. Art. 1°,Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,NA,NA,Prosa No Ficción,Estatuto,NA,NA,0.2,SD
+El Montañés,3,Anónimo,Creador,NA,NA,Circular de colaboración. 20 de Agosto de 1897,Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,NA,NA,Prosa No Ficción,Circular,NA,NA,0.3,SD
+El Montañés,4,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual. N° 1° Pág. 45,Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,NA,NA,Prosa No Ficción,Reseña,NA,NA,0.5,SD
+El Montañés,5,"Rodríguez, Horacio Marino",Ilustrador,H. M. R.,Colombia,Samuel Velásquez,Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,NA,NA,Imagen,NA,NA,NA,0.6,1
+El Montañés,6,"Latorre, Gabriel",Creador,L,Colombia,Samuel Velásquez,Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,11.2,1-1
+El Montañés,7,"Rodríguez, Horacio Marino",Ilustrador,H. M. R.,Colombia,La lucha,Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,13
+El Montañés,8,"Velásquez Botero, Samuel",Creador,NA,Colombia,La lucha,Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,13-15
+El Montañés,9,"Velásquez Botero, Samuel",Creador,NA,Colombia,Fragmento de una Novela inédita,Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,Español,NA,Prosa Ficción,Novela,NA,NA,3.1,15-18
+El Montañés,10,"Rodríguez, Horacio Marino",Creador,H,Colombia,Dos cuadros de Cano,Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,"Retratos del ""Dr. Nuñez"" y el ""Dr. Holguín"" de Francisco Antonio Cano",3.8,19-22
+El Montañés,11,"Carrasquilla, Tomás",Creador,NA,Colombia,En la Diestra de Dios Padre,Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,21.2,23-44
+El Montañés,12,"Rodríguez, Horacio Marino",Ilustrador,NA,Colombia,La reunión,Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,27
+El Montañés,13,"Rodríguez, Horacio Marino",Ilustrador,NA,Colombia,La muerte,Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,32
+El Montañés,14,"Rodríguez, Horacio Marino",Ilustrador,NA,Colombia,El pequeño Peralta,Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.2,43
+El Montañés,15,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,Español,NA,Prosa No Ficción,Reseña,NA,NA,12.5,44-56
+El Montañés,16a,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez y Mesa,Colombia,Rafael Pérez,Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.8,57
+El Montañés,16b,"Mesa, Rafael",Ilustrador,Rodríguez y Mesa,Colombia,Rafael Pérez,Vol. 1. Núm. 1,Septiembre de 1897,1897-09-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.8,57
+El Montañés,17,"Pérez, Rafael",Creador,NA,Colombia,De la Educación,Vol. 1. Núm. 2,Octubre de 1897,1897-10-01,No,NA,Español,NA,Prosa No Ficción,Discurso,NA,NA,10,58-67
+El Montañés,18,"Escovar, José María",Creador,NA,Colombia,Carta Abierta,Vol. 1. Núm. 2,Octubre de 1897,1897-10-01,No,NA,Español,NA,Prosa No Ficción,Carta,"Pérez, Laura de",NA,7,68-74
+El Montañés,19,"Montoya, Gabriel",Ilustrador,NA,Colombia,El escritor,Vol. 1. Núm. 2,Octubre de 1897,1897-10-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,75
+El Montañés,20,"Montoya, José",Creador,NA,Colombia,La Jeringuilla de Pravaz,Vol. 1. Núm. 2,Octubre de 1897,1897-10-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,15.6,75-90
+El Montañés,21,Anónimo,Ilustrador,NA,NA,NA,Vol. 1. Núm. 2,Octubre de 1897,1897-10-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.2,90
+El Montañés,22,"Beyle, Henri",Creador,Stendhal,Francia,De un Párrafo de Stendhal,Vol. 1. Núm. 2,Octubre de 1897,1897-10-01,Sí,"Gómez Escobar, Francisco",Español,Francés,Poesía,NA,"Johnson, Arturo",NA,1,91
+El Montañés,23,"Fernández Avendaño, Enrique Wenceslao",Creador,NA,Colombia,Su Última Oración,Vol. 1. Núm. 2,Octubre de 1897,1897-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,92
+El Montañés,24,"Botero Guerra, Camilo",Creador,Don Juan del Martillo,Colombia,A Efe Gómez,Vol. 1. Núm. 2,Octubre de 1897,1897-10-01,No,NA,Español,NA,Prosa No Ficción,Carta,NA,NA,2.5,92-94
+El Montañés,25,"Vélez, Bonifacio",Creador,NA,Colombia,"""El moro"" de Marroquín - Y vicios ocultos llamados Redhibitorios",Vol. 1. Núm. 2,Octubre de 1897,1897-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4,95-98
+El Montañés,26,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 1. Núm. 2,Octubre de 1897,1897-10-01,No,NA,Español,NA,Prosa No Ficción,Reseña,NA,NA,3.5,99-102
+El Montañés,27,Anónimo,Ilustrador,NA,Colombia,Las señoras,Vol. 1. Núm. 2,Octubre de 1897,1897-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,99
+El Montañés,28,Anónimo,Creador,NA,Colombia,Documentos Importantes,Vol. 1. Núm. 2,Octubre de 1897,1897-10-01,No,NA,Español,NA,Prosa No Ficción,Acta,NA,NA,2.1,102-104
+El Montañés,29,Anónimo,Ilustrador,NA,Colombia,Retrato de Tomás Carrasquilla,Vol. 1. Núm. 3,Noviembre de 1897,1897-11-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.8,105
+El Montañés,30,"Montoya, José",Reseñista,NA,Colombia,Tomás Carrasquilla,Vol. 1. Núm. 3,Noviembre de 1897,1897-11-01,No,NA,Español,NA,Reseña,NA,NA,"""Frutos de mi Tierra"" y  ""Simón el mago"" de Tomás Carrasquilla",7.6,105-112
+El Montañés,31,"Jiménez Suárez, Tobías",Creador,NA,Colombia,Perfiles Antioqueños - El estudiante,Vol. 1. Núm. 3,Noviembre de 1897,1897-11-01,No,NA,Español,NA,Poesía,NA,"Gómez, Francisco",NA,0.5,112
+El Montañés,32,"Rodríguez, Horacio Marino",Ilustrador,H. M. R.,Colombia,Blanca,Vol. 1. Núm. 3,Noviembre de 1897,1897-11-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,113
+El Montañés,33,"Carrasquilla, Tomás",Creador,NA,Colombia,Blanca,Vol. 1. Núm. 3,Noviembre de 1897,1897-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,20.5,113-133
+El Montañés,34a,"Mesa, Rafael",Ilustrador,Rodríguez y Mesa,Colombia,La niña y el gato,Vol. 1. Núm. 3,Noviembre de 1897,1897-11-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.2,115
+El Montañés,34b,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez y Mesa,Colombia,La niña y el gato,Vol. 1. Núm. 3,Noviembre de 1897,1897-11-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.2,115
+El Montañés,35,"Rodríguez, Melitón",Ilustrador,NA,Colombia,Niña,Vol. 1. Núm. 3,Noviembre de 1897,1897-11-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.5,121
+El Montañés,36,"Montoya, Gabriel",Ilustrador,NA,Colombia,Virgen María,Vol. 1. Núm. 3,Noviembre de 1897,1897-11-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.5,125
+El Montañés,37,"Montoya, Gabriel",Ilustrador,NA,Colombia,La pileta,Vol. 1. Núm. 3,Noviembre de 1897,1897-11-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,133
+El Montañés,38,"Ospina, Pedro Nel",Creador,NA,Colombia,Río Arriba (de Zaragoza Á Dosbocas),Vol. 1. Núm. 3,Noviembre de 1897,1897-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,5.4,134-139
+El Montañés,39,"Vélez, Bonifacio",Creador,NA,Colombia,"""El moro"" de Marroquín - Y vicios ocultos llamados Redhibitorios (conclusión)",Vol. 1. Núm. 3,Noviembre de 1897,1897-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7,139-146
+El Montañés,40,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 1. Núm. 3,Noviembre de 1897,1897-11-01,No,NA,Español,NA,Prosa No Ficción,Reseña,NA,NA,4.6,146-150
+El Montañés,41,Anónimo,Creador,NA,Colombia,La junta Redactora,Vol. 1. Núm. 3,Noviembre de 1897,1897-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,150
+El Montañés,42,"Montoya, Gabriel",Ilustrador,NA,Colombia,Alegoría de Nochebuena (fotograbado),Vol. 1. Núm. 4,Diciembre de 1897,1897-12-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,1,151
+El Montañés,43,"Cano Gutiérrez, Fidel",Creador,NA,Colombia,Visitas tenemos [En la Navidad de 1896],Vol. 1. Núm. 4,Diciembre de 1897,1897-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.4,152-153
+El Montañés,44,"Carrasquilla, Tomás",Creador,NA,Colombia,Dimitas Arias,Vol. 1. Núm. 4,Diciembre de 1897,1897-12-01,No,NA,Español,NA,Prosa No Ficción,NA,"Ángel, Uribe",NA,35,153-188
+El Montañés,45,"Montoya, Gabriel",Ilustrador,NA,Colombia,Alacrán,Vol. 1. Núm. 4,Diciembre de 1897,1897-12-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.1,174
+El Montañés,46,"Montoya, Gabriel",Ilustrador,NA,Colombia,La niña,Vol. 1. Núm. 4,Diciembre de 1897,1897-12-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,176
+El Montañés,47,"Montoya, Gabriel",Ilustrador,NA,Colombia,El bebe,Vol. 1. Núm. 4,Diciembre de 1897,1897-12-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.4,183
+El Montañés,48,"Escovar, José María",Creador,J. M. E.,Colombia,"""Rompe-Cabezas"" para Nochebuena",Vol. 1. Núm. 4,Diciembre de 1897,1897-12-01,No,NA,Español,NA,Prosa No Ficción,Rompe-Cabezas,NA,NA,5,188-192
+El Montañés,49,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 1. Núm. 4,Diciembre de 1897,1897-12-01,No,NA,Español,NA,Prosa No Ficción,Reseña,NA,NA,4.5,192-196
+El Montañés,50,"Cano, Francisco Antonio",Ilustrador,NA,Colombia,Luis J. Muñoz,Vol. 1. Núm. 5,Enero de 1898,1898-01-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.1,197
+El Montañés,51,"Muñoz y Capurón, Luis Javier",Creador,"Muñoz, Luis J.",Guatemala,Los Obstáculos de la Educación,Vol. 1. Núm. 5,Enero de 1898,1898-01-01,No,NA,Español,NA,Prosa No Ficción,Discurso,NA,NA,9.6,197-206
+El Montañés,52,"Ospina Vásquez, Mariano",Creador,M. O. V.,Colombia,Aguardando el Año Nuevo,Vol. 1. Núm. 5,Enero de 1898,1898-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.1,206-207
+El Montañés,53,"Montoya, Gabriel",Ilustrador,NA,Colombia,Paisaje,Vol. 1. Núm. 5,Enero de 1898,1898-01-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,208
+El Montañés,54,"Olano, Ricardo",Creador,NA,Colombia,Apolinar (Cuadritos de tierra caliente),Vol. 1. Núm. 5,Enero de 1898,1898-01-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,10.6,208-218
+El Montañés,55,"Montoya, Gabriel",Ilustrador,NA,Colombia,Paisaje,Vol. 1. Núm. 5,Enero de 1898,1898-01-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,213
+El Montañés,56,"Montoya, Gabriel",Ilustrador,NA,Colombia,Bosque,Vol. 1. Núm. 5,Enero de 1898,1898-01-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.2,218
+El Montañés,57,"Restrepo Restrepo, Antonio María",Creador,Abel Farina,Colombia,Orgullo,Vol. 1. Núm. 5,Enero de 1898,1898-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,219
+El Montañés,58,"Restrepo, Lucio A.",Creador,NA,Colombia,Antioquia y Cauca,Vol. 1. Núm. 5,Enero de 1898,1898-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,220-224
+El Montañés,59,"Escovar, José María",Creador,J. M. Escovar,Colombia,"Soluciones del ""Rompe-Cabezas"" para Nochebuena",Vol. 1. Núm. 5,Enero de 1898,1898-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.5,225-227
+El Montañés,60a,"Acevedo Bernal, Ricardo",Ilustrador,NA,Colombia,Retrato de Francisco A. Cano,Vol. 1. Núm. 5,Enero de 1898,1898-01-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,1,228
+El Montañés,60b,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez y Mesa,Colombia,Retrato de Francisco A. Cano,Vol. 1. Núm. 5,Enero de 1898,1898-01-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,1,228
+El Montañés,60c,"Mesa, Rafael",Ilustrador,Rodríguez y Mesa,Colombia,Retrato de Francisco A. Cano,Vol. 1. Núm. 5,Enero de 1898,1898-01-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,1,228
+El Montañés,61,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 1. Núm. 5,Enero de 1898,1898-01-01,No,NA,Español,NA,Prosa No Ficción,Reseña,NA,NA,6,229-234
+El Montañés,62,"Rodríguez, Horacio Marino",Ilustrador,NA,Colombia,Carlos Segismundo de Greiff,Vol. 1. Núm. 6,Febrero de 1898,1898-02-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.5,235
+El Montañés,63,"Gómez Barrientos, Estanislao",Creador,NA,Colombia,Don Carlos Segismundo de Greiff,Vol. 1. Núm. 6,Febrero de 1898,1898-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,17,235-252
+El Montañés,64,"Robledo, Emilio",Creador,NA,Colombia,Nictalopia,Vol. 1. Núm. 6,Febrero de 1898,1898-02-01,No,NA,Español,NA,Poesía,NA,"Duque, Eduardo",NA,1.4,252-253
+El Montañés,65,"Restrepo, Lucio A.",Creador,NA,Colombia,Antioquia y Cauca (continuación),Vol. 1. Núm. 6,Febrero de 1898,1898-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,254-255
+El Montañés,66,"Cano, Francisco Antonio",Ilustrador,NA,Colombia,Mujer,Vol. 1. Núm. 6,Febrero de 1898,1898-02-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.6,256
+El Montañés,67,"León Gómez, Adolfo",Creador,NA,Colombia,Moral,Vol. 1. Núm. 6,Febrero de 1898,1898-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,2.4,256-258
+El Montañés,68,"Montoya, Gabriel",Ilustrador,NA,Colombia,Mujer y niño,Vol. 1. Núm. 6,Febrero de 1898,1898-02-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.5,258
+El Montañés,69,"Vásquez, Juan de Dios",Creador,Juan de D. Vásquez,Colombia,Contrastes,Vol. 1. Núm. 6,Febrero de 1898,1898-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,9,258-268
+El Montañés,70,"Montoya, Gabriel",Ilustrador,NA,Colombia,Aves,Vol. 1. Núm. 6,Febrero de 1898,1898-02-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,262
+El Montañés,71,"Montoya, Gabriel",Ilustrador,NA,Colombia,Mujer y niño,Vol. 1. Núm. 6,Febrero de 1898,1898-02-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,264
+El Montañés,72,"Ospina Vásquez, Mariano",Creador,M. O. V.,Colombia,"""De muerte"" ",Vol. 1. Núm. 6,Febrero de 1898,1898-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,268
+El Montañés,73,"Restrepo, Saturnino",Creador,"Restrepo, S.",Colombia,Santiago Pérez Triana,Vol. 1. Núm. 6,Febrero de 1898,1898-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8,269-276
+El Montañés,74,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 1. Núm. 6,Febrero de 1898,1898-02-01,No,NA,Español,NA,Prosa No Ficción,Reseña,NA,NA,2,277-278
+El Montañés,75,"Cano, Francisco Antonio",Creador,Francisco A. Cano,Colombia,Puerta del Hospital (Honda),Vol. 1. Núm. 7,Marzo de 1898,1898-03-01,No,NA,Español,NA,Imagen,Ilustración,NA,NA,0.7,279
+El Montañés,76,"Velásquez Botero, Samuel",Creador,NA,Colombia,Visto de cerca,Vol. 1. Núm. 7,Marzo de 1898,1898-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,6,280-285
+El Montañés,77,"Fernández Avendaño, Enrique Wenceslao",Creador,Enrique W. Fernández,Colombia,Recordando,Vol. 1. Núm. 7,Marzo de 1898,1898-03-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,286-287
+El Montañés,78,"Gómez Barrientos, Estanislao",Creador,NA,Colombia,Don Carlos Segismundo de Greiff (conclusión),Vol. 1. Núm. 7,Marzo de 1898,1898-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8.6,288-295
+El Montañés,79,"Cano, Francisco Antonio",Ilustrador,NA,Colombia,Paisaje,Vol. 1. Núm. 7,Marzo de 1898,1898-03-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,296
+El Montañés,80a,"Vidal, Gonzalo",Creador,NA,Colombia,Crepuscular (Romanza),Vol. 1. Núm. 7,Marzo de 1898,1898-03-01,No,NA,Español,NA,Partitura,Partitura,NA,NA,2.2,296-298
+El Montañés,80b,"Vidal, Gonzalo",Creador,NA,Colombia,Crepuscular (Romanza),Vol. 1. Núm. 7,Marzo de 1898,1898-03-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.3,298-299
+El Montañés,81,"Montoya, Gabriel",Ilustrador,NA,Colombia,Hombres en el bosque,Vol. 1. Núm. 7,Marzo de 1898,1898-03-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.5,300
+El Montañés,82,"Ospina, Pedro Nel",Creador,NA,Colombia,En el silencio de las selvas,Vol. 1. Núm. 7,Marzo de 1898,1898-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,4.1,300-305
+El Montañés,83,"Montoya, Gabriel",Ilustrador,NA,Colombia,Hombre acostado,Vol. 1. Núm. 7,Marzo de 1898,1898-03-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.4,305
+El Montañés,84,"Restrepo, Lucio A.",Creador,NA,Colombia,Antioquia y Cauca (continuación),Vol. 1. Núm. 7,Marzo de 1898,1898-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.1,306-310
+El Montañés,85,"Gómez Escobar, Francisco",Creador,Efe Gómez,Colombia,Carne,Vol. 1. Núm. 7,Marzo de 1898,1898-03-01,No,NA,Español,NA,Prosa Ficción,NA,"Ospina, Mariano",NA,3.7,310-313
+El Montañés,86,"Cano, Francisco Antonio",Ilustrador,NA,Colombia,El jinete,Vol. 1. Núm. 7,Marzo de 1898,1898-03-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,313
+El Montañés,87,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 1. Núm. 7,Marzo de 1898,1898-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.8,314-316
+El Montañés,88,"Rodríguez, Horacio Marino",Ilustrador,NA,Colombia,Catedral Metropolitana,Vol. 1. Núm. 8,Abril de 1898,1898-04-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.6,317
+El Montañés,89,"Cano, Francisco Antonio",Crítico,Francisco A. Cano,Colombia,A propósito de la Catedral,Vol. 1. Núm. 8,Abril de 1898,1898-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8.3,317-326
+El Montañés,90,"Rodríguez, Horacio Marino",Ilustrador,NA,Colombia,Catedral Metropolitana de Medellín,Vol. 1. Núm. 8,Abril de 1898,1898-04-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,326
+El Montañés,91,"Uribe Ángel, Manuel",Creador,NA,Colombia,Los dos Hermanos (Primera parte),Vol. 1. Núm. 8,Abril de 1898,1898-04-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,16.1,327-343
+El Montañés,92,"Cano, Francisco Antonio",Ilustrador,NA,Colombia,La Fuga,Vol. 1. Núm. 8,Abril de 1898,1898-04-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.4,331
+El Montañés,93,"Cano, Francisco Antonio",Ilustrador,NA,Colombia,La casa,Vol. 1. Núm. 8,Abril de 1898,1898-04-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,334
+El Montañés,94,"Restrepo, Lucio A.",Creador,NA,Colombia,Antioquia y Cauca [continuación],Vol. 1. Núm. 8,Abril de 1898,1898-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.8,343-345
+El Montañés,95,Anónimo,Ilustrador,NA,Colombia,Edmundo Rostand,Vol. 1. Núm. 8,Abril de 1898,1898-04-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.3,346
+El Montañés,98,"Restrepo Restrepo, Carlos Eugenio",Reseñista,Carlos E. Restrepo,Colombia,Edmundo Rostand,Vol. 1. Núm. 8,Abril de 1898,1898-04-01,No,NA,Español,NA,Reseña,NA,NA,"""La Samaritana"" de Edmundo Rostand",10.3,346-356
+El Montañés,99,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 1. Núm. 8,Abril de 1898,1898-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.1,356-360
+El Montañés,100a,"Cano, Francisco Antonio",Ilustrador,Francisco A. Cano,Colombia,Cristo Muerto,Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.7,361
+El Montañés,100b,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez y Mesa,Colombia,Cristo Muerto,Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.7,361
+El Montañés,100c,"Mesa, Rafael",Ilustrador,Rodríguez y Mesa,Colombia,Cristo Muerto,Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.7,361
+El Montañés,101,"Jiménez Suárez, Tobías",Creador,NA,Colombia,Los Arrieros de Antioquia,Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,Español,NA,Poesía,NA,"Cano, Fidel",NA,5,362-366
+El Montañés,102,"Chaux, Simón",Reseñista,NA,Colombia,Dos Poemas de Carlos Arturo Torres,Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,Español,NA,Reseña,NA,NA,"""Némesis"" y ""El vencido"" de Carlos Arturo Torres",5.3,367-372
+El Montañés,103,"Uribe Ángel, Manuel",Creador,NA,Colombia,Los dos Hermanos [conclusión],Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,11.6,372-384
+El Montañés,104,"Cano, Francisco Antonio",Ilustrador,NA,Colombia,Fogata,Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.2,377
+El Montañés,105,"Cano, Francisco Antonio",Ilustrador,NA,Colombia,La despedida,Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.4,381
+El Montañés,106,"Restrepo, Lucio A.",Creador,NA,Colombia,Antioquia y Cauca [continuación],Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5.8,384-389
+El Montañés,107,"Latorre, Gabriel",Creador,NA,Colombia,Gorgona [de Grabiel D'Annunzio],Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,4.6,390-394
+El Montañés,108,"Ospina Vásquez, Mariano",Creador,M. Ospina,Colombia,Aquella Mano!,Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3.4,395-398
+El Montañés,109,"Montoya, Gabriel",Ilustrador,M. Ospina,Colombia,La mano,Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,Español,NA,Imagen,Ilustración,NA,NA,0.3,398
+El Montañés,110,"Restrepo, Saturnino",Creador,S. A. T.,Colombia,La Guerra,Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,399
+El Montañés,111,"Montoya, Mariano",Crítico,NA,Colombia,Carta Literaria,Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,Español,NA,Prosa No Ficción,Carta,NA,El Montañés,5.9,399-405
+El Montañés,112,"Fernández Avendaño, Enrique Wenceslao",Creador,Enrique W. Fernández,Colombia,El Maizal,Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,403
+El Montañés,113a,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez Hermanos,Colombia,Medellín y sus Alrededores - Puerta sur del Parque Bolívar,Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,1,406
+El Montañés,113b,"Rodríguez, Melitón",Ilustrador,Rodríguez Hermanos,Colombia,Medellín y sus Alrededores - Puerta sur del Parque Bolívar,Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,1,406
+El Montañés,114,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 1. Núm. 9-10,Mayo y Junio de 1898,1898-06-01,No,NA,Español,NA,Prosa No Ficción,Reseña,NA,NA,6,407-412
+El Montañés,115a,"Mesa, Rafael",Ilustrador,Rodríguez y Mesa,Colombia,Eduardo Zuleta,Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.7,413
+El Montañés,115b,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez y Mesa,Colombia,Eduardo Zuleta,Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.7,413
+El Montañés,115c,"Escovar Gaviria, Gonzalo",Ilustrador,G. Escovar,Colombia,Eduardo Zuleta,Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.7,413
+El Montañés,116,"Montoya, José",Reseñista,NA,Colombia,"""Días Obscuros""",Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,Español,NA,Reseña,NA,NA,"""Tierra Virgen"" de Eduardo Zuleta",1.5,414-415
+El Montañés,117,"Zuleta Gaviria, Eduardo",Creador,"Zuleta, Eduardo ",Colombia,Fragmento del Capítulo Días Obscuros de la novela Tierra Virgen,Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,Español,NA,Prosa Ficción,Novela,NA,NA,6.5,415-421
+El Montañés,118,"Cano, Francisco Antonio",Ilustrador,NA,Colombia,Paisaje,Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,422
+El Montañés,119,"Gómez Escobar, Francisco",Creador,Efe Gómez,Colombia,Un Crimen,Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3.6,422-425
+El Montañés,120,"Cano, Francisco Antonio",Ilustrador,NA,Colombia,Mujer,Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.4,424
+El Montañés,121,"Henao, Federico Carlos",Creador,NA,Colombia,De Niños,Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,2.2,426-428
+El Montañés,122,"León Gómez, Adolfo",Creador,NA,Colombia,El Perdón,Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.8,428
+El Montañés,123,"Ospina Vásquez, Tulio",Creador,NA,Colombia,Un Demonio Anfibio,Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,6.3,429-435
+El Montañés,124,"Escovar, José María",Creador,NA,Colombia,La Planta Eléctrica de Medellín,Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,15.2,435-451
+El Montañés,125,"Mesa, Rafael",Ilustrador,NA,Colombia,Tubería Eléctrica,Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.5,442
+El Montañés,126,"Mesa, Rafael",Ilustrador,NA,Colombia,Planta eléctrica,Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.2,444
+El Montañés,127,"Mesa, Rafael",Ilustrador,NA,Colombia,Dinamo,Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.1,447
+El Montañés,128,"Mesa, Rafael",Ilustrador,NA,Colombia,Planta Eléctrica - Galería de las Máquinas,Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,1,448
+El Montañés,129,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 1. Núm. 11,Julio de 1898,1898-07-01,No,NA,Español,NA,Prosa No Ficción,Reseña,NA,NA,4.8,451-456
+El Montañés,130,"Montoya, Gabriel",Ilustrador,NA,Colombia,Luis de Greiff y Horacio Marino Rodríguez,Vol. 1. Núm. 12,Agosto de 1898,1898-08-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,457
+El Montañés,131,"Latorre, Gabriel",Reseñista,G. L.,Colombia,Nuestros Predecesores,Vol. 1. Núm. 12,Agosto de 1898,1898-08-01,No,NA,Español,NA,Reseña de revista,NA,NA,El Repertorio,2.5,457-460
+El Montañés,132,"Escovar, José María",Creador,J. M. Escovar,Colombia,La Usura,Vol. 1. Núm. 12,Agosto de 1898,1898-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,10,460-470
+El Montañés,133,"Fernández Avendaño, Enrique Wenceslao",Creador,Enrique W. Fernández,Colombia,La Doncella Campesina (en Antioquia),Vol. 1. Núm. 12,Agosto de 1898,1898-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,470
+El Montañés,134,"Restrepo, Paulo Emilio",Creador,NA,Colombia,Costumbres Antioqueñas - Arando,Vol. 1. Núm. 12,Agosto de 1898,1898-08-01,No,NA,Español,NA,Imagen,Ilustración,NA,NA,1,471
+El Montañés,135,"Carrasquilla, Tomás",Creador,NA,Colombia,El Anima Sola (Traducción libre del pueblo),Vol. 1. Núm. 12,Agosto de 1898,1898-08-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,12.1,472-484
+El Montañés,136,"Montoya, Gabriel",Ilustrador,NA,Colombia,El ánima,Vol. 1. Núm. 12,Agosto de 1898,1898-08-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.5,480
+El Montañés,137,Anónimo,Ilustrador,NA,Colombia,NA,Vol. 1. Núm. 12,Agosto de 1898,1898-08-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,484
+El Montañés,138,"Ospina Vásquez, Mariano",Creador,M. O. V.,Colombia,Fatiga,Vol. 1. Núm. 12,Agosto de 1898,1898-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,2.3,484-486
+El Montañés,139,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 1. Núm. 12,Agosto de 1898,1898-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5.6,487-492
+El Montañés,140,Anónimo,Ilustrador,NA,Colombia,Quinta Andalucía,Vol. 1. Núm. 12,Agosto de 1898,1898-08-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.4,489
+El Montañés,141,"Montoya, Gabriel",Ilustrador,NA,Colombia,El montañero,Vol. 2. Núm. 13,Diciembre de 1898,1898-12-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,1,SD
+El Montañés,142a,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez Hermanos,Colombia,Costumbres Antioqueñas - Lavando Oro en el Río Cauca,Vol. 2. Núm. 13,Diciembre de 1898,1898-12-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,1,1
+El Montañés,142b,"Rodríguez, Melitón",Ilustrador,Rodríguez Hermanos,Colombia,Costumbres Antioqueñas - Lavando Oro en el Río Cauca,Vol. 2. Núm. 13,Diciembre de 1898,1898-12-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,1,1
+El Montañés,143,"Escovar, José María",Crítico,J. M. Escovar,Colombia,"""Lo que salga""",Vol. 2. Núm. 13,Diciembre de 1898,1898-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,9.8,2-11
+El Montañés,144,"Ospina Vásquez, Mariano",Creador,M. O. V.,Colombia,Los Vengadores,Vol. 2. Núm. 13,Diciembre de 1898,1898-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,11
+El Montañés,145,"Montoya, Gabriel",Ilustrador,NA,Colombia,Mujer al piano,Vol. 2. Núm. 13,Diciembre de 1898,1898-12-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.9,12
+El Montañés,146,"Musset, Alfred de",Creador,NA,Francia,Lucía (de A. de Musset),Vol. 2. Núm. 13,Diciembre de 1898,1898-12-01,Sí,"Restrepo, José María",Español,Francés,Poesía,NA,NA,NA,3,12-15
+El Montañés,147,"Gómez Escobar, Francisco",Creador,Efe Gómez,Colombia,Un héroe de la dura cerviz,Vol. 2. Núm. 13,Diciembre de 1898,1898-12-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,15-17
+El Montañés,148,Anónimo,Ilustrador,NA,NA,NA,Vol. 2. Núm. 13,Diciembre de 1898,1898-12-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.2,17
+El Montañés,149,"Montoya, José",Reseñista,NA,Colombia,Notas Literarias (Al pie del Ruiz),Vol. 2. Núm. 13,Diciembre de 1898,1898-12-01,No,NA,Español,NA,Reseña,"""Al pie del Ruiz"" de Samuel Velásquez",NA,NA,8,18-25
+El Montañés,150,"Thein, Max",Creador,NA,Colombia,Nochebuena (Cuadro de Costumbres Antioqueñas),Vol. 2. Núm. 13,Diciembre de 1898,1898-12-01,No,NA,Español,NA,Prosa Ficción,Cuadro de costumbres,NA,NA,9.3,26-36
+El Montañés,151,"Montoya, Gabriel",Ilustrador,NA,Colombia,Marranada: fiesta,Vol. 2. Núm. 13,Diciembre de 1898,1898-12-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,31
+El Montañés,152,"Montoya, Gabriel",Ilustrador,NA,Colombia,La lavandera,Vol. 2. Núm. 13,Diciembre de 1898,1898-12-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,33
+El Montañés,153,"Jaramillo Jaramillo, Germán",Creador,"Jaramillo, Germán ",Colombia,Energía Eléctrica,Vol. 2. Núm. 13,Diciembre de 1898,1898-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7.3,36-44
+El Montañés,154,Anónimo,Ilustrador,NA,Colombia,NA,Vol. 2. Núm. 13,Diciembre de 1898,1898-12-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,38
+El Montañés,155,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 2. Núm. 13,Diciembre de 1898,1898-12-01,No,NA,Español,NA,Prosa No Ficción,Reseña,NA,NA,0.6,44
+El Montañés,156a,"Mesa, Rafael",Ilustrador,Rodríguez y Mesa,Colombia,Retrato de Gabriel Echeverri (fotograbado),Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.7,45
+El Montañés,156b,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez y Mesa,Colombia,Retrato de Gabriel Echeverri (fotograbado),Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.7,45
+El Montañés,157,"Gómez Barrientos, Estanislao",Creador,Estanislao Gómez B.,Colombia,Don Gabriel Echeverri,Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,Español,NA,Prosa No Ficción,NA,"Villa, Apolinar - Hoyos, José Joaquín",NA,5,46-50
+El Montañés,158,"Vidal, Gonzalo",Creador,NA,Colombia,A una Vieja,Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,2.6,51-53
+El Montañés,159,"Latorre, Gabriel",Creador,G. L.,Colombia,Sanctus,Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,53
+El Montañés,160a,"Mesa, Rafael",Ilustrador,Rodríguez y Mesa,Colombia,Medellín y sus Alrededores - Puente de Colón en la Quebrada,Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,1,54
+El Montañés,160b,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez y Mesa,Colombia,Medellín y sus Alrededores - Puente de Colón en la Quebrada,Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,1,54
+El Montañés,161,"Nauts, Carlos",Creador,NA,Colombia,A lomo de mula (notas de un viajero Belga),Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,Español,NA,Prosa No Ficción,Carta,"Latorre, Gabriel; Ospina, Mariano ",NA,12.5,55-67
+El Montañés,162,"Gómez Escobar, Francisco",Creador,Efe Gómez,Colombia,Leyendo a Dante,Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,Español,NA,Poesía,NA,"Latorre, Gabriel",NA,0.5,67
+El Montañés,163,"Ospina Vásquez, Tulio",Reseñista,NA,Colombia,"La Lucha de las Razas en ""Tierra Virgen""",Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,Español,NA,Reseña,NA,"""Tierra Virgen"" de Eduardo Zuleta",NA,11.7,68-79
+El Montañés,164,"Montoya, Gabriel",Ilustrador,NA,Colombia,San Antoñito,Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,80
+El Montañés,165,"Carrasquilla, Tomás",Creador,NA,Colombia,San Antoñito,Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,10.1,80-90
+El Montañés,166,"Pérez, Gregorio",Creador,G. Pérez,Colombia,Sociedad de Embellecimiento,Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.7,90-92
+El Montañés,167a,"Murillo, Bartolomé Esteban",Ilustrador,NA,Colombia,La Virgen de Sevilla,Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,0.7,92
+El Montañés,167b,"Botero Echeverri, Manuel",Ilustrador,NA,Colombia,Murillo-La Virgen de Sevilla (fotograbado),Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.7,92
+El Montañés,168,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,Español,NA,Prosa No Ficción,Reseña,NA,NA,3.3,93-96
+El Montañés,169,"Montoya, Gabriel",Ilustrador,NA,Colombia,Venga a Nos…,Vol. 2. Núm. 14,Enero de 1899,1899-01-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.1,96
+El Montañés,170,"Mesa, Rafael",Ilustrador,NA,Colombia,Medellín y sus Alrededores - Plazuela de José Félix de Restrepo,Vol. 2. Núm. 15,Febrero de 1899,1899-02-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,0.7,97
+El Montañés,171,"Restrepo, Saturnino",Crítico,S. Restrepo,Colombia,Los Novísimos en Literatura,Vol. 2. Núm. 15,Febrero de 1899,1899-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,98-102
+El Montañés,172,Anónimo,Creador,P. N. O.,Colombia,Divina Panacea,Vol. 2. Núm. 15,Febrero de 1899,1899-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,103
+El Montañés,173,"Latorre, Gabriel",Creador,G. L.,Colombia,Olvido y Muerte,Vol. 2. Núm. 15,Febrero de 1899,1899-02-01,No,NA,Español,NA,Poesía,NA,"Ospina, Pedro Nel",NA,0.6,103
+El Montañés,174,"Gómez Barrientos, Estanislao",Creador,Estanislao Gómez B.,Colombia,Don Gabriel Echeverri (conclusión),Vol. 2. Núm. 15,Febrero de 1899,1899-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,10,104-113
+El Montañés,175,"Escobar, Francisco",Creador,NA,Colombia,A un Meteoro,Vol. 2. Núm. 15,Febrero de 1899,1899-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,114
+El Montañés,176a,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez y Mesa,Colombia,Costumbres Antioqueñas - Camino del Monte (fotograbado),Vol. 2. Núm. 15,Febrero de 1899,1899-02-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,1,115
+El Montañés,176b,"Mesa, Rafael",Ilustrador,Rodríguez y Mesa,Colombia,Costumbres Antioqueñas - Camino del Monte (fotograbado),Vol. 2. Núm. 15,Febrero de 1899,1899-02-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,1,115
+El Montañés,177,"Nauts, Carlos",Creador,NA,Colombia,A lomo de mula (conclusión),Vol. 2. Núm. 15,Febrero de 1899,1899-02-01,No,NA,Español,NA,Prosa No Ficción,Carta,NA,NA,12,116-127
+El Montañés,178a,"Mesa, Rafael",Ilustrador,Rodríguez y Mesa,Colombia,Ferrocarril de Antioquia (fotograbado),Vol. 2. Núm. 15,Febrero de 1899,1899-02-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,1,128
+El Montañés,178b,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez y Mesa,Colombia,Ferrocarril de Antioquia (fotograbado),Vol. 2. Núm. 15,Febrero de 1899,1899-02-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,1,128
+El Montañés,179,"Latorre, Gabriel",Creador,Indice,Colombia,Al vuelo (Reseña Mensual),Vol. 2. Núm. 15,Febrero de 1899,1899-02-01,No,NA,Español,NA,Prosa No Ficción,Reseña,NA,NA,3.8,129-132
+El Montañés,180a,"Mesa, Rafael",Ilustrador,Rodríguez y Mesa,Colombia,El Beso de la Abuela (fotograbado),Vol. 2. Núm. 16,Marzo de 1899,1899-03-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,0.7,133
+El Montañés,180b,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez y Mesa,Colombia,El Beso de la Abuela (fotograbado),Vol. 2. Núm. 16,Marzo de 1899,1899-03-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,0.7,133
+El Montañés,181,"Gómez Escobar, Francisco",Creador,Efe Gómez,Colombia,Inofensivo,Vol. 2. Núm. 16,Marzo de 1899,1899-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.6,134-136
+El Montañés,182,"Robledo, Emilio",Creador,NA,Colombia,El Corazón,Vol. 2. Núm. 16,Marzo de 1899,1899-03-01,No,NA,Español,NA,Poesía,NA,"Calle, M. M.",NA,2.4,136-138
+El Montañés,183,"Vélez, Victoriano",Creador,NA,Colombia,Werther,Vol. 2. Núm. 16,Marzo de 1899,1899-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3.2,139-142
+El Montañés,184,"Restrepo, Saturnino",Crítico,S. Restrepo,Colombia,Los Novísimos en Literatura (Silva y Valencia),Vol. 2. Núm. 16,Marzo de 1899,1899-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8.2,142-150
+El Montañés,185,"Rodríguez, Alfredo J.",Creador,NA,Colombia,Ley Inexorable,Vol. 2. Núm. 16,Marzo de 1899,1899-03-01,No,NA,Español,NA,Poesía,NA,"Latorre, Gabriel",NA,0.3,150
+El Montañés,186,"Tobón Mejía, Marco",Ilustrador,NA,Colombia,El clarinetista,Vol. 2. Núm. 16,Marzo de 1899,1899-03-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.4,151
+El Montañés,187,"Gaviria, José A.",Creador,NA,Colombia,¡Dos Millones!,Vol. 2. Núm. 16,Marzo de 1899,1899-03-01,No,NA,Español,NA,Teatro,Monólogo,NA,NA,5.6,151-156
+El Montañés,188,"Tobón Mejía, Marco",Ilustrador,NA,Colombia,"En el Magdalena - Vapor ""Emilia Durán"" (fotograbado)",Vol. 2. Núm. 16,Marzo de 1899,1899-03-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,1,157
+El Montañés,189,Anónimo,Creador,X. Y. Z.,Colombia,La Tecnomanía,Vol. 2. Núm. 16,Marzo de 1899,1899-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4,158-161
+El Montañés,190,"Montoya, José",Crítico,NA,Colombia,Carta Abierta,Vol. 2. Núm. 16,Marzo de 1899,1899-03-01,No,NA,Español,NA,Prosa No Ficción,Carta,"Zuleta, Eduardo",NA,1.3,162-163
+El Montañés,191a,"Mesa, Rafael",Ilustrador,Rodríguez y Mesa,Colombia,Luciano Rivera y Garrido,Vol. 2. Núm. 16,Marzo de 1899,1899-03-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,0.1,163
+El Montañés,191b,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez y Mesa,Colombia,Luciano Rivera y Garrido,Vol. 2. Núm. 16,Marzo de 1899,1899-03-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,0.1,163
+El Montañés,191c,"Restrepo Restrepo, Carlos Eugenio",Ilustrador,Carlos E. Restrepo,Colombia,Luciano Rivera y Garrido,Vol. 2. Núm. 16,Marzo de 1899,1899-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3.7,163-167
+El Montañés,192,Anónimo,Creador,J. M. E.,Colombia,Reseña Mensual,Vol. 2. Núm. 16,Marzo de 1899,1899-03-01,No,NA,Español,NA,Prosa No Ficción,Reseña,NA,NA,1.8,167-168
+El Montañés,193,"Escovar Gaviria, Gonzalo",Ilustrador,"Escovar, Gonzalo ",Colombia,Indios de Río-Verde (fotograbado),Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.7,170
+El Montañés,194,"Ospina Vásquez, Tulio",Creador,NA,Colombia,Los Indios de Río-Verde,Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,6,170-175
+El Montañés,195,"Restrepo, Saturnino",Crítico,S. Restrepo,Colombia,La Cuestión Libros,Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,11.3,176-187
+El Montañés,196a,"Mesa, Rafael",Ilustrador,Rodríguez y Mesa,Colombia,Medellín y sus Alrededores - Puente de Junín (fotograbado),Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,0.5,187
+El Montañés,196b,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez y Mesa,Colombia,Medellín y sus Alrededores - Puente de Junín (fotograbado),Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,0.5,187
+El Montañés,197,"Heine, Heinrich",Creador,NA,Alemania,La Peregrinación á Kevlaar (de Heine),Vol. 2. Núm. 17,Abril de 1899,1899-04-01,Sí,"Latorre, Gabriel",Español,Alemán,Poesía,NA,NA,NA,2.8,188-190
+El Montañés,198a,"Mesa, Rafael",Ilustrador,Rodríguez y Mesa,Colombia,Dulce Martirio,Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,1,191
+El Montañés,198b,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez y Mesa,Colombia,Dulce Martirio,Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,1,191
+El Montañés,198c,"Cano, Francisco Antonio",Ilustrador,Grupo de F. A. Cano,Colombia,Dulce Martirio,Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,Español,NA,Imagen,Escultura,NA,NA,1,191
+El Montañés,199,"Restrepo E., José Vicente",Creador,NA,Colombia,El Leñador Antioqueño,Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.2,192-194
+El Montañés,200,Anónimo,Ilustrador,NA,Colombia,Rincón femenino,Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.2,194
+El Montañés,201,"Montoya, José",Creador,NA,Colombia,Feminismo,Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.7,194-198
+El Montañés,202,"Tobón Mejía, Marco",Ilustrador,NA,Colombia,Rodriguito,Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,Español,NA,Imagen,Ilustración,NA,NA,0.3,199
+El Montañés,203,"Pillo, C.",Creador,NA,Colombia,El ensayo de Minué,Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,Español,NA,Teatro,NA,NA,NA,3.2,199-202
+El Montañés,204,"Botero Echeverri, Manuel",Ilustrador,M.Bot,Colombia,Retrato de José Joaquín Hoyos (fotograbado),Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,0.3,202
+El Montañés,205,"Restrepo Restrepo, Carlos Eugenio",Creador,Carlos E. Restrepo,Colombia,La Agonía,Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,2.3,202-204
+El Montañés,206,"Carrasquilla, Tomás",Creador,NA,Colombia,El Baile Blanco,Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,4.4,205-209
+El Montañés,207,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 2. Núm. 17,Abril de 1899,1899-04-01,No,NA,Español,NA,Prosa No Ficción,Reseña,NA,NA,3.6,209-212
+El Montañés,208,"Rodríguez, Melitón",Creador,NA,Colombia,La Fiesta de Cano (fotograbado),Vol. 2. Núm. 18,Mayo de 1899,1899-05-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,0.7,213
+El Montañés,209,"Ospina, Pedro Nel",Creador,NA,Colombia,Discurso leído por D. Pedro Nel Ospina en el Concierto Celebrado á beneficio del pintor Francisco A. Cano,Vol. 2. Núm. 18,Mayo de 1899,1899-05-01,No,NA,Español,NA,Prosa No Ficción,Discurso,NA,NA,7.7,214-221
+El Montañés,210,Salazar H. Jerónimo,Creador,NA,Colombia,Historia Patria,Vol. 2. Núm. 18,Mayo de 1899,1899-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,221
+El Montañés,211,"Palacio Muñoz, Obdulio",Crítico,NA,Colombia,Cervantes Redivivo,Vol. 2. Núm. 18,Mayo de 1899,1899-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,11.6,222-233
+El Montañés,212,"Garcés, Leopoldo",Creador,NA,Colombia,Crepuscular,Vol. 2. Núm. 18,Mayo de 1899,1899-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,233
+El Montañés,213,"Tobón Mejía, Marco",Ilustrador,NA,Colombia,Los borrachitos,Vol. 2. Núm. 18,Mayo de 1899,1899-05-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.4,234
+El Montañés,214,"Ospina Vásquez, Tulio",Creador,NA,Colombia,Caporrista y Mordoqueo,Vol. 2. Núm. 18,Mayo de 1899,1899-05-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,9.5,234-244
+El Montañés,215,"Tobón Mejía, Marco",Ilustrador,NA,Colombia,Dormido,Vol. 2. Núm. 18,Mayo de 1899,1899-05-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.2,243
+El Montañés,216,"Corral, Jesús M. del",Creador,NA,Colombia,En la Hondonada,Vol. 2. Núm. 18,Mayo de 1899,1899-05-01,No,NA,Español,NA,Poesía,NA,"Vives Guerra, Julio",NA,1,243-244
+El Montañés,217,Anónimo,Creador,S. R. B.,Colombia,A un Muerto,Vol. 2. Núm. 18,Mayo de 1899,1899-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,245
+El Montañés,218,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 2. Núm. 18,Mayo de 1899,1899-05-01,No,NA,Español,NA,Prosa No Ficción,Reseña,NA,NA,2.7,246-248
+El Montañés,219,"Gómez Barrientos, Estanislao",Creador,Estanislao Gómez B.,Colombia,Don Julián Vásquez (primera parte),Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,Español,NA,Prosa No Ficción,NA,"Escovar, José María",NA,8.7,249-258
+El Montañés,220a,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez y Mesa,Colombia,Don Julián Vásquez,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,1,251
+El Montañés,220b,"Mesa, Rafael",Ilustrador,Rodríguez y Mesa,Colombia,Don Julián Vásquez,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,1,251
+El Montañés,221,"Robledo, Emilio",Creador,NA,Colombia,En el Hospital,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,Español,NA,Poesía,NA,"Escobar, Lázaro",NA,3,259-261
+El Montañés,222,"Gaviria, José A.",Creador,NA,Colombia,Otello,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.1,262-264
+El Montañés,223,"Vélez, Victoriano",Creador,NA,Colombia,El Gato [de Baudelaire],Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,Español,NA,Poesía,NA,"Valencia, Guillermo",NA,0.8,264
+El Montañés,224,"Tobón Mejía, Marco",Ilustrador,NA,Colombia,El bosque,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.5,265
+El Montañés,225,"Olano, Ricardo",Creador,NA,Colombia,Mirajes,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,Español,NA,Prosa Ficción,NA,"Cabo, Ignacio",NA,9.3,266-276
+El Montañés,226,"Montoya, Gabriel",Ilustrador,NA,Colombia,El gallinero,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.5,269
+El Montañés,227,"Mesa, Rafael",Creador,NA,Colombia,El río,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.3,276
+El Montañés,228,"Gómez Escobar, Francisco",Creador,Efe Gómez,Colombia,Una Carta,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,Español,NA,Prosa Ficción,Carta,"Latorre, Gabriel; Ospina, Mariano ",NA,7.1,277-284
+El Montañés,229,"Escovar, José María",Creador,NA,Colombia,"Carta á los Redactores de ""El Montañés""",Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,Español,NA,Prosa No Ficción,Carta,El montañés,NA,5.1,284-289
+El Montañés,230,"Latorre, Gabriel",Creador,G. L.,Colombia,Mentías?,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,289
+El Montañés,231a,"Montoya, Eladio",Ilustrador,NA,Colombia,San Antonio de Padua,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,NA,NA,Imagen,Escultura,NA,NA,0.5,290
+El Montañés,231b,"Mesa, Rafael",Ilustrador,NA,Colombia,San Antonio de Padua,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.5,290
+El Montañés,232,"Velásquez Botero, Samuel",Creador,NA,Colombia,San Antonio de Padua,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.8,290-293
+El Montañés,233,"Mesa, Rafael",Ilustrador,NA,Colombia,Medellín y sus Alrededores - Puente de Mejía [fotograbado],Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.7,293
+El Montañés,234,"López, Alejandro",Creador,NA,Colombia,"El paso de ""La Quiebra"" en el Ferrocarril de Antioquia",Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,12.5,294-306
+El Montañés,235,"Maya, Juan F.",Ilustrador,NA,Colombia,"El paso de ""La Quiebra"" en el Ferrocarril de Antioquia",Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,1,SD
+El Montañés,236,"Peláez, Anatolio",Ilustrador,NA,Colombia,El Campesino (grabado en madera),Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,Español,NA,Imagen,Grabado,NA,NA,0.5,306
+El Montañés,237,"Pérez Triana, Santiago",Creador,NA,Colombia,Cierra la Noche,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,307
+El Montañés,238,"Posada Arango, Andrés",Creador,NA,Colombia,La Flores,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.5,308-312
+El Montañés,239,"Latorre, Gabriel",Creador,NA,Colombia,In memóriam,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.5,312-313
+El Montañés,240,"Ospina Vásquez, Mariano",Creador,NA,Colombia,En marcha!,Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,Español,NA,Poesía,NA,"Jaramillo Villa, Juan Francisco",NA,1,314
+El Montañés,241,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 2. Núm. 19-20,Junio y Julio de 1899,1899-07-01,No,NA,Español,NA,Prosa No Ficción,Reseña,NA,NA,1.8,315-316
+El Montañés,242a,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez y Mesa,Colombia,En el balcón,Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.7,317
+El Montañés,242b,"Mesa, Rafael",Ilustrador,Rodríguez y Mesa,Colombia,En el balcón,Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.7,317
+El Montañés,243,"Musset, Alfred de",Creador,NA,Francia,Premieres Poésies,Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,Francés,NA,Poesía,NA,NA,NA,0.1,317
+El Montañés,244,"Latorre, Gabriel",Creador,"Larra, Gilberto E.",Colombia,En el Teatro,Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,14.8,318-332
+El Montañés,245,"Montoya, Gabriel",Ilustrador,NA,Colombia,Binoculares,Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.1,332
+El Montañés,246,"Vásquez, Juan de Dios",Creador,Juan de D. Vásquez,Colombia,Neurosis,Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,4.5,333-337
+El Montañés,247,"Montoya, Gabriel",Ilustrador,NA,Colombia,Mujer,Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.5,333
+El Montañés,248,"Gómez Barrientos, Estanislao",Creador,Estanislao Gómez B.,Colombia,Don Julián Vásquez [continuación],Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,14,338-348
+El Montañés,249a,"Rodríguez, Horacio Marino",Ilustrador,Rodríguez y Mesa,Colombia,En el Río Magdalena [fotograbado],Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,1,349
+El Montañés,249b,"Mesa, Rafael",Ilustrador,Rodríguez y Mesa,Colombia,En el Río Magdalena [fotograbado],Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,1,349
+El Montañés,250,"Gómez Escobar, Francisco",Creador,Efe Gómez,Colombia,El Diario de Pedro [fragmento],Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.5,351-352
+El Montañés,251,"Velásquez Botero, Samuel",Creador,NA,Colombia,Blancura Inaccesible,Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.5,352-353
+El Montañés,252,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Reseña Mensual (Impresiones Personalísimas),Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3,354-356
+El Montañés,253,"Ospina Vásquez, Mariano",Creador,Prólogus,Colombia,Dualismo,Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,357-358
+El Montañés,254,Anónimo,Anunciador,NA,NA,Atención,Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,SD
+El Montañés,255,Anónimo,Anunciador,NA,NA,Publicidad,Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,Español,NA,Publicidad,NA,NA,NA,3,SD
+El Montañés,256,Anónimo,Creador,NA,NA,Ley de 1898,Vol. 2. Núm. 21,Agosto de 1899,1899-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,SD
+El Montañés,257,"Mesa, Rafael",Ilustrador,NA,Colombia,Pareja,Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,Español,NA,Imagen,Ilustración,NA,NA,0.5,359
+El Montañés,258,"Velásquez Botero, Samuel",Creador,NA,Colombia,Ojo por ojo,Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,Español,NA,Prosa Ficción,NA,"Arana, Mario",NA,7.1,359-366
+El Montañés,259,"Vélez, Victoriano",Creador,NA,Colombia,La Noche,Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,Español,NA,Poesía,NA,"Latorre, Gabriel",NA,1.4,366-368
+El Montañés,260,"Botero Echeverri, Manuel",Ilustrador,Man. Bot.,Colombia,"Costumbres Antioqueñas - ""Alabado sea el nombre de Dios!""",Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.7,368
+El Montañés,261,"Gómez Barrientos, Estanislao",Creador,NA,Colombia,Don Julián Vásquez [conclusión],Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,10.5,369-379
+El Montañés,262,"Ceballos Quintana, Enrique",Creador,"Ceballos Quintana, E.",España,Cantares,Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,379
+El Montañés,263,Anónimo,Ilustrador,Duperly y Sons,Colombia,Bogotá - El capitolio (fotograbado),Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,0.5,380
+El Montañés,264,"López Lapuya, Isidoro",Creador,NA,Colombia,Desde París - En Montmartre,Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,6.1,380-386
+El Montañés,265,"Restrepo Restrepo, Antonio María",Creador,Abel Farina,Colombia,A. José A. Silva,Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,Español,NA,Poesía,"Silva, José Asunción",NA,NA,0.5,386
+El Montañés,266,"Ceballos Quintana, Enrique",Creador,"Ceballos Quintana, E.",España,Ley de la Vida,Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,Español,NA,Poesía,NA,"López Lapuya, I.",NA,2,387-388
+El Montañés,267,"Mesa, Rafael",Ilustrador,NA,Colombia,Juan Montalvo,Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.1,389
+El Montañés,268,"Restrepo, Saturnino",Reseñista,S. Restrepo,Colombia,Don Juan Montalvo,Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,"""Lecturas de Juan Montalvo"" de Juan de Dios Uribe",31.5,389-420
+El Montañés,269,"Garcés, Leopoldo",Creador,NA,Colombia,"En ""Sabanas""",Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.8,420-421
+El Montañés,270,"Mesa, Rafael",Ilustrador,NA,Colombia,Medellín y sus Alrededores - Calle del Comercio (fotograbado),Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.6,421
+El Montañés,271,"Bolívar, Simón",Creador,NA,Colombia,Carta Anónima de Bolívar,Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,Español,NA,Prosa No Ficción,Carta,"Sáenz, Manuela",NA,0.5,422
+El Montañés,272,"Ospina Vásquez, Tulio",Creador,NA,Colombia,Dos Cuentos,Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,8.4,422-430
+El Montañés,273,"Tobón Mejía, Marco",Ilustrador,NA,Colombia,El arriero,Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,NA,NA,Imagen,Ilustración,NA,NA,0.4,425
+El Montañés,274,"Escovar, José María",Crítico,NA,Colombia,"Sobre ""El Arte por el Arte""",Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,Español,NA,Prosa No Ficción,Carta,"Gómez, Francisco",NA,11.9,431-442
+El Montañés,275,"Mesa, Rafael",Ilustrador,NA,Colombia,Medellín y sus Alrededores - Choza Campesina (fotograbado),Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,Español,NA,Imagen,Fotograbado,NA,NA,0.4,443
+El Montañés,276,"Thein, Max",Creador,NA,Colombia,¡Oh! El escrúpulo de la tía Marcela!,Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,12.6,443-455
+El Montañés,277,"Mesa, Rafael",Ilustrador,NA,Colombia,Costumbres Antioqueñas - Carnaval de Medellín en 1899,Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.5,456
+El Montañés,278,"Mesa, Rafael",Ilustrador,NA,Colombia,"Medellín y sus Alrededores - Laguna de ""Sabanas"" (fotograbado)",Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,No,NA,NA,NA,Imagen,Fotograbado,NA,NA,0.5,456
+El Montañés,279,"Heine, Heinrich",Creador,NA,Alemania,El Rey Moro (de Heine),Vol. 2. Núm. 22-23-24,"Septiembre, Octubre y Noviembre de 1899",1899-11-01,Sí,"Romero, Blasina",Español,Alemán,Poesía,Leyenda,NA,NA,1.5,457-458

@@ -1,0 +1,335 @@
+NombreR,NumContrib,Colaborador,Roles,Seudonimo,PaisOrigen,Titulo,NumFasciculo,Fecha,Fecha-ISO,Traduccion,Traductor,Lengua,LenguaOriginal,Tipo,TipoIndice,Dedicatoria,ObrasResenadas,CantidadPaginas,Paginacion
+La Buena Lectura,1,Anónimo,Creador,NA,Colombia,Dos Palabras,1,octubre 1 de 1910,1910-10-01,No,NA,Español,NA,Prosa No Ficción,Editorial,NA,NA,1.4,1
+La Buena Lectura,2,"Mejía O., Enrique",Creador,NA,Colombia,“Sr. La fundación de nuevas imprentas…”,1,octubre 1 de 1910,1910-10-01,No,NA,Español,NA,Prosa No Ficción,Circular,NA,NA,1.4,1-2
+La Buena Lectura,3,"Vilariño, Remigio",Creador,NA,España,Las Buenas Lecturas,1,octubre 1 de 1910,1910-10-01,No,NA,Español,NA,Prosa No Ficción,Artículo de opinión,NA,NA,3.4,1-4
+La Buena Lectura,4,"Holguín, Jorge",Creador,Luís León,Colombia,El Célebre Dr. Raymond,1,octubre 1 de 1910,1910-10-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,3.4,4-6
+La Buena Lectura,5,"Montero Bustamante, Raúl",Creador,NA,Uruguay,Sobre el Abismo,1,octubre 1 de 1910,1910-10-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.4,6-7
+La Buena Lectura,6,Anónimo,Creador,NA,Colombia,La Botella Negra,1,octubre 1 de 1910,1910-10-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1,7-8
+La Buena Lectura,7,"Loiseau, G.",Creador,Doctor G. Loiseau,NA,Traqueotomia,1,octubre1 de 1910,1910-10-01,Sí,Anónimo,Español,NA,Prosa No Ficción,Variedades,NA,NA,3,7-9
+La Buena Lectura,8,"Blanmoco Beletón, M. R.",Creador,NA,Colombia,Heróico Sacrificio,1,octubre 1 de 1910,1910-10-01,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,2.5,10-12
+La Buena Lectura,9,"Requejo y Velarde, Gerardo",Creador,"Requejo Velarde, G.",España,Visión Dantesca,1,octubre 1 de 1910,1910-10-01,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,1,12-13
+La Buena Lectura,10,M.V.L,Creador,M.V.L,Colombia,La Edad de las Almas,1,octubre 1 de 1910,1910-10-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,3,13-15
+La Buena Lectura,11,"Rojas, Aristides",Creador,NA,Colombia,Aramendi,1,octubre 1 de 1910,1910-10-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,3.5,15-19
+La Buena Lectura,12,"Monsalve, José Dolores",Creador,"Monsalve, J. D.",Colombia,Girardot,1,octubre 1 de 1910,1910-10-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,1.3,19
+La Buena Lectura,13,"Álvarez Bonilla, Enrique",Creador,NA,Colombia,Juicio sobre la obra,1,octubre 1 de 1910,1910-10-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,Biografía de Girardot,1.5,19-20
+La Buena Lectura,14,"Monsalve, José Dolores",Creador,"Monsalve, J. D.",Colombia,Girardot,1,octubre 1 de 1910,1910-10-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,3,20-23
+La Buena Lectura,15,"Mejía O., Enrique",Creador,NA,Colombia,Externado San Vicente de Paul,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa No Ficción,Editorial,NA,NA,1.5,24-25
+La Buena Lectura,16,"Vilariño, Remigio",Creador,NA,España,Leed Buenas Lecturas,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa No Ficción,Buenas Lecturas,NA,NA,2.5,25-27
+La Buena Lectura,17,"Madaline, Juan",Creador,NA,NA,Los dos abuelos,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,27-29
+La Buena Lectura,18,Anónimo,Creador,NA,NA,El Disco de la Muerte,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,3.4,29-32
+La Buena Lectura,19,"Nogales, José",Creador,NA,España,El Miedo del Sacristán,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,32-33
+La Buena Lectura,20,"Flórez, Julio",Creador,NA,Colombia,Lo que me dijo un esquéleto,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.8,33-35
+La Buena Lectura,21,"Marroquín, José Manuel",Creador,NA,Colombia,El Azote de Bogotá,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.5,35-37
+La Buena Lectura,22,"Acosta de Samper, Soledad",Creador,NA,Colombia,Traición y Castigo,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,4,37-41
+La Buena Lectura,23,"Monsalve, José Dolores",Creador,"Monsalve, J. D.",Colombia,Girardot,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,5,41-45
+La Buena Lectura,24,"Vilariño, Remigio",Creador,NA,España,Comprad buenos libros,2,octubre 5 de 1910,1910-10-05,No,NA,Español,NA,Prosa No Ficción,Buenas Lecturas,NA,NA,1.5,49-50
+La Buena Lectura,25,"Santiago Fuentes, Magdalena de",Creador,NA,España,Lili,2,octubre 5 de 1910,1910-10-05,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.5,50-53
+La Buena Lectura,26,"Marroquín, José Manuel",Creador,NA,Colombia,El Azote de Bogotá,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,1.5,53-54
+La Buena Lectura,27,"Rusiñol, Santiago",Creador,NA,España,Gentes de bien,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,54-56
+La Buena Lectura,28,Anónimo,Creador,NA,NA,Dos Cuadros,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.5,56-57
+La Buena Lectura,29,"Bolet Peraza, Nicanor",Creador,NA,Venezuela,El Entierro del Sol,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.2,58-59
+La Buena Lectura,30,Anónimo,Creador,NA,NA,Un Soldado Edificante,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1,59
+La Buena Lectura,31,"Rodao, José",Creador,NA,España,Lo que Ocurre,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Poesía,Variedades,NA,NA,1,60
+La Buena Lectura,32,Anónimo,Creador,NA,NA,"Gloria, amor y muerte ",2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa Ficción,Historia Patria,NA,NA,2.3,61-63
+La Buena Lectura,33,"Arango Mejía, Gabriel",Creador,NA,Colombia,Algo de Historia,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,1.5,63-64
+La Buena Lectura,34,"Monsalve, José Dolores",Creador,"Monsalve, J. D.",Colombia,Girardot,2,octubre 15 de 1910,1910-10-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,6,63-70
+La Buena Lectura,35,"Vilariño, Remigio",Creador,NA,España,Repartid Buenos Libros,4,noviembre 15 de 1910,1910-11-15,No,NA,Español,NA,Prosa No Ficción,Buenas Lecturas,NA,NA,2.8,71-72
+La Buena Lectura,36,"Van Tricht, Victor",Creador,"Van Tricht, P. Victor",Bélgica,Berta,4,noviembre 15 de 1910,1910-11-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,5.5,72-77
+La Buena Lectura,37,"Marroquín, José Manuel",Creador,NA,Colombia,El Azote de Bogotá,4,noviembre 15 de 1910,1910-11-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1,78
+La Buena Lectura,38,"Gabriel y Galán, José María",Creador,NA,España,El Cristo de Velasquez,4,noviembre 15 de 1910,1910-11-15,No,NA,Español,NA,Poesía,Variedades,NA,NA,2,79-80
+La Buena Lectura,39,"Bermejo, Luis",Creador,NA,NA,La Justicia,4,noviembre 15 de 1910,1910-11-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.5,81
+La Buena Lectura,40,"Latorre, R. M. de",Creador,NA,NA,El Testamento,4,noviembre 15 de 1910,1910-11-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.8,81-83
+La Buena Lectura,41,"Gómez Rodeles, Cecilio",Creador,NA,España,Oración Involuntaria,4,noviembre 15 de 1910,1910-11-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.8,84-86
+La Buena Lectura,42,"Ligerot, Marguerite",Creador,"Dombre, Roger",Francia,Los Zapatitos Azules,4,noviembre 15 de 1910,1910-11-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,1.8,86-87
+La Buena Lectura,43,"Lara Cortés, Gregorio",Creador,NA,Colombia,Dos Martires en la Mesa 1816,4,noviembre 15 de 1910,1910-11-15,No,NA,Español,NA,Prosa Ficción,Historia Patria,Al Consejo Municipal de La Mesa y a los alumos del Colegio Santo Tomás del mismo municipio,NA,2,88-90
+La Buena Lectura,44,"Monsalve, José Dolores",Creador,"Monsalve, J. D.",Colombia,Girardot,4,noviembre 15 de 1910,1910-11-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,5.5,90-94
+La Buena Lectura,45,"Hoz, J. D. de la",Creador,NA,Colombia,Carlos E. Restrepo,5,diciembre 1 de 1910,1910-12-01,No,NA,Español,NA,Imagen,Galería de la Buena Lectura,NA,NA,1.5,95-96
+La Buena Lectura,46,"Vilariño, Remigio",Creador,NA,España,La Biblioteca,5,diciembre 1 de 1910,1910-12-01,No,NA,Español,NA,Prosa No Ficción,Buenas Lecturas,NA,NA,2,96-98
+La Buena Lectura,47,"Betancourt, Pedro Pablo",Creador,NA,Colombia,El Cristo del Centenario,5,diciembre 1 de 1910,1910-12-01,No,NA,Español,NA,Prosa No Ficción,Buenas Lecturas,NA,NA,1,98-99
+La Buena Lectura,48,"Palacio Valdés, Armando",Creador,NA,España,El Pajaro de la Nieve,5,diciembre 1 de 1910,1910-12-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,7.8,99-106
+La Buena Lectura,49,"Marroquín, José Manuel",Creador,NA,Colombia,El Azote de Bogotá,5,diciembre 1 de 1910,1910-12-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.5,106-108
+La Buena Lectura,50,"Marroquín, José Manuel",Creador,NA,Colombia,Los Forros,5,diciembre 1 de 1910,1910-12-01,No,NA,Español,NA,Poesía,Variedades,NA,NA,0.5,108
+La Buena Lectura,51,"Richepin, Jean",Creador,"Richepin, Juan",Argelia,Honradez Militar,5,diciembre 1 de 1910,1910-12-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,1.8,109-110
+La Buena Lectura,52,"Montalvo, Juan",Creador,NA,Ecuador,Clemencia de Bolívar,5,diciembre 1 de 1910,1910-12-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2.3,109-111
+La Buena Lectura,53,"Cano Gutiérrez, Fidel",Creador,NA,Colombia,Liborio Mejía,5,1 de diciembre de 1910,1910-12-01,No,NA,Español,NA,Prosa Ficción,Historia Patria,NA,NA,2.3,111-113
+La Buena Lectura,54,"Monsalve, José Dolores",Creador,"Monsalve, J. D.",Colombia,Girardot,5,1 de diciembre de 1910,1910-12-01,No,NA,Español,NA,Prosa Ficción,Historia Patria,NA,NA,6,113-118
+La Buena Lectura,55,"Vilariño, Remigio",Creador,"Ugarte, R. V. de",España,Curiosidades,6,15 de diciembre de 1910,1910-12-15,No,NA,Español,NA,Prosa No Ficción,Buenas Lecturas,NA,NA,3.5,119-122
+La Buena Lectura,56,"Richepin, Jean",Creador,"Richepin, Juan",Argelia,Regalo de Navidad,6,15 de diciembre de 1910,1910-12-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,2.8,122-124
+La Buena Lectura,57,"Coppée, François",Creador,NA,Francia,Luis de Oro,6,15 de dicembre de 1910,1910-12-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,2.7,124-127
+La Buena Lectura,58,"Bertot, Jean",Creador,Juan Bertot,Francia,Navidad de Plata,6,15 de diciembre de 1910,1910-12-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,3.8,127-130
+La Buena Lectura,59,"Marroquín, José Manuel",Creador,NA,Colombia,El Azote de Bogotá,6,15 de diciembre de 1910,1910-12-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.5,130-131
+La Buena Lectura,60,"Gil, P.P.",Creador,NA,NA,Merengue,6,15 de diciembre de 1910,1910-12-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.5,131-132
+La Buena Lectura,61,"Vélez Barrientos, Lucrecio",Creador,Gaspar Chaverra,Colombia,Sugestion,6,15 de diciembre de 1910,1910-12-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.5,132-133
+La Buena Lectura,62,"Ligouri, Alfonso Maria de",Creador,San Alfonso de Ligoro,Italia,A Jesús Recién Nacido,6,15 de diciembre de 1910,1910-12-15,Sí,"Vinuesa, L. M.",Español,Italiano,Poesía,Variedades,NA,NA,1,134
+La Buena Lectura,63,"Carner, Josep",Creador,"Carner, José",España,El Buey,6,15 de diciembre de 1910,1910-12-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.8,135-135
+La Buena Lectura,64,"Gómez Barrientos, Estanislao",Creador,"Gómez Barrientos, E.",Colombia,Bolívar en Santa Marta,6,15 de diciembre de 1910,1910-12-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2,136-138
+La Buena Lectura,65,"Monsalve, José Dolores",Creador,"Monsalve, J. D.",Colombia,Girardot,6,15 de diciembre de 1910,1910-12-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,4.5,138-142
+La Buena Lectura,66,"Vilariño, Remigio",Creador,"Ugarte, R. V. de",España,El Lujo,8,1 de febrero de 1911,1911-02-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2.8,167-168
+La Buena Lectura,67,"Rueda, Salvador",Creador,NA,España,Buscando Nidos,8,1 de fenrero de 1911,1911-02-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.5,168-170
+La Buena Lectura,68,"Quijano Torres, Gustavo",Creador,NA,Colombia,San Silvestre,8,1 de febrero de 1911,1911-02-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.5,171-172
+La Buena Lectura,69,"Amicis, Edmondo de",Creador,Tu padre,Italia,Dos Cartas. La Calle,8,1 de febrero de 1911,1911-02-01,Sí,Anónimo,Español,Italiano,Prosa Ficción,Variedades,NA,NA,1,172
+La Buena Lectura,70,"Amicis, Edmondo de",Creador,Tu madre,Italia,Dos Cartas. Los Pobres,8,1 de febrero de 1911,1911-02-01,Sí,Anónimo,Español,Italiano,Prosa Ficción,Variedades,NA,NA,1.3,172-173
+La Buena Lectura,71,"Gómez Jaime, Alfredo",Creador,NA,Colombia,Alma Triste,8,1 de febrero de 1911,1911-02-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,3.8,173-176
+La Buena Lectura,72,"Muñoz Escamez, José",Creador,NA,España,Lucha Memorable,8,1 de febrero de 1911,1911-02-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,178-176
+La Buena Lectura,73,"Marroquín, José Manuel",Creador,NA,Colombia,El Azote de Bogotá,8,1 de febrero de 1911,1911-02-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.3,178-179
+La Buena Lectura,74,"Mac Douall, Roberto",Creador,NA,Colombia,Burbula,8,1 de febrero de 1911,1911-02-01,No,NA,Español,NA,Poesía,Variedades,NA,NA,1.5,179-180
+La Buena Lectura,75,"Gómez Barrientos, Estanislao",Creador,E.G.B,Colombia,Entre los Benedictinos,8,1 de febrero de 1911,1911-02-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.5,181-182
+La Buena Lectura,76,"Lavedan, Henri",Creador,"Laredau, Enrique",Francia,En el Bosque,8,1 de febrero de 1911,1911-02-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,4.5,182-185
+La Buena Lectura,77,"Monsalve, José Dolores",Creador,"Monsalve, J. D.",Colombia,Girardot,8,1 de febrero de 1911,1911-02-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,3.5,187-190
+La Buena Lectura,78,"Vilariño, Remigio",Creador,"Ugarte, R. V. de",España,Los Lujos,9,15 de febrero de 1911,1911-02-15,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,2,191-192
+La Buena Lectura,79,"Santiago Fuentes, Magdalena de",Creador,NA,España,Carta al Cielo,9,15 de febrero de 1911,1911-02-15,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,7.4,193-199
+La Buena Lectura,80,"Reyes, Arturo",Creador,NA,España,Cosa de Hombres,9,15 de febrero de 1911,1911-02-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.8,199-202
+La Buena Lectura,81,"Holguín, Jorge",Creador,Luís León,Colombia,El Gran Detective,9,15 de febrero de 1911,1911-02-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,202-203
+La Buena Lectura,82,"Nervo, Amado",Creador,NA,México,El Final de un Idilio,9,15 de febrero de 1911,1911-02-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.8,203-206
+La Buena Lectura,83,"Marroquín, José Manuel",Creador,NA,Colombia,El Azote de Bogotá,9,15 de febrero de 1911,1911-02-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.5,206-207
+La Buena Lectura,84,"Martínez Riestra, Ceferino",Creador,NA,España,El Tema Obligado,9,15 de febrero de 1911,1911-02-15,No,NA,Español,NA,Prosa Ficción,Variedades,Cuento premiado en México,NA,3.5,207-210
+La Buena Lectura,85,"Gómez Barrientos, Estanislao",Creador,"Gómez Barrientos, E.",Colombia,Dos Caballeros Negros,9,15 de febrero de 1911,1911-02-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2.8,210-213
+La Buena Lectura,86,"Monsalve, José Dolores",Creador,"Monsalve, J. D.",Colombia,Girardot,9,15 de febrero de 1911,1911-02-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2,213-214
+La Buena Lectura,87,"Vilariño, Remigio",Creador,"Ugarte, R. V. de",España,El Lujo,10,1 de marzo de 1911,1911-03-01,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,2.5,215-217
+La Buena Lectura,88,"Martínez Sierra, Gregorio",Creador,NA,España,Don de Lágrimas,10,1 de marzo de 1911,1911-03-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.5,217-218
+La Buena Lectura,89,"Marroquín, José Manuel",Creador,NA,Colombia,El Azote de Bogotá,10,1 de marzo de 1911,1911-03-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.6,218-220
+La Buena Lectura,90,"Renaud, Jean Joseph",Creador,"Renaud, J. Joseph",Francia,El Detective,10,1 de marzo de 1911,1911-03-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,2.5,220-222
+La Buena Lectura,91,"Reyes, Arturo",Creador,NA,España,Pitejo,10,1 de marzo de 1911,1911-03-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,222-224
+La Buena Lectura,92,"Lofey, Carlos",Creador,NA,NA,Mi Amigo Bricot,10,1 de marzo de 1910,1910-03-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.8,224-226
+La Buena Lectura,93,"Gómez Bravo, Vicente",Creador,NA,España,Los Corderitos de Santa Inés,10,1 de marzo de 1911,1911-03-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,226-227
+La Buena Lectura,94,"Bouhours, FL",Creador,NA,Francia,León El Negrito,10,1 de marzo de 1911,1911-03-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,2.8,227-229
+La Buena Lectura,95,"Mendès, Catulle",Creador,NA,Francia,Es Asesino,10,1 de marzo de 1911,1911-03-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,3.8,229-231
+La Buena Lectura,96,"Bazin, René",Creador,NA,Francia,La Buena Noticia,10,1 de marzo de 1911,1911-03-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,1.8,231-233
+La Buena Lectura,97,"Vélez Barrientos, Lucrecio",Creador,Gaspar Chaverra,Colombia,Venganza,10,1 de marzo de 1911,1911-03-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.8,233-234
+La Buena Lectura,98,"Gómez Barrientos, Estanislao",Creador,NA,Colombia,Dos Caballeros Negros,10,1 de marzo de 1910,1910-03-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,3,324-237
+La Buena Lectura,99,"Monsalve, José Dolores",Creador,"Monsalve, J. D.",Colombia,Girardot,10,1 de marzo de 1911,1911-03-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,1.8,237-238
+La Buena Lectura,100,"Soto Borda, Clímaco",Creador,NA,Colombia,Sobre la Burbula,10,1 de marzo de 1911,1911-03-01,No,NA,Español,NA,Poesía,Poema,a Leopoldo Niza,NA,0.5,238
+La Buena Lectura,101,Anónimo,Ilustrador,NA,Colombia,"Fotografía de Eduardo Vasquez, Gobernador de Antioquia",11,15 de marzo de 1911,1911-03-15,No,NA,NA,NA,Imagen,Galería de la Buena Lectura,NA,NA,1,sp
+La Buena Lectura,102,"Ombre, K",Creador,NA,NA,Eduardo Vásquez,11,15 de marzo de 1911,1911-03-15,No,NA,Español,NA,Prosa No Ficción,Semblanza,NA,NA,1.5,239-240
+La Buena Lectura,103,Anónimo,Creador,NA,Colombia,Memoria de la Fundación San Vicente de Paul,11,15 de marzo de 1911,1911-03-15,No,NA,Español,NA,Prosa No Ficción,Memoria,NA,NA,0.5,240-241
+La Buena Lectura,104,"Vilariño, Remigio",Creador,"Ugarte, R. V. de",España,El Lujo,11,15 de marzo de 1911,1911-03-15,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,2.4,241-243
+La Buena Lectura,105,"Gómez Barrientos, Estanislao",Creador,"Gómez Barrientos, E.",Colombia,El Señor Valverde,11,15 de marzo de 1911,1911-03-15,No,NA,Español,NA,Prosa No Ficción,Semblanza,NA,NA,2.5,243-245
+La Buena Lectura,106,Anónimo,Creador,NA,NA,La Apuesta,11,15 de marzo de 1911,1911-03-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,245-247
+La Buena Lectura,107,Anónimo,Creador,NA,NA,Un héore y una Heroína,11,15 de marzo de 1911,1911-03-15,Sí,Anónimo,Español,NA,Prosa No Ficción,Variedades,NA,NA,0.5,248
+La Buena Lectura,108,"Villegas, Manuel",Creador,NA,NA,La Cruz,11,15 de marzo de 1911,1911-03-15,No,NA,Español,NA,Prosa No Ficción,Variedades,"Para ""El Guardián""",NA,0.5,248
+La Buena Lectura,109,"Valle-Inclán, Ramón del",Creador,NA,España,El Miedo,11,15 de marzo de 1911,1911-03-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,249-250
+La Buena Lectura,110,"Campoamor, Ramón de",Creador,R.C,España,El Festín,11,15 de marzo de 1911,1911-03-15,No,NA,Español,NA,Poesía,Variedades,NA,NA,1,251
+La Buena Lectura,111,"Holguín, Jorge",Creador,Luís León,Colombia,El mejor poema,11,15 de marzo de 1911,1911-03-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.8,252-253
+La Buena Lectura,112,"Tolstói, Lev Nikoláievich",Creador,León Tolstoi,Rusia,Los Tres Ladrones,11,15 de marzo de 1911,1911-03-15,Sí,Anónimo,Español,Ruso,Prosa Ficción,Variedades,NA,NA,1,253-254
+La Buena Lectura,113,"Marroquín, José Manuel",Creador,NA,Colombia,El Azote de Bogotá,11,15 de marzo de 1911,1911-03-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1,255-256
+La Buena Lectura,114,"Pardo Bazán, Emilia",Creador,NA,España,Otro Añito,11,15 de marzo de 1911,1911-03-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.8,255-257
+La Buena Lectura,115,Anónimo,Creador,NA,NA,Un Día de Lluvía en China,11,15 de marzo de 1911,1911-03-15,Sí,Anónimo,Español,Inglés,Prosa Ficción,Variedades,NA,NA,2,257-259
+La Buena Lectura,116,Anónimo,Creador,NA,NA,Bolívar y el Dominico,11,15 de marzo de 1911,1911-03-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,1,259
+La Buena Lectura,117,Anónimo,Creador,NA,NA,Algo sobre D. Mariano Ospina,11,15 de marzo de 1911,1911-03-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,Desde Santa Helena,NA,2.5,260-262
+La Buena Lectura,118,"Vilariño, Remigio",Creador,"Ugarte, R. V. de",España,El Lujo,12,1 de abril de 1911,1911-04-01,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,2.5,263-265
+La Buena Lectura,119,"Paz García, Carlos",Creador,NA,Venezuela,Más fuerte que el amor,12,1 de abril de 1911,1911-04-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1,265-266
+La Buena Lectura,120,Anónimo,Creador,NA,NA,Juicios Humanos,12,1 de abril 1911,1911-04-01,No,NA,Español,NA,Prosa Ficción,Variedades,De la Hormiga de Oro,NA,2,266-268
+La Buena Lectura,121,"Reyes, Arturo",Creador,NA,España,Pepa la Gitana,12,1 de abirl de 1911,1911-04-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,3.5,268-270
+La Buena Lectura,122,"Cavia, Pilar de",Creador,NA,España,Las Malas Lecturas,12,1 de abril de 1911,1911-04-01,No,NA,Español,NA,Poesía,Variedades,NA,NA,1,271
+La Buena Lectura,123,"Fourrière, Eugène",Creador,"Fourrier, Eugenio",Francia,El Premio de la Dulzura,12,1 de abril de 1911,1911-04-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,1.5,272-273
+La Buena Lectura,124,"Maupassant, Guy de",Creador,NA,Francia,El Guardabosque de la granja,12,1 de abril de 1911,1911-04-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,2.8,274-276
+La Buena Lectura,125,"Percebete, Gumersindo",Creador,NA,NA,Los Dramas del Hogar,12,1 de abril de 1911,1911-04-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.5,275-276
+La Buena Lectura,126,"Restrepo Mejía, Félix",Creador,NA,Colombia,Lourdes,12,1 de abril de 1911,1911-04-01,No,NA,Español,NA,Prosa Ficción,Variedades,Especial para la Buena Lectura,NA,1.5,276-277
+La Buena Lectura,127,"Gómez Barrientos, Estanislao",Creador,"Gómez Barrientos, E.",Colombia,Reminiscencias,12,1 de abril de 1911,1911-04-01,No,NA,Español,NA,Prosa Ficción,Variedades,Para fraternidad en casa de los Anselmitos,NA,2,278-279
+La Buena Lectura,128,"Henao, Januario",Creador,NA,Colombia,D. Miguel Uribe Restrepo (apuntes para una biografía),12,1 de abril de 1911,1911-04-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,3,279-282
+La Buena Lectura,129,Anónimo,Creador,NA,Colombia,Algo sobre D. Mariano Ospina,12,1 de abril de 1911,1911-04-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,4.5,282-286
+La Buena Lectura,130,"Vilariño, Remigio",Creador,"Ugarte, R. V. de",España,Las esposas. Cómo deben educarlas sus maridos,13,15 de abril de 1911,1911-04-15,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,2,287-288
+La Buena Lectura,131,"Haraucourt, Edmond",Creador,"Haraucourt, Edmundo",Francia,El Testigo,13,15 de abril de 1911,1911-04-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,2.4,289-291
+La Buena Lectura,132,"Guarín, David",Creador,NA,Colombia,Favores de la Suerte,13,15 de abril de 1911,1911-04-15,No,NA,Español,NA,Prosa No Ficción,Variedades,"Guarín, David",NA,4.5,291-295
+La Buena Lectura,133,"Mendès, Catulle",Creador,NA,Francia,La Risa de la Jóven,13,15 de abril de 1911,1911-04-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,0.5,295
+La Buena Lectura,134,"Rodao, José",Creador,NA,España,"El que manda, manda",13,15 de abril de 1911,1911-04-15,No,NA,Español,NA,Poesía,Variedades,NA,NA,1,296
+La Buena Lectura,135a,"Boëx, Joseph-Henry-Honoré",Creador,J. H. Rosny,Bélgica,La Sortija,13,15 de abril de 1911,1911-04-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,2,297-298
+La Buena Lectura,135b,"Boëx, Séraphin-Justin-François",Creador,J. H. Rosny,Bélgica,La Sortija,13,15 de abril de 1911,1911-04-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,2,297-298
+La Buena Lectura,136,"Castro, Rosalía de",Creador,NA,España,Presente de Reyes,13,15 de abril de 1911,1911-04-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.2,298-300
+La Buena Lectura,137,"Gómez Barrientos, Estanislao",Creador,"Gómez Barrientos, E.",Colombia,Un caminador extraordinario,13,15 de abril de 1911,1911-04-15,No,NA,Español,NA,Prosa No Ficción,Reminiscencias,NA,NA,3.5,302-305
+La Buena Lectura,138,"Correa, Ramón",Creador,NA,Colombia,Dr. Juan de Dios Morales,13,15 de abril de 1911,1911-04-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,A Ricardo Olano,NA,3.8,305-309
+La Buena Lectura,139,"Gómez Barrientos, Estanislao",Creador,"Gómez Barrientos, E.",Colombia,Algo sobre D. Mariano Ospina,13,15 de abril de 1911,1911-04-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2,309-310
+La Buena Lectura,140,"Vilariño, Remigio",Creador,"Ugarte, R. V. de",España,Las esposas. Cómo deben educarlas sus maridos,14,1 de mayo de 1911,1911-05-01,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,2.5,311-313
+La Buena Lectura,141,"Matoses, Manuel",Creador,Andrés Corzuelo,España,Quince Arrobas de Sujeto,14,1 de mayo de 1911,1911-05-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,313-315
+La Buena Lectura,142,"Pérez Nieva, Alfonso",Creador,NA,España,La Capa del Cura,14,1 de mayo de 1911,1911-05-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.5,315-316
+La Buena Lectura,143,"Roure, José de",Creador,NA,España,Cristo de los Inocentes,14,1 de mayo de 1911,1911-05-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,316-318
+La Buena Lectura,144,"Orozco, Luis",Creador,NA,NA,El Secreto,14,1 de mayo de 1911,1911-05-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.8,318-319
+La Buena Lectura,145,"Richepin, Jean",Creador,NA,Argelia,El tesoro de los pobres,14,1 de mayo de 1911,1911-05-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,2,319-320
+La Buena Lectura,146,"Aza, Vital",Creador,NA,España,El Médico Cazador,14,1 de mayo de 1911,1911-05-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1,320-321
+La Buena Lectura,147,"Holguín, Jorge",Creador,Luís León,Colombia,El Ídolo,14,1 de mayo de 1911,1911-05-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.8,321-323
+La Buena Lectura,148,Anónimo,Creador,NA,NA,Una Anécdota Rusa. La historia del condado Tolstoy,14,1 de mayo de 1911,1911-05-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,0.8,323
+La Buena Lectura,149,"Restrepo Mejía, Félix",Creador,NA,Colombia,Lourdes,14,1 de mayo de 1911,1911-05-01,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,2.8,323-325
+La Buena Lectura,150,Anónimo,Creador,NA,NA,La Primera Comunión,14,1 de mayo de 1911,1911-05-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,0.8,325
+La Buena Lectura,151,"Palma, Ricardo",Creador,NA,Perú,El Juzgamiento de Cristo,14,1 de mayo de 1911,1911-05-01,No,NA,Español,NA,Poesía,Variedades,NA,NA,1,326
+La Buena Lectura,152,"Taboada, Luis",Creador,NA,España,Los Micro-Bufos,14,1 de mayo de 1911,1911-05-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.8,327-328
+La Buena Lectura,153,"Baraya, Antonio",Creador,NA,Colombia,Palace. 28 de marzo de 1811. Primer combate por la independica. Parte de Baraya,14,1 de mayo de 1911,1911-05-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2.5,328-330
+La Buena Lectura,154,Anónimo,Creador,NA,Colombia,El padre y la casa de Girardot,14,1 de mayo de 1911,1911-05-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2.8,330-333
+La Buena Lectura,155,"Gómez Barrientos, Estanislao",Creador,"Gómez Barrientos, E.",Colombia,Algo sobre D. Mariano Ospina,14,1 de mayo de 1911,1911-05-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2,333-334
+La Buena Lectura,156,"Vilariño, Remigio",Creador,"Ugarte, R. V. de",España,Las esposas. Cómo deben educarlas sus maridos,15,15 de mayo de 1911,1911-05-15,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,2.7,335-337
+La Buena Lectura,157,Anónimo,Creador,NA,NA,El Pájaro del Paraíso. Leyenda Sueca,15,15 de mayo de 1911,1911-05-15,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,3,337-340
+La Buena Lectura,158,"Acebal, Francisco",Creador,NA,España,El 102,15,15 de mayo de 1911,1911-05-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.8,340-342
+La Buena Lectura,159,"Fernández Bremón, José",Creador,NA,España,El Sueño del Envidioso,15,15 de mayo de 1911,1911-05-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,0.8,342
+La Buena Lectura,160a,"Álvarez Quintero, Serafín",Creador,Hermanos Álvarez Quintero,España,La mejor copla. Los hermanos Álvarez Quintero,15,15 de mayo de 1911,1911-05-15,No,NA,Español,NA,Poesía,Variedades,NA,NA,2,343-344
+La Buena Lectura,160b,"Álvarez Quintero, Joaquín",Creador,Hermanos Álvarez Quintero,España,La mejor copla. Los hermanos Álvarez Quintero,15,15 de mayo de 1911,1911-05-15,No,NA,Español,NA,Poesía,Variedades,NA,NA,2,343-344
+La Buena Lectura,161,"Patrik, John",Creador,J. Patrik,NA,No Quiso Llegar a Vieja,15,15 de mayo de 1911,1911-05-15,Sí,Anónimo,Español,NA,Prosa Ficción,Variedades,NA,NA,1.6,345-346
+La Buena Lectura,162,"Daudet, Alphonse",Creador,NA,Francia,La Envidia,15,15 de mayo de 1911,1911-05-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,0.5,346
+La Buena Lectura,163,"Ortiz de Pinedo, J.",Creador,NA,España,El Niño del Valle,15,15 de mayo de 1911,1911-05-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.3,346-347
+La Buena Lectura,164,"Forge, E. de",Creador,NA,NA,Foullion,15,15 de mayo de 1911,1911-05-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.8,347-349
+La Buena Lectura,165,Anónimo,Creador,NA,NA,Ave María. Leyenda Aurea,15,15 de mayo de 1911,1911-05-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.8,349-350
+La Buena Lectura,166,"Sánchez, Teodosio V.",Creador,NA,Venezuela,El Sargento Tadeo,15,15 de mayo de 1911,1911-05-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2.8,350-353
+La Buena Lectura,167,"Uribe Ángel, Manuel",Creador,NA,Colombia,Un Espisodio Colombiano,15,15 de mayo de 1911,1911-05-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,4.5,353-357
+La Buena Lectura,168,"Gaviria Isaza, Henrique",Director,La Dirección,Colombia,Con el presente número,15,15 de mayo de 1911,1911-05-15,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,1,358
+La Buena Lectura,169,"Vilariño, Remigio",Creador,"Ugarte, R. V. de",España,Las Esposas. De cómo deben educarlas sus esposos,16,1 de junio de 1911,1911-06-01,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,2.8,359-361
+La Buena Lectura,170,"Risco, Alberto",Creador,NA,España,La Golondrina,16,1 de junio de 1911,1911-06-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.8,361-363
+La Buena Lectura,171,"Medina, Vicente",Creador,NA,España,Cómo hablan las Madres,16,1 de junio de 1911,1911-06-01,No,NA,Español,NA,Poesía,Variedades,NA,NA,2,363-364
+La Buena Lectura,172,"Guarín, David",Creador,NA,Colombia,Visitar a los enfermos,16,1 de junio de 1911,1911-06-01,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,6.8,365-371
+La Buena Lectura,173,Anónimo,Creador,NA,NA,No hay que exagerar,16,1 de junio de 1911,1911-06-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,271-273
+La Buena Lectura,174,"Peza, Juan de Dios",Creador,NA,México,Aquí no se sientan los indios,16,1 de junio de 1911,1911-06-01,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,1.8,373-374
+La Buena Lectura,175,"Riva Palacio, Vicente",Creador,Riva Palacio,México,Problema irresoluble,16,1 de junio de 1911,1911-06-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,374-375
+La Buena Lectura,176,"Blanco, Eduardo",Creador,NA,Colombia,Las Queseras (3 de abril de 1819),16,1 de junio de 1911,1911-06-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,3.5,376-378
+La Buena Lectura,177,"Ospina Vásquez, Tulio",Creador,NA,Colombia,El oidor Mon y Velarde. regenerador de Antioquia,16,1 de junio de 1911,1911-06-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,4.5,378-382
+La Buena Lectura,178,"Vilariño, Remigio",Creador,"Ugarte, R. V. de",España,Las Esposas. De cómo deben educarlas sus esposos,17,15 de julio de 1911,1911-07-15,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,3,383-385
+La Buena Lectura,179,"Esparbès, Georges d'",Creador,"Esparbes, Georges de",Francia,Los Niños,17,15 de julio de 1911,1911-07-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,2.5,386-388
+La Buena Lectura,180,"Pardo Bazán, Emilia",Creador,Condesa de Pardo Bazan,España,Chucho,17,15 de julio de 1911,1911-07-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.8,388-390
+La Buena Lectura,181,"Pérez, Antonio",Creador,NA,NA,Un terríble acusador,17,15 de junio de 1911,1911-06-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.6,391-393
+La Buena Lectura,182,Anónimo,Creador,NA,NA,Un Regicidio,17,15 de junio de 1911,1911-06-15,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,1,393-394
+La Buena Lectura,183,Anónimo,Creador,NA,NA,Caridad entre dos artístas,17,15 de junio de 1911,1911-06-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,0.9,394-395
+La Buena Lectura,184,"Jolicler, Étienne",Creador,"Jolicler, Esteban",Francia,Él y Ella,17,15 de junio de 1911,1911-06-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,1.5,395-396
+La Buena Lectura,185,Anónimo,Creador,NA,NA,Un Confesor de la Fe,17,15 de junio de 1911,1911-06-15,No,NA,español,NA,Prosa Ficción,Variedades,NA,NA,1.2,396-397
+La Buena Lectura,186,Anónimo,Creador,NA,NA,Herida de amor,17,15 de junio de 1911,1911-06-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,3.5,397-400
+La Buena Lectura,187,"Ospina Vásquez, Tulio",Creador,NA,Colombia,El oidor Mon y Velarde. regenerador de Antioquia,17,15 de junio de 1911,1911-06-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,4.8,400-404
+La Buena Lectura,188,"León, Lino M. de",Creador,NA,Colombia,Civilidad,18,1 de agosto de 1911,1911-08-01,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,3.2,407-409
+La Buena Lectura,189,"Bolet Peraza, Nicanor",Creador,NA,Venezuela,All Right,18,1 de agosto de 1911,1911-08-01,No,NA,Español,NA,Prosa Ficción,Buenas lecturas,NA,NA,1.5,409-410
+La Buena Lectura,190,"Peltier, Paul",Creador,NA,Francia,El Ave María,18,1 de agosto de 1911,1911-08-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,1.8,410-412
+La Buena Lectura,191,Anónimo,Creador,NA,NA,La Mejor Receta (Histórico),18,1 de agosto de 1911,1911-08-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,0.8,412
+La Buena Lectura,192,"Medina, Vicente",Creador,NA,España,Cansera,18,1 de agosto de 1911,1911-08-01,No,NA,Español,NA,Poesía,Variedades,NA,NA,1,413
+La Buena Lectura,193,"Pérez Nieva, Alfonso",Creador,NA,España,La Venganza de Cristianos,18,1 de agosto de 1911,1911-08-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.4,414-416
+La Buena Lectura,194,"Hernández Catá, Alfonso",Creador,NA,España,Entre Payasos,18,1 de agosto de 1911,1911-08-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,416-418
+La Buena Lectura,195,Anónimo,Creador,NA,NA,La Calumnia,18,1 de agosto de 1911,1911-08-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,0.8,418
+La Buena Lectura,196,"Dicenta, Joaquín",Creador,NA,España,Los Melocctones,18,1 de agosto de 1911,1911-08-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.8,418-420
+La Buena Lectura,197,Anónimo,Creador,NA,NA,Una de las figuras más notables del S XIII,18,1 de agosto de 1911,1911-08-01,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,1.8,420-422
+La Buena Lectura,198,Anónimo,Creador,NA,NA,El Niño Crucificado,18,1 de agosto de 1911,1911-08-01,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,1.8,422-423
+La Buena Lectura,199,"Vargas Ponce, José María",Creador,José Vargas,Venezuela,Los restos del Libertador en 1842,18,1 de agosto de 1911,1911-08-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,1.8,423-423
+La Buena Lectura,200,"Ospina Vásquez, Tulio",Creador,NA,Colombia,El oidor Mon y Velarde. regenerador de Antioquia,18,1 de agosto de 1911,1911-08-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2.8,424-427
+La Buena Lectura,201,"Blanco, Eduardo",Creador,NA,Colombia,Las Queseras (3 de abril de 1819),18,1 de agosto de 1911,1911-08-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,3.8,427-430
+La Buena Lectura,202,"Mancio, A.",Creador,"Mancio, A.",NA,Es necesario formar madres,19,15 de agosto de 1911,1911-08-15,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,2.5,431-433
+La Buena Lectura,203,"Reyes, Arturo",Creador,NA,España,La Guitarra,19,15 de agosto de 1911,1911-08-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,434-435
+La Buena Lectura,204,"Burgos, Juan de",Creador,NA,España,Una Bandera,19,15 de agosto de 1911,1911-08-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.3,435-437
+La Buena Lectura,205,"Cavia, Pilar de",Creador,NA,España,Poetas Cristianos,19,15 de agosto,1911-08-15,No,NA,Español,NA,Poesía,Variedades,NA,NA,1,438
+La Buena Lectura,206,"Rodó, José Enrique",Creador,NA,Uruguay,La Pampa de Granito,19,15 de agosto de 1911,1911-08-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.5,439-440
+La Buena Lectura,207,Anónimo,Creador,NA,NA,"El séptimo, no hurtar",19,15 de agosto de 1911,1911-08-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,3.8,440-444
+La Buena Lectura,208,Anónimo,Creador,NA,NA,Luis IX y la edad media,19,15 de agosto de 1911,1911-08-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,4,444-448
+La Buena Lectura,209,Anónimo,Creador,NA,NA,El Compañero de viale. Cuento para niños,19,15 de agosto de 1911,1911-08-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,0.5,448
+La Buena Lectura,210,"Ospina Vásquez, Tulio",Creador,NA,Colombia,El Oidor Mon y Velarde. regenerador de Antioquia,19,15 de agosto de 1911,1911-08-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,4,449-452
+La Buena Lectura,211,"Blanco, Eduardo",Creador,NA,Colombia,Las Queseras,19,15 de agosto de 1911,1911-08-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2,453-454
+La Buena Lectura,212,G. P. T.,Creador,NA,NA,La Mentira,20,1 de septiembre de 1911,1911-09-01,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,2,455-456
+La Buena Lectura,213,Anónimo,Creador,NA,NA,Luis IX y la edad media,20,1 de septiembre de 1911,1911-09-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,3,456-459
+La Buena Lectura,214,Anónimo,Creador,NA,NA,La Buena Esposa,20,1 de septiembre de 1911,1911-09-01,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,1.5,459-460
+La Buena Lectura,215,"Carrión, J. R.",Creador,NA,Colombia,La Venganza de un Cura,20,1 de septiembre de 1911,1911-09-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.8,460-461
+La Buena Lectura,216,"Rojo-Arial, Ignacio",Creador,NA,NA,Corresponsal de Guerra,20,1 de septiembre de 1911,1911-09-01,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,2.4,461-463
+La Buena Lectura,217,"Menéndez Pelayo, Enrique",Creador,NA,España,Manos Blancas,20,1 de septiembre de 1911,1911-09-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.3,463-465
+La Buena Lectura,218,Anónimo,Creador,NA,NA,La Urna de los Muertos,20,1 de septiembre de 1911,1911-09-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,465-466
+La Buena Lectura,219,"Roca de Togores y Saravia, José",Creador,NA,España,Resignación,20,1 de septiembre de 1911,1911-09-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.5,466-467
+La Buena Lectura,220,"Campoamor, Ramón de",Creador,NA,España,La insurrección del agua,20,1 de septiembre de 1911,1911-09-01,No,NA,Español,NA,Poesía,Variedades,NA,NA,2,467-468
+La Buena Lectura,221,"Salaverría, José María",Creador,Salvrri,España,Dos Castigos,20,1 de septiembre de 1911,1911-09-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,0.5,468
+La Buena Lectura,222,"Schiller, Friedrich",Creador,NA,Alemania,La Estatua Velada de Sais,20,1 de septiembre de 1911,1911-09-01,Sí,Anónimo,Español,Alemán,Prosa Ficción,Variedades,NA,NA,1,470
+La Buena Lectura,223,"Velásquez García, José",Creador,NA,Colombia,Vírgenes Blancas,20,1 de septiembre de 1911,1911-09-01,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,1.8,471-472
+La Buena Lectura,224,"Blanco, Eduardo",Creador,NA,Colombia,Las Queseras,20,1 de septiembre 1911,1911-09-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,3,472-475
+La Buena Lectura,225,"Ospina Rodríguez, Mariano",Creador,NA,Colombia,El doctor José Félix Restrepo y su época,20,1 de septiembre de 1911,1911-09-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,3.5,475-478
+La Buena Lectura,226,Anónimo,Creador,NA,NA,La Acusación del Asesino,21,15 de septiembre de 1911,1911-09-15,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,2.5,479-481
+La Buena Lectura,227,"Fischer, Léopold de",Creador,Leop Fischer,NA,Sor Blanca,21,15 de septiembre de 1911,1911-09-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,4,481-485
+La Buena Lectura,228,"Holguín, Jorge",Creador,Luís León,Colombia,El Valor,21,15 de septiembre de 1911,1911-09-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.8,485-486
+La Buena Lectura,229,Anónimo,Creador,NA,Argentina,La Muerte de Brindis de Salas,21,15 de septiembre de 1911,1911-09-15,No,NA,Español,NA,Prosa No Ficción,Variedades,"no es una dedicatoria pero se menciona que es tomado de Caras y Caretas, revista Argentina",NA,2,486-488
+La Buena Lectura,230,Anónimo,Creador,NA,NA,Extravagancia y lujo romano,21,15 de septiembre de 1911,1911-09-15,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,0.8,488
+La Buena Lectura,231,"García, Juan Manuel",Creador,NA,Colombia,Soy Cristiano,21,15 de septiembre de 1911,1911-09-15,No,NA,Español,NA,Poesía,Variedades,NA,NA,1,489
+La Buena Lectura,232,"Fernández, Luis",Creador,NA,NA,Lo que vale un minuto,21,15 de septiembre de 1911,1911-09-15,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,1.3,490-491
+La Buena Lectura,233,"Level, Maurice",Creador,"Level, Mauricio",Francia,El Mendigo,21,15 de septiembre de 1911,1911-09-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,1.8,491-492
+La Buena Lectura,234,Anónimo,Creador,NA,NA,Duelo a muerte,21,15 de septiembre de 1911,1911-09-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,0.3,493
+La Buena Lectura,235,Anónimo,Creador,NA,NA,La desgracia de los incredulos,21,15 de septiembre de 1911,1911-09-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,0.3,493
+La Buena Lectura,236,"Santiago Fuentes, Magdalena de",Creador,NA,España,La Conversión de Nohemi,21,15 de septiembre de 1911,1911-09-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.5,493-495
+La Buena Lectura,237,"Medina Alfonzo, Arturo",Creador,NA,Venezuela,La Taza de Bolívar,21,15 de septiembre de 1911,1911-09-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,1.3,496-497
+La Buena Lectura,238,"Soublette, Carlos",Creador,NA,Venezuela,La Batalla de Boyacá (1819),21,15 de septiembre de 1911,1911-09-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,1.8,497-498
+La Buena Lectura,239,"Febres Cordero, Tulio",Creador,NA,Venezuela,Valor a toda prueba (hecho histórico),21,15 de septiembre de 1911,1911-09-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,1.4,499-500
+La Buena Lectura,240,"Ospina Rodríguez, Mariano",Creador,NA,Colombia,El doctor José Félix Restrepo y su época,21,15 de septiembre de 1911,1911-09-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,3,500-502
+La Buena Lectura,241,"Mejía O., Ramón",Director,NA,Colombia,Buena Lectura,22,1 de octubre de 1911,1911-10-01,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,1,503
+La Buena Lectura,242,"Level, Maurice",Creador,"Level, Mauricio",Francia,El campanero,22,1 de octubre de 1911,1911-10-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Buenas lecturas,NA,NA,2.5,504-506
+La Buena Lectura,243,Anónimo,Creador,Un Creyente,NA,Cuadro Misterioso,22,1 de otubre de 1911,1911-10-01,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,1.5,506-507
+La Buena Lectura,244,Anónimo,Creador,NA,NA,Beethoven Cocinero,22,1 de octubre de 1911,1911-10-01,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,0.8,507-508
+La Buena Lectura,245,"Santiago Fuentes, Magdalena de",Creador,NA,España,La Conversión de Nohemi,22,1 de octubre de 1911,1911-10-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,5.5,508-513
+La Buena Lectura,246,"Ortiz, Juan Francisco",Creador,NA,Colombia,La Botella de Vino,22,1 de octubre de 1911,1911-10-01,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,3.5,513-516
+La Buena Lectura,247,"Fernández Grilo, Antonio",Creador,NA,España,Las Golondrinas,22,1 de octubre de 1911,1911-10-01,No,NA,Español,NA,Poesía,Variedades,NA,NA,1,517
+La Buena Lectura,248,"Houssaye, Arséne",Creador,"Houssaye, Arsenio",Francia,Muerte de Danton,22,1 de octubre de 1911,1911-10-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,1,518
+La Buena Lectura,249,"Fischer, Léopold de",Creador,Leop Fischer,NA,Sor Blanca,22,1 de octubre de 1911,1911-10-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,0.8,518-519
+La Buena Lectura,250,"Correa, Ramón",Creador,NA,Colombia,Doña Simona Duque,22,1 de octubre de 1911,1911-10-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,4,513-517
+La Buena Lectura,251,"Ospina Rodríguez, Mariano",Creador,NA,Colombia,Don José Félix de Restrepo,22,1 de octubre de 1911,1911-10-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,3,517-520
+La Buena Lectura,252,"Mejía O., Ramón",Director,NA,Colombia,El Trabajo no deshonra,23,15 de octubre de 1911,1911-10-15,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,1,521
+La Buena Lectura,253,Anónimo,Creador,NA,Argentina,La Segunda Gracia,23,15 de octubre de 1911,1911-10-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,6.4,522-528
+La Buena Lectura,254,"Van Tricht, Victor",Creador,"Van Tricht, P. Victor",Bélgica,Recuerdo de Alejandrina,23,15 de octubre de 1911,1911-10-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,0.8,528
+La Buena Lectura,255,"Fischer, Léopold de",Creador,Leop Fischer,NA,Sor Blanca,23,15 de octubre de 1911,1911-10-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,1.8,529-530
+La Buena Lectura,256,Anónimo,Creador,Eliseo,NA,Realismo,23,15 de octubre de 1911,1911-10-15,No,NA,Español,NA,Poesía,Variedades,NA,NA,0.5,531
+La Buena Lectura,257,"Díaz Mirón, Salvador",Creador,NA,México,A Berta,23,15 de octubre de 1911,1911-10-15,No,NA,Español,NA,Poesía,Variedades,NA,NA,0.5,531
+La Buena Lectura,258,"Claretie, Jules",Creador,NA,Francia,BUM-BUM,23,15 de octubre de 1911,1911-10-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Sección Infantil,NA,NA,3.5,532-535
+La Buena Lectura,259,"Pardo Bazán, Emilia",Creador,NA,España,Una broma pontificia,23,15 de octubre de 1911,1911-10-15,No,NA,Español,NA,Prosa Ficción,Sección Infantil,NA,NA,3.5,535-538
+La Buena Lectura,260,"Quijano, Arturo",Creador,NA,Colombia,Colombia y España. El abrazo de Santa Ana,23,15 de octubre de 1911,1911-10-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,4.5,538-543
+La Buena Lectura,261,"Ospina Rodríguez, Mariano",Creador,NA,Colombia,Dr. José Félix Restrepo,23,15 de octubre de 1911,1911-10-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2,543-544
+La Buena Lectura,262,Anónimo,Creador,NA,Colombia,Por deber y gratitud,23,15 de octubre de 1911,1911-10-15,No,NA,Español,NA,Publicidad,NA,NA,NA,0.5,544
+La Buena Lectura,263,"Vilariño, Remigio",Creador,NA,España,La destemplanza del alcohol,24,1 de noviembre de 1911,1911-11-01,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,1.5,545-546
+La Buena Lectura,264,"Fischer, Léopold de",Creador,Leop Fischer,NA,Sor Blanca,24,1 de noviembre de 1911,1911-11-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,2,546-548
+La Buena Lectura,265,"Blanco Belmonte, Marcos Rafael",Creador,M.R. Belmonte,España,Por los Golfos,24,1 de noviembre de 1911,1911-11-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1,549
+La Buena Lectura,266,"Fourrière, Eugène",Creador,"Fourrier, Eugenio",Francia,Bonito Negocio,24,1 de noviembre de 1911,1911-11-01,Sí,Anónimo,Español,Francés,Poesía,Variedades,NA,NA,1.8,550-551
+La Buena Lectura,267,"Gómez Jaime de Abadía, Herminia",Creador,NA,Colombia,Bajo la Bandera,24,1 de noviembre de 1911,1911-11-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,4,551-555
+La Buena Lectura,268,"Cordovez Moure, José María",Creador,NA,Colombia,La Cartuja,24,1 de noviebre de 1911,1911-11-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,4.5,555-559
+La Buena Lectura,269,"Vergara y Vergara, José María",Creador,NA,Colombia,La Asamble de Chirichiquí,24,1 de noviembre de 1911,1911-11-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,4.8,559-564
+La Buena Lectura,270,"Vicuña Mackenna, Benjamín",Creador,NA,Chile,Bolívar y San Martín,24,1 de noviembre d e1911,1911-11-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2,563-565
+La Buena Lectura,271,"Ospina Rodríguez, Mariano",Creador,NA,Colombia,El Doctor José Félix Restrepo,24,1 de noviembre de 1911,1911-11-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,3.8,565-568
+La Buena Lectura,272,"Mejía O., Ramón",Director,NA,Colombia,Encarnación Vazquez de Hoyos,25,15 de noviembre de 1911,1911-11-15,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,1.2,569-570
+La Buena Lectura,273,Anónimo,Creador,NA,NA,Qué es el Sacerdote?,25,15 de noviembre de 1911,1911-11-15,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,1.8,570-571
+La Buena Lectura,274,"Fischer, Léopold de",Creador,Leop Fischer,NA,Sor Blanca,25,15 de noviembre d e1911,1911-11-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,4,571-575
+La Buena Lectura,275,"Gutiérrez, Ricardo",Creador,NA,Argentina,El Fraile,25,15 de noviembre de 1911,1911-11-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,575-577
+La Buena Lectura,276,"Coloma, Luis",Creador,NA,España,El Bandido Diego Corriente,25,15 de noviembre de 1911,1911-11-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,7.8,577-584
+La Buena Lectura,277,"Castro, Rosalía de",Creador,NA,España,El Principe Visionario,25,15 de noviembre de 1911,1911-11-15,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,1,584-585
+La Buena Lectura,278,"Répide, Pedro de",Creador,NA,España,Las Viejas Indias,25,15 de noviembre de 1911,1911-11-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,1,585-586
+La Buena Lectura,279,"Ospina Rodríguez, Mariano",Creador,NA,Colombia,Dr. José Félix Restrepo,25,15 de noviembre de 1911,1911-11-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,6.4,586-592
+La Buena Lectura,280,"Fernández Avendaño, Enrique Wenceslao",Creador,E. W. Fernández,Colombia,La Liga del Silencio contra el Suicidio,26,1 de dicembre de 1911,1911-12-01,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,1.5,593-594
+La Buena Lectura,281,"Coloma, Luis",Creador,NA,España,La Camisa del Hombre Feliz,26,1 de dicembre de 1911,1911-12-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.8,594-597
+La Buena Lectura,282,"Féval, Paul",Creador,NA,Francia,La Leyenda de San Vinol,26,1 de dicembre de 1911,1911-12-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,1,597-598
+La Buena Lectura,283,"Daudet, Alphonse",Creador,NA,Francia,El Secreto del Molinero Cornille,26,1 de dicembre de 1911,1911-12-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,3,600-603
+La Buena Lectura,284,"D’Sola, Juan",Creador,NA,Venezuela,La Agonía de Don Quijote,26,1 de dicembre de 1911,1911-12-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,0.8,604
+La Buena Lectura,285,"Fischer, Léopold de",Creador,Leop Fischer,NA,Sor Blanca,26,1 de dicembre de 1911,1911-12-01,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,3,604-607
+La Buena Lectura,286,"Marry, Julio",Creador,NA,NA,Conciencia,26,1 de dicembre de 1911,1911-12-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,607-609
+La Buena Lectura,287,"Bértis, Juan",Creador,NA,El Salvador,Religión y patria,26,1 de dicembre de 1911,1911-12-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2,610-612
+La Buena Lectura,288,"Ospina Rodríguez, Mariano",Creador,NA,Colombia,Dr. José Félix Restrepo,26,1 de dicembre de 1911,1911-12-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,3.5,612-616
+La Buena Lectura,289,"Olavarría, Claudio",Creador,NA,NA,La Hermana de la Caridad,27,15 de diciembre de 1911,1911-12-15,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,1.5,617-618
+La Buena Lectura,290,"Daudet, Alphonse",Creador,NA,Francia,El Abanderado,27,15 de diciembre de 1911,1911-12-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,3.8,618-621
+La Buena Lectura,291,"Bordeaux, Henry",Creador,NA,Francia,El Camino de Roslandia,27,15 de diciembre de 1911,1911-12-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,4.5,621-625
+La Buena Lectura,292,"Fernández Grilo, Antonio",Creador,NA,España,El Ángel de la Guarda,27,15 de diciembre de 1911,1911-12-15,No,NA,Español,NA,Poesía,Variedades,NA,NA,1,626
+La Buena Lectura,293,"Fischer, Léopold de",Creador,Leop Fischer,NA,Sor Blanca,27,15 de diciembre de 1911,1911-12-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,3.7,627-629
+La Buena Lectura,294,"Calcaño, Eduardo",Creador,NA,Venezuela,Los Contemporáneos,27,15 de diciembre de 1911,1911-12-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2,629-631
+La Buena Lectura,295,"France, Anatole",Creador,Anatolio France,Francia,Los Saltimbaquis,27,15 de diciembre 1911,1911-12-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,2.5,631-633
+La Buena Lectura,296,"Contreras, Luis Eladio",Creador,NA,Venezuela,Patriotismo Sublime (episodio colombiano),27,15 de diciembre de 1911,1911-12-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,1.3,633-634
+La Buena Lectura,297,"Ospina Rodríguez, Mariano",Creador,NA,Colombia,Dr. José Félix Restrepo,27,15 de diciembre de 1911,1911-12-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,4,635-638
+La Buena Lectura,298,G. P. T.,Creador,NA,NA,El Himno de Colombia,27,15 de diciembre de 1911,1911-12-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,1.5,639-640
+La Buena Lectura,299,Anónimo,Creador,NA,NA,Ayacucho,27,15 de diciembre de 1911,1911-12-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,1,640
+La Buena Lectura,300,Anónimo,Creador,NA,NA,El Ahorro,28,15 de enero de 1912,1912-01-15,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,1.8,641-642
+La Buena Lectura,301,"Louÿs, Pierre",Creador,Pierre Lyons,Francia,La Cletpomanía,28,15 de enero de 1912,1912-01-15,Sí,Anónimo,Español,Francés,Prosa No Ficción,Variedades,NA,NA,1.8,642-644
+La Buena Lectura,302,"León, Luis de",Creador,Fray Luis,España,El Nacimiento del sol,28,15 de enero de 1912,1912-01-15,No,NA,Español,NA,Poesía,Variedades,NA,NA,0.8,644
+La Buena Lectura,303,"Manrique, Jorge",Creador,NA,España,Coplas a la Muerte de mi Padre,28,15 de enero de 1912,1912-01-15,No,NA,Español,NA,Poesía,Variedades,NA,NA,2,645-646
+La Buena Lectura,304,"Foleÿ, Charles",Creador,Carlos Foley,Francia,El Teléfono,28,15 de enero de 1912,1912-01-15,Sí,Anónimo,Español,Francés,Prosa Ficción,Variedades,NA,NA,2.3,647-649
+La Buena Lectura,305,"Cañete, Manuel",Creador,NA,España,Fray Luis de León,28,15 de enero de 1912,1912-01-15,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,0.7,649
+La Buena Lectura,306,"Bernad, Julio",Creador,NA,NA,El Mendigo,28,15 de enero de 1912,1912-01-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.8,649-651
+La Buena Lectura,307,Anónimo,Creador,NA,NA,Corazón de Plata,28,15 de enero de 1912,1912-01-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.8,652-653
+La Buena Lectura,308,Anónimo,Creador,NA,NA,El Niño Jesús de Praga,28,15 de enero de 1912,1912-01-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,0.8,653
+La Buena Lectura,309,"Echeverri, Camilo Antonio",Creador,C. A. Echeverri,Colombia,Noches en el Hospital,28,15 de enero de 1912,1912-01-15,No,NA,Español,NA,Prosa Ficción,Variedades,A mi madre,NA,4.3,653-657
+La Buena Lectura,310,"Castillo, José Vicente",Creador,Jotavé,Colombia,Episodio de la Guerra del Pacifico,28,15 de enero de 1912,1912-01-15,No,NA,Español,NA,Prosa No Ficción,Historia Sud-América,NA,NA,2.5,658-660
+La Buena Lectura,311,"Goenaga, José Manuel",Creador,NA,Colombia,Batalla de Junín,28,15 de enero de 1912,1912-01-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,3,660-663
+La Buena Lectura,312,"Fernández Avendaño, Enrique Wenceslao",Creador,E. W. Fernández,Colombia,José Rufino José Cuervo,28,15 de enero de 1912,1912-01-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,1.3,663-664
+La Buena Lectura,313,"Fernández Avendaño, Enrique Wenceslao",Creador,E. W. Fernández,Colombia,La Liga del Silencio contra el Suicidio,29,1 de febrero de 1912,1912-02-01,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,2.5,665-667
+La Buena Lectura,314,"León Gómez, Adolfo",Creador,A. León Gómez,Colombia,Horrible muerte,29,1 de febrero de 1912,1912-02-01,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,2,667-669
+La Buena Lectura,315,"Nogales, José",Creador,NA,España,Un puñado de oro,29,1 de febrero de 1912,1912-02-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1,669-670
+La Buena Lectura,316,"Manrique Terán, Guillermo",Creador,G. Manrique,Colombia,Pequeña Elegía,29,1 de febrero de 1912,1912-02-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,1.5,670-671
+La Buena Lectura,317,"Gómez, Alfonso Javier",Creador,Alfonso J. Gómez,Colombia,Saulo,29,1 de febrero de 1912,1912-02-01,No,NA,Español,NA,Poesía,Variedades,Para la Buena Lectura,NA,1,672
+La Buena Lectura,318,Anónimo,Creador,NA,NA,Influencia del Padre Nuestro,29,1 de febrero de 1912,1912-02-01,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,4.8,673-667
+La Buena Lectura,319,"Echeverri, Camilo Antonio",Creador,C. A. Echeverri,Colombia,Noches en el Hospital,29,1 de febrero de 1912,1912-02-01,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,8,677-684
+La Buena Lectura,320,Anónimo,Creador,NA,Colombia,Tradiciones Cartageneras,29,1 de febrero de 1912,1912-02-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2.3,684-686
+La Buena Lectura,321,"Cortázar, Roberto",Creador,R.Cortázar,Colombia,“9 de Diciembre”,29,1 de febrero de 1912,1912-02-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,1.5,686-687
+La Buena Lectura,322,G. P. T.,Creador,NA,NA,Cartagena y el Libertador,29,1 de febrero de 1912,1912-02-01,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,1.8,687-688
+La Buena Lectura,323,M.V.O,Creador,NA,Colombia,Ahí está el enemigo,30,15 de febrero de 1912,1912-02-15,No,NA,Español,NA,Prosa No Ficción,Buenas lecturas,NA,NA,2.8,689-691
+La Buena Lectura,324,"Castelar, Emilio",Creador,NA,España,Caridad,30,15 de febrero de 1912,1912-02-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,0.8,691
+La Buena Lectura,325,"Risco, Alberto",Creador,NA,España,Amor Patrio,30,15 de febrero de 1912,1912-02-15,No,NA,Español,NA,Poesía,Variedades,NA,NA,2,692-693
+La Buena Lectura,326,"Martínez Lozano, Joaquín",Creador,NA,España,Yo tres y tú dos,30,15 de febrero de 1912,1912-02-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.4,694-696
+La Buena Lectura,327,"Labre, Benoît-Joseph",Creador,"Labre, Benito José",Francia,La Iniciadora de los Congresos Eucaristícos Internacionales,30,15 de febrero de 1912,1912-02-15,Sí,Anónimo,Español,Francés,Prosa No Ficción,Variedades,NA,NA,0.8,696
+La Buena Lectura,328,Anónimo,Creador,NA,España,La Mano de Blanca,30,15 de febrero de 1912,1912-02-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,2.3,696-698
+La Buena Lectura,329,Anónimo,Creador,NA,NA,La Letra P,30,15 de febrero de 1912,1912-02-15,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,0.8,698
+La Buena Lectura,330,Anónimo,Creador,NA,NA,Descubrimiento de un mundo por causa del ajedrez,30,15 de febrero de 1912,1912-02-15,No,NA,Español,NA,Prosa No Ficción,Variedades,NA,NA,3.8,699-702
+La Buena Lectura,331,"Echeverri, Camilo Antonio",Creador,C. A. Echeverri,Colombia,Noches en el Hospital,30,15 de febrero de 1912,1912-02-15,No,NA,Español,NA,Prosa Ficción,Variedades,NA,NA,4.4,702-706
+La Buena Lectura,332,"Naranjo Martínez, Enrique",Creador,Enrique Naranjo,Colombia,Un héroe colombia. José Cornelio Borda,30,15 de febrero de 1912,1912-02-15,No,NA,Español,NA,Prosa No Ficción,Historia Patria,NA,NA,2.3,706-708

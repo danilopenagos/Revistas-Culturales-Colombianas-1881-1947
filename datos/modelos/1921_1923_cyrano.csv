@@ -1,0 +1,515 @@
+NombreR,NumContrib,Colaborador,Roles,Seudonimo,PaisOrigen,Titulo,NumFasciculo,Fecha,Fecha-ISO,Traduccion,Traductor,Lengua,LenguaOriginal,Tipo,TipoIndice,Dedicatoria,ObrasResenadas,CantidadPaginas,Paginacion
+Cyrano,1,"Gómez, Bernardo E.",Creador,NA,NA,Versos inéditos,1,1 de agosto de 1921,1921-08-01,No,NA,Español,NA,Poesía,NA,Cyrano,NA,0.3,7
+Cyrano,2,"Gómez, Carlos E.",Creador,NA,NA,"""El puente de los suspiros""",1,1 de agosto de 1921,1921-08-01,No,NA,Español,NA,Prosa No Ficción,NA,"Mejía, Emiro",NA,0.7,7-8
+Cyrano,3,"Vasco Gutiérrez, Eduardo",Creador,NA,Colombia,Esta tarde…..,1,1 de agosto de 1921,1921-08-01,No,NA,Español,NA,Poesía,NA,Cyrano,NA,0.2,8
+Cyrano,4,"Gallego, Romualdo",Creador,NA,Colombia,Cornelia,1,1 de agosto de 1921,1921-08-01,No,NA,Español,NA,Prosa Ficción,Cuento,"Jaramillo Medina, Teresita",NA,1.7,8-10
+Cyrano,5,"Montoya Gaviria, Emilio",Director,"Montoya Gaviria, Em.",Colombia,Al vivo,1,1 de agosto de 1921,1921-08-01,No,NA,Español,NA,Prosa Ficción,NA,"Jaramillo, Adán",NA,1.7,10
+Cyrano,6,"Carvajal Quintero, Filiberto",Creador,NA,Colombia,Escribe,1,1 de agosto de 1921,1921-08-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.2,11
+Cyrano,7,"Agudelo, Gilberto",Creador,NA,Colombia,Dilución,1,1 de agosto de 1921,1921-08-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.2,11
+Cyrano,8,"Botero, Francisco",Creador,NA,Colombia,Por los que empiezan,1,1 de agosto de 1921,1921-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,11
+Cyrano,9,"Vélez, Eladio",Ilustrador,E. Velez,Colombia,NA,1,1 de agosto de 1921,1921-08-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,11
+Cyrano,10,"Franco, Horacio",Creador,NA,Colombia,Al margen,1,1 de agosto de 1921,1921-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,12
+Cyrano,11,Isaza,Ilustrador,Isaza,NA,NA,1,1 de agosto de 1921,1921-08-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.3,12
+Cyrano,12,"Struss, A.V.",Creador,"Struss, A.V.",NA,Bienvenido,1,1 de agosto de 1921,1921-08-01,No,NA,Español,NA,Prosa No Ficción,NA,"Callejas, J.B.",NA,0.5,13
+Cyrano,13,Don Tancredo,Creador,Don Tancredo,NA,Toros y toreros,1,1 de agosto de 1921,1921-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.9,13-14
+Cyrano,14,Isaza,Ilustrador,Isaza,NA,NA,1,1 de agosto de 1921,1921-08-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.6,14
+Cyrano,15,Gomez,Ilustrador,Gomez,NA,NA,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Imagen,NA,NA,NA,0.7,NA
+Cyrano,16,Anónimo,Creador,NA,NA,NA,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,17,"Gómez Escobar, Francisco",Creador,Efe Gomez,Colombia,Croniquillas,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Prosa No Ficción,NA,"Uribe Escobar, Ricardo",NA,2.8,15-17
+Cyrano,18,Anónimo,Ilustrador,NA,NA,El Inglés al alcance de los niños,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Imagen,NA,NA,NA,0.3,17
+Cyrano,19,"Gómez R., José J.",Creador,NA,NA,Renovar….,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,18
+Cyrano,20,"Vélez, Eladio",Ilustrador,Velez,Colombia,NA,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Imagen,NA,NA,NA,0.4,18
+Cyrano,21,"Botero, Francisco",Creador,NA,Colombia,Del recuerdo,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.5,19
+Cyrano,22,"Ferrer Escobar, Jesús",Creador,NA,Colombia,El mendigo poeta,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.3,19
+Cyrano,23,"Vélez, Eladio",Ilustrador,E. Velez,Colombia,NA,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,19
+Cyrano,24,"Montoya, Roberto",Creador,NA,Colombia,El artificio de una artista,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Prosa Ficción,Cuento,Doña C.M.,NA,3.3,20-23
+Cyrano,25,"Ramírez Monsalve, Joaquín Guillermo",Creador,NA,NA,Propósitos y prácticas,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,23
+Cyrano,26,Lébre,Creador,Lébre,NA,En pose - Marina,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,24
+Cyrano,27,"Vélez, Eladio",Ilustrador,Velez,Colombia,NA,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Imagen,NA,NA,NA,0.5,24
+Cyrano,28,"Díaz, Ruy",Creador,NA,NA,Futuro,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,25
+Cyrano,29,"Vasco Gutiérrez, Eduardo",Creador,NA,Colombia,Hermana,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,25
+Cyrano,30,"Herrera, Adán",Creador,NA,NA,Divagacion,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Prosa Ficción,NA,Tita,NA,0.7,25-26
+Cyrano,31,Anónimo,Creador,NA,NA,Notas,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Publicidad,NA,NA,NA,0.2,26
+Cyrano,32,Anónimo,Creador,NA,NA,Condiciones,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Publicidad,NA,NA,NA,0.2,26
+Cyrano,33,Anónimo,Creador,NA,NA,NA,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,34,Anónimo,Creador,NA,NA,NA,2,Septiembre 11 de 1921,1921-09-11,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,35,Anónimo,Creador,NA,NA,NA,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,36,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Los solitarios,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.6,27-28
+Cyrano,37,"Toro Idárraga, Bernardo",Creador,NA,NA,Simbolo,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Poesía,NA,NA,NA,0.9,28
+Cyrano,38,"Cobos, N.",Creador,NA,NA,Raza vencedora,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.1,29-30
+Cyrano,39,"Carvajal Quintero, Filiberto",Creador,NA,Colombia,Helada!,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,30
+Cyrano,40,Anónimo,Creador,NA,NA,Dante Alighieri,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,30
+Cyrano,41,J.A.Z.,Creador,J.A.Z.,NA,Centenario de Mexico,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,30
+Cyrano,42,"Gómez Escobar, Francisco",Creador,Efe Gomez,Colombia,"Opinion cinco con setenta (5,70) del Abate Jerónimo Coignard",3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Poesía,NA,NA,NA,1,31
+Cyrano,43,Lis Albo,Creador,Lis Albo,NA,Clarita y la blanca,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Prosa Ficción,NA,"Cano, María",NA,1,32
+Cyrano,44,"Márquez, Tomás",Creador,NA,Colombia,Artista,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.8,33
+Cyrano,45,"Vélez, Eladio",Ilustrador,E. Velez,Colombia,NA,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,33
+Cyrano,46,"Montoya Gaviria, Emilio",Director,"Montoya Gaviria, Em.",Colombia,Del natural,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.7,34-35
+Cyrano,47,Anónimo,Ilustrador,NA,NA,Medellin elegante,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Imagen,NA,NA,NA,0.2,35
+Cyrano,48,"Vélez, Eladio",Ilustrador,Velez,Colombia,NA,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Imagen,NA,NA,NA,0.5,36
+Cyrano,49,"Álvarez, Antonio",Creador,NA,NA,Propositos,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Prosa Ficción,Cuento,"Taborda, Jesús",NA,1.7,36-38
+Cyrano,50,Don Tancredo,Creador,Don Tancredo,NA,Toros y toreros,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,38
+Cyrano,51,Anónimo,Ilustrador,NA,NA,"""Los misteres""",3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Imagen,NA,NA,NA,0.3,38
+Cyrano,52,Anónimo,Creador,NA,NA,NA,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Publicidad,NA,NA,NA,0.1,38
+Cyrano,53,Anónimo,Creador,NA,NA,NA,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,54,Anónimo,Creador,NA,NA,NA,3,Septiembre 18 de 1921,1921-09-18,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,55,Anónimo,Ilustrador,NA,NA,NA,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,56,Anónimo,Creador,NA,NA,NA,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,57,"Gómez Escobar, Francisco",Creador,Efe Gomez,Colombia,Croniquillas,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.7,39-41
+Cyrano,58,"Jaramillo, Arturo",Creador,NA,NA,Rebeldia,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Poesía,NA,"Mejía, Pepa",NA,0.3,41
+Cyrano,59,Anónimo,Ilustrador,NA,NA,Ciro Mendía,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Poesía,Poesía,"Mendía, Ciro",NA,0.5,42
+Cyrano,60,"Castro, Alfonso",Creador,NA,NA,El Poema del Eterno Minuto,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.5,42-43
+Cyrano,61,"Vélez, J. Emilio",Creador,NA,NA,Sol del Domingo,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Poesía,NA,NA,NA,1,44
+Cyrano,62,Anónimo,Creador,NA,NA,Siao Sin,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.3,45
+Cyrano,63,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,El deseo,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,45
+Cyrano,64,"Vélez, Eladio",Ilustrador,Velez,Colombia,"""El maestro de la juventud""",4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Imagen,NA,NA,NA,0.3,45
+Cyrano,65,Anónimo,Creador,NA,NA,Detalle,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,46
+Cyrano,66,"Velillo, José",Creador,NA,NA,Instintivamente,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.3,46
+Cyrano,67,G. E. C.,Creador,G. E. C.,NA,El día del estudiante,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,46-47
+Cyrano,68,"Álvarez R., Lisandro",Administrador,NA,NA,Pro Tempore,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.4,47-48
+Cyrano,69,"Vasco Gutiérrez, Eduardo",Creador,NA,Colombia,La ciega del crepusculo,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,49
+Cyrano,70,Lebret,Creador,Lebret,NA,Marañas,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,49-50
+Cyrano,71,Anónimo,Ilustrador,NA,NA,Eduardo Castro,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Imagen,NA,NA,NA,0.7,50
+Cyrano,72,Anónimo,Creador,NA,NA,NA,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,73,Anónimo,Creador,NA,NA,NA,4,Septiembre 25 de 1921,1921-09-25,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,74,"Gómez Escobar, Francisco",Creador,Efe Gomez,Colombia,De un drama en amenaza,5,Octubre 2 de 1921,1921-10-02,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3.6,51-54
+Cyrano,75,"Duque Bernal, Augusto",Creador,NA,NA,De cuerpo entero,5,Octubre 2 de 1921,1921-10-02,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,54
+Cyrano,76,"Restrepo Jaramillo, José Luis",Creador,NA,Colombia,Perfil romantico,5,Octubre 2 de 1921,1921-10-02,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.7,55-56
+Cyrano,77,"Velásquez Pineda, José",Creador,NA,NA,Vuelve,5,Octubre 2 de 1921,1921-10-02,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,56
+Cyrano,78,Anónimo,Creador,NA,NA,Los tres vórtices,5,Octubre 2 de 1921,1921-10-02,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.3,57
+Cyrano,79,Anónimo,Creador,NA,NA,Sugestiva equis,5,Octubre 2 de 1921,1921-10-02,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,57
+Cyrano,80,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Quien tiene razón,5,Octubre 2 de 1921,1921-10-02,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,57
+Cyrano,81,Anónimo,Ilustrador,NA,NA,D. Joaquin Lopera Berrio,5,Octubre 2 de 1921,1921-10-02,No,NA,Español,NA,Imagen,NA,NA,NA,1,58
+Cyrano,82,"Montoya, Roberto",Creador,NA,Colombia,Enterrado vivo,5,Octubre 2 de 1921,1921-10-02,No,NA,Español,NA,Prosa Ficción,NA,Elena,NA,1.5,59-60
+Cyrano,83,"Velillo, José",Creador,NA,NA,Detalle II,5,Octubre 2 de 1921,1921-10-02,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,60
+Cyrano,84,"Franco, Horacio",Creador,NA,Colombia,Farina,5,Octubre 2 de 1921,1921-10-02,No,NA,Español,NA,Prosa Ficción,NA,"Montoya-Gaviria, Em.",NA,0.6,61
+Cyrano,85,Anónimo,Creador,NA,NA,Notas,5,Octubre 2 de 1921,1921-10-02,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,61-62
+Cyrano,86,Anónimo,Creador,NA,NA,NA,5,Octubre 2 de 1921,1921-10-02,No,NA,Español,NA,Publicidad,NA,NA,NA,0.8,62
+Cyrano,87,Anónimo,Ilustrador,NA,NA,Ab. Farina,6,Octubre 9 de 1921,1921-10-09,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,88,Anónimo,Creador,NA,NA,NA,6,Octubre 9 de 1921,1921-10-09,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,89,Anónimo,Creador,NA,NA,Dedicamos,6,Octubre 9 de 1921,1921-10-09,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,63
+Cyrano,90,Anónimo,Creador,NA,NA,Abel Farina,6,Octubre 9 de 1921,1921-10-09,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,64
+Cyrano,91,"Botero Isaza, Horacio",Creador,NA,NA,El maestro Farina,6,Octubre 9 de 1921,1921-10-09,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.3,64-65
+Cyrano,92,"Álvarez R., Lisandro",Administrador,NA,NA,Farina,6,Octubre 9 de 1921,1921-10-09,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,65-66
+Cyrano,93,"Cano, María",Creador,NA,Colombia,Farina,6,Octubre 9 de 1921,1921-10-09,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,66
+Cyrano,94,"Parra Toro, Libardo",Creador,NA,NA,¡Señor Iluminado!,6,Octubre 9 de 1921,1921-10-09,No,NA,Español,NA,Poesía,NA,NA,NA,1,67
+Cyrano,95,"Restrepo, Antonio María",Creador,Abel Farina,Colombia,Poesías de Farina,6,Octubre 9 de 1921,1921-10-09,No,NA,Español,NA,Poesía,Poesía,NA,NA,7,68-74
+Cyrano,96,Anónimo,Creador,NA,NA,NA,6,Octubre 9 de 1921,1921-10-09,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Cyrano,97,"Vélez, Eladio",Ilustrador,Velez,Colombia,El poeta J. Restrepo Rivera,7,Octubre 16 de 1921,1921-10-16,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,98,Anónimo,Creador,NA,NA,NA,7,Octubre 16 de 1921,1921-10-16,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,99,"Carrasquilla, Tomás",Creador,NA,Colombia,La mata,7,Octubre 16 de 1921,1921-10-16,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.8,75-76
+Cyrano,100,"Restrepo Rivera, Jesús",Creador,NA,Colombia,Stella vespertina,7,Octubre 16 de 1921,1921-10-16,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,76
+Cyrano,101,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Persecución póstuma,7,Octubre 16 de 1921,1921-10-16,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,77
+Cyrano,102,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,La emigración,7,Octubre 16 de 1921,1921-10-16,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,77
+Cyrano,103,"Parra Toro, Libardo",Creador,"Moreyra, Tartarín",Colombia,Vestiglo,7,Octubre 16 de 1921,1921-10-16,No,NA,Español,NA,Poesía,NA,NA,NA,1,78
+Cyrano,104,"Cano, María",Creador,"Castillo, Helena",Colombia,Símbolo,7,Octubre 16 de 1921,1921-10-16,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,79
+Cyrano,105,"Álvarez R., Lisandro",Administrador,NA,Colombia,Del diario de Anselmo,7,Octubre 16 de 1921,1921-10-16,No,NA,Español,NA,Prosa No Ficción,NA,"Castro, Alfonso",NA,2.7,79-82
+Cyrano,106,"Greiff, Jorge de",Creador,NA,Colombia,Holocausto,7,Octubre 16 de 1921,1921-10-16,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,82
+Cyrano,107,"Botero Isaza, Horacio",Creador,NA,NA,Martínez Mutis,7,Octubre 16 de 1921,1921-10-16,No,NA,Español,NA,Prosa No Ficción,NA,"Calle Machado, Miguel",NA,1.5,82-83
+Cyrano,108,"Martínez Mutis, Aurelio",Creador,NA,Colombia,A un compañero de taller,7,Octubre 16 de 1921,1921-10-16,No,NA,Español,NA,Poesía,NA,NA,NA,1,84
+Cyrano,109,"Isaza Jaramillo, Teodomiro",Creador,NA,NA,Versos inéditos,7,Octubre 16 de 1921,1921-10-16,No,NA,Español,NA,Poesía,NA,NA,NA,1,85
+Cyrano,110,Anónimo,Ilustrador,NA,NA,Tipos de la calle: D. Raul Restrepo Amador Uribe,7,Octubre 16 de 1921,1921-10-16,No,NA,Español,NA,Imagen,NA,NA,NA,0.8,56
+Cyrano,111,Anónimo,Creador,NA,NA,Notas,7,Octubre 16 de 1921,1921-10-16,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,86
+Cyrano,112,Anónimo,Creador,NA,NA,NA,7,Octubre 16 de 1921,1921-10-16,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,113,"Gómez Escobar, Francisco",Creador,Efe Gomez,Colombia,Libre soy…,8,Octubre 23 de 1921,1921-10-23,No,NA,Español,NA,Poesía,NA,NA,NA,1.5,87-88
+Cyrano,114,"Velillo, José",Creador,NA,NA,Detalle III,8,Octubre 23 de 1921,1921-10-23,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,88
+Cyrano,115,"Obregón Botero, Gabriel",Creador,NA,NA,Yo la vide…..,8,Octubre 23 de 1921,1921-10-23,No,NA,Español,NA,Poesía,NA,NA,NA,1,89
+Cyrano,116,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Consejo de filósofos,8,Octubre 23 de 1921,1921-10-23,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.1,90
+Cyrano,117,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Poeta,8,Octubre 23 de 1921,1921-10-23,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,90
+Cyrano,118,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Luz y sombra,8,Octubre 23 de 1921,1921-10-23,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,90
+Cyrano,119,"Gallego, Romualdo",Creador,NA,Colombia,Meditaciones que se enhebran en el Salón Esoaña,8,Octubre 23 de 1921,1921-10-23,No,NA,Español,NA,Prosa No Ficción,NA,"Samper, Elisa",NA,1.5,91-92
+Cyrano,120,"Henao, Federico Carlos",Creador,NA,NA,Reproche,8,Octubre 23 de 1921,1921-10-23,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,92
+Cyrano,121,Anónimo,Ilustrador,NA,NA,Tipos de la calle: D. Aureliano Posada J,8,Octubre 23 de 1921,1921-10-23,No,NA,Español,NA,Imagen,NA,NA,NA,1,93
+Cyrano,122,Anónimo,Creador,NA,NA,Salutación a Antioquia,8,Octubre 23 de 1921,1921-10-23,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,94
+Cyrano,123,"Botero, Francisco",Creador,NA,Colombia,Salutación,8,Octubre 23 de 1921,1921-10-23,No,NA,Español,NA,Poesía,NA,NA,NA,4,94-98
+Cyrano,124,"Posada Echeverri, Jesús",Ilustrador,Posada,Colombia,Henry James,8,Octubre 23 de 1921,1921-10-23,No,NA,Español,NA,Imagen,NA,NA,NA,0.4,98
+Cyrano,125,Anónimo,Creador,NA,NA,NA,8,Octubre 23 de 1921,1921-10-23,No,NA,Español,NA,Publicidad,NA,NA,NA,3,NA
+Cyrano,126,Anónimo,Creador,NA,NA,El maestro Carrasquilla,9,Octubre 30 de 1921,1921-10-30,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,127,Anónimo,Creador,NA,NA,NA,9,Octubre 30 de 1921,1921-10-30,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,128,"Gallego, Romualdo",Creador,"Castells, José María",Colombia,El sabio,9,Octubre 30 de 1921,1921-10-30,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.6,99-100
+Cyrano,129,"Velillo, José",Creador,NA,NA,Detalle IV,9,Octubre 30 de 1921,1921-10-30,No,NA,Español,NA,Prosa Ficción,NA,"Jaramillo V., Martín",NA,0.4,100
+Cyrano,130,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,El poema,9,Octubre 30 de 1921,1921-10-30,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.6,101
+Cyrano,131,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,El hijo,9,Octubre 30 de 1921,1921-10-30,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,101
+Cyrano,132,"Cano, María",Creador,"Castillo, Helena",Colombia,Gracia,9,Octubre 30 de 1921,1921-10-30,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,102
+Cyrano,133,"Rendón, Francisco de Paula",Creador,NA,NA,"""María Estrellita""",9,Octubre 30 de 1921,1921-10-30,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.6,103-104
+Cyrano,134,"Montoya, Roberto",Creador,NA,Colombia,Aloe,9,Octubre 30 de 1921,1921-10-30,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.8,104-106
+Cyrano,135,"Matta, Esther",Creador,NA,NA,Cruel!....,9,Octubre 30 de 1921,1921-10-30,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,106
+Cyrano,136,"Toro Idárraga, Bernardo",Creador,NA,NA,Inés,9,Octubre 30 de 1921,1921-10-30,No,NA,Español,NA,Poesía,NA,NA,NA,1,107
+Cyrano,137,"Álvarez R., Lisandro",Administrador,NA,NA,Rosina,9,Octubre 30 de 1921,1921-10-30,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.4,108-109
+Cyrano,138,"Renales, Paco",Creador,NA,NA,Escribir,9,Octubre 30 de 1921,1921-10-30,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.6,109
+Cyrano,139,"Atehortua, Abelardo",Creador,NA,NA,Promesas,9,Octubre 30 de 1921,1921-10-30,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,110
+Cyrano,140,Anónimo,Ilustrador,NA,NA,"""Gente conocida"". D. Jesus Lopez",9,Octubre 30 de 1921,1921-10-30,No,NA,Español,NA,Imagen,NA,NA,NA,0.6,110
+Cyrano,141,Anónimo,Creador,NA,NA,NA,9,Octubre 30 de 1921,1921-10-30,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Cyrano,142,Anónimo,Creador,NA,NA,Contenido,10,Noviembre 6 de 1921,1921-11-06,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Cyrano,143,Anónimo,Creador,NA,NA,NA,10,Noviembre 6 de 1921,1921-11-06,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,144,"Gómez Escobar, Francisco",Creador,Efe Gomez,Colombia,Croniquilla rural,10,Noviembre 6 de 1921,1921-11-06,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.5,111-115
+Cyrano,145,"Duque Estrada, Gilberto",Creador,NA,NA,Oración vesperal,10,Noviembre 6 de 1921,1921-11-06,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,115
+Cyrano,146,"Duque Estrada, Gilberto",Creador,NA,NA,Preludio nocturno,10,Noviembre 6 de 1921,1921-11-06,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,115
+Cyrano,147,"Jaramillo, Adán",Creador,NA,NA,La tía Maria Josefa,10,Noviembre 6 de 1921,1921-11-06,No,NA,Español,NA,Prosa Ficción,NA,"Montoya Gaviria, Emilio",NA,1.2,116-117
+Cyrano,148,"Vélez, Eladio",Ilustrador,Velez,Colombia,D. Salvador Ossa,10,Noviembre 6 de 1921,1921-11-06,No,NA,Español,NA,Imagen,NA,NA,NA,0.8,117
+Cyrano,149,"Cano, María",Creador,"Castillo, Helena",Colombia,Cuento,10,Noviembre 6 de 1921,1921-11-06,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,118-119
+Cyrano,150,"Carrasquilla, Tomás",Creador,NA,Colombia,"De ""Dimitas Arias""",10,Noviembre 6 de 1921,1921-11-06,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.5,120-121
+Cyrano,151,"Duque Bernal, Augusto",Creador,NA,NA,Motivos rurales,10,Noviembre 6 de 1921,1921-11-06,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,121
+Cyrano,152,"Vélez, Eladio",Ilustrador,Velez,Colombia,D. Federico Martínez,10,Noviembre 6 de 1921,1921-11-06,No,NA,Español,NA,Imagen,NA,NA,NA,0.5,121
+Cyrano,153,Anónimo,Creador,NA,NA,NA,10,Noviembre 6 de 1921,1921-11-06,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Cyrano,154,Anónimo,Creador,NA,NA,Señora Steffi Csillag,11,Noviembre 13 de 1921,1921-11-13,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,155,Anónimo,Creador,NA,NA,NA,11,Noviembre 13 de 1921,1921-11-13,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,156,"Gallego, Romualdo",Creador,NA,Colombia,Viaje de noche,11,Noviembre 13 de 1921,1921-11-13,No,NA,Español,NA,Prosa Ficción,NA,"Bernal, Luis",NA,1.2,123-124
+Cyrano,157,"Montoya, Roberto",Creador,NA,Colombia,In Extremis,11,Noviembre 13 de 1921,1921-11-13,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,124
+Cyrano,158,"Matta, Esther",Creador,NA,NA,Exodo astral,11,Noviembre 13 de 1921,1921-11-13,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,124
+Cyrano,159,"Vasco Gutiérrez, Eduardo",Creador,NA,Colombia,Paisaje interior,11,Noviembre 13 de 1921,1921-11-13,No,NA,Español,NA,Poesía,NA,NA,NA,1,125
+Cyrano,160,"Cano, María",Creador,"Castillo, Helena",Colombia,De la vida,11,Noviembre 13 de 1921,1921-11-13,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,126
+Cyrano,161,"Vélez, Eladio",Ilustrador,Velez,Colombia,El gerente del Teatro Bolivar,11,Noviembre 13 de 1921,1921-11-13,No,NA,Español,NA,Imagen,NA,NA,NA,1,127
+Cyrano,162,"Álvarez R., Lisandro",Administrador,NA,Colombia,Sombrero en mano,11,Noviembre 13 de 1921,1921-11-13,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.2,128-130
+Cyrano,163,"Vélez, Eladio",Ilustrador,Velez,Colombia,El poeta Bernardo Toro,11,Noviembre 13 de 1921,1921-11-13,No,NA,Español,NA,Imagen,NA,NA,NA,0.8,130
+Cyrano,164,"Restrepo, Juan de Dios",Creador,"Kastos, Emiro",Colombia,Arturo y sus habladurías,11,Noviembre 13 de 1921,1921-11-13,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.2,131-133
+Cyrano,165,"Mira, José León",Creador,NA,NA,"""La princesa del czardas""",11,Noviembre 13 de 1921,1921-11-13,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,133-134
+Cyrano,166,"Velillo, José",Creador,NA,NA,Detalle V,11,Noviembre 13 de 1921,1921-11-13,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.3,134
+Cyrano,167,Anónimo,Creador,NA,NA,NA,11,Noviembre 13 de 1921,1921-11-13,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Cyrano,168,Anónimo,Creador,NA,NA,Irene Ruiz,12,Noviembre 20 de 1921,1921-11-20,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,169,Anónimo,Creador,NA,NA,NA,12,Noviembre 20 de 1921,1921-11-20,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,170,"Posada Arango, E.",Creador,NA,NA,Momentos con Steffi Csillag,12,Noviembre 20 de 1921,1921-11-20,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.6,135-136
+Cyrano,171,"Parra Toro, Libardo",Creador,NA,NA,Con Irene Ruiz,12,Noviembre 20 de 1921,1921-11-20,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.8,136-138
+Cyrano,172,"Molina M., José Luis",Creador,NA,NA,La semana artística,12,Noviembre 20 de 1921,1921-11-20,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,6,138-145
+Cyrano,173,"Vasco Gutiérrez, Eduardo",Creador,NA,Colombia,Las memorias de Teodomiro,12,Noviembre 20 de 1921,1921-11-20,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.6,145
+Cyrano,174,"Arango Echeverri, Alcides",Creador,"Arango E., Alcides",NA,El anciano,12,Noviembre 20 de 1921,1921-11-20,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.6,146
+Cyrano,175,"Atehortua, Abelardo",Creador,NA,NA,Para qué sembrar!,12,Noviembre 20 de 1921,1921-11-20,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,146
+Cyrano,176,Anónimo,Creador,NA,NA,NA,12,Noviembre 20 de 1921,1921-11-20,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Cyrano,177,Anónimo,Creador,NA,NA,NA,13,Noviembre 27 de 1921,1921-11-27,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Cyrano,178,Anónimo,Creador,NA,NA,NA,13,Noviembre 27 de 1921,1921-11-27,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,179,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,¿Qué diablos!,13,Noviembre 27 de 1921,1921-11-27,No,NA,Español,NA,Prosa No Ficción,NA,"Restrepo, Carlos E.",NA,8.6,147-155
+Cyrano,180,"Velillo, José",Creador,NA,NA,Detalle VI,13,Noviembre 27 de 1921,1921-11-27,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,155
+Cyrano,181,"Cano, Antonio José",Creador,NA,Colombia,El madrigal de la astucia,13,Noviembre 27 de 1921,1921-11-27,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,156
+Cyrano,182,"León Gómez, Adolfo",Creador,NA,Colombia,El regreso,13,Noviembre 27 de 1921,1921-11-27,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,156
+Cyrano,183,"León Gómez, Adolfo",Creador,NA,Colombia,El cisne,13,Noviembre 27 de 1921,1921-11-27,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,156
+Cyrano,184,"León Gómez, Adolfo",Creador,NA,Colombia,Entonces,13,Noviembre 27 de 1921,1921-11-27,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,156
+Cyrano,185,Nick-Chano,Creador,Nick-Chano,NA,Revoltijo,13,Noviembre 27 de 1921,1921-11-27,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,157
+Cyrano,186,Anónimo,Creador,NA,NA,NA,13,Noviembre 27 de 1921,1921-11-27,No,NA,Español,NA,Publicidad,NA,NA,NA,3,NA
+Cyrano,187,"Vélez, Eladio",Ilustrador,Velez,Colombia,Doctor Romualdo Gallego,14,Diciembre 4 de 1921,1921-12-04,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,188,Anónimo,Creador,NA,NA,NA,14,Diciembre 4 de 1921,1921-12-04,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,189,"Duque Estrada, Gilberto",Creador,NA,NA,Croniquilla rural II,14,Diciembre 4 de 1921,1921-12-04,No,NA,Español,NA,Prosa No Ficción,NA,"Moreno, Samuel",NA,4.1,159-163
+Cyrano,190,"Gallego, Romualdo",Creador,NA,Colombia,De tierra caliente,14,Diciembre 4 de 1921,1921-12-04,No,NA,Español,NA,Prosa Ficción,NA,"Osorio Palencia, Cornelio",NA,1.3,163-164
+Cyrano,191,"Greiff, León de",Creador,NA,Colombia,"Balada Ashavérica del Ministril, trovero y juglar",14,Diciembre 4 de 1921,1921-12-04,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,164
+Cyrano,192,"Montoya, Roberto",Creador,NA,Colombia,Almas sencillas,14,Diciembre 4 de 1921,1921-12-04,No,NA,Español,NA,Prosa Ficción,NA,"Moreno, Gabriela",NA,3.3,165-168
+Cyrano,193,"Jaramillo, Adán",Creador,NA,NA,Desde mi mesa,14,Diciembre 4 de 1921,1921-12-04,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,168-169
+Cyrano,194,Anónimo,Creador,NA,NA,Lo que vemos y vivimos,14,Diciembre 4 de 1921,1921-12-04,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,169
+Cyrano,195,Filisteo,Creador,Filisteo,NA,El pan nuestro de cada día,14,Diciembre 4 de 1921,1921-12-04,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.8,169-170
+Cyrano,196,Anónimo,Creador,NA,NA,NA,14,Diciembre 4 de 1921,1921-12-04,No,NA,Español,NA,Publicidad,NA,NA,NA,2.5,170-NA
+Cyrano,197,Anónimo,Creador,NA,NA,NA,15,Diciembre 11 de 1921,1921-12-11,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Cyrano,198,Anónimo,Creador,NA,NA,NA,15,Diciembre 11 de 1921,1921-12-11,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,199,"Gómez Escobar, Francisco",Creador,Efe Gomez,Colombia,Carne,15,Diciembre 11 de 1921,1921-12-11,No,NA,Español,NA,Prosa Ficción,NA,"Ospina V., Mariano",NA,2.7,171-173
+Cyrano,200,"Cano, María",Creador,"Castillo, Helena",Colombia,La carreta,15,Diciembre 11 de 1921,1921-12-11,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.6,173-174
+Cyrano,201,"Jaramillo, Adán",Creador,NA,NA,La hija de mi hermana,15,Diciembre 11 de 1921,1921-12-11,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,174-175
+Cyrano,202,"Gallego, Romualdo",Creador,NA,Colombia,Los farallones,15,Diciembre 11 de 1921,1921-12-11,No,NA,Español,NA,Prosa Ficción,NA,"Jaramillo Moreno, Jesús",NA,0.5,175
+Cyrano,203,"Greiff, León de",Creador,NA,Colombia,Tergiversaciones,15,Diciembre 11 de 1921,1921-12-11,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,176
+Cyrano,204,"Greiff, León de",Creador,NA,Colombia,De la noche vengo…,15,Diciembre 11 de 1921,1921-12-11,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,176
+Cyrano,205,"Montoya, Roberto",Creador,NA,Colombia,En sus propias redes,15,Diciembre 11 de 1921,1921-12-11,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,177-178
+Cyrano,206,"Ferrer Escobar, Jesús",Creador,NA,Colombia,En la Sabana,15,Diciembre 11 de 1921,1921-12-11,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,179
+Cyrano,207,"Montoya, José",Creador,NA,NA,La jeringilla de pravaz,15,Diciembre 11 de 1921,1921-12-11,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.5,179-180
+Cyrano,208,"Jaramillo, Arturo",Creador,NA,NA,Historia inocente,15,Diciembre 11 de 1921,1921-12-11,No,NA,Español,NA,Prosa Ficción,NA,"Velillo, José",NA,0.6,181
+Cyrano,209,Nick-Chano,Creador,Nick-Chano,NA,Revoltijo,15,Diciembre 11 de 1921,1921-12-11,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,181-182
+Cyrano,210,Anónimo,Creador,NA,NA,NA,15,Diciembre 11 de 1921,1921-12-11,No,NA,Español,NA,Publicidad,NA,NA,NA,2.5,NA
+Cyrano,211,Anónimo,Creador,NA,NA,NA,16,Diciembre 18 de 1921,1921-12-18,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Cyrano,212,Anónimo,Creador,NA,NA,NA,16,Diciembre 18 de 1921,1921-12-18,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,213,"Gallego, Romualdo",Creador,NA,Colombia,Las poblaciones,16,Diciembre 18 de 1921,1921-12-18,No,NA,Español,NA,Prosa Ficción,NA,"Euse, Milla de",NA,1.5,183-184
+Cyrano,214,"Cano, María",Creador,NA,Colombia,Amor y psiquis,16,Diciembre 18 de 1921,1921-12-18,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.6,184-185
+Cyrano,215,"Velillo, José",Creador,NA,NA,Notas dispersas,16,Diciembre 18 de 1921,1921-12-18,No,NA,Español,NA,Prosa Ficción,NA,"Cano, María",NA,0.4,185
+Cyrano,216,"Renales, Paco",Creador,NA,NA,Sor Inés,16,Diciembre 18 de 1921,1921-12-18,No,NA,Español,NA,Prosa Ficción,Cuento,"Uribe Escobar, Ricardo",NA,1.5,185-186
+Cyrano,217,"Greiff, León de",Creador,NA,Colombia,Horoscopo,16,Diciembre 18 de 1921,1921-12-18,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,187
+Cyrano,218,"Greiff, León de",Creador,NA,Colombia,Tergiversaciones,16,Diciembre 18 de 1921,1921-12-18,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,187
+Cyrano,219,"Vélez, Eladio",Ilustrador,Velez,Colombia,D. Daniel Posada J,16,Diciembre 18 de 1921,1921-12-18,No,NA,Español,NA,Imagen,NA,NA,NA,1,188
+Cyrano,220,"Mejía Rodríguez, Alfonso",Creador,NA,Colombia,Discurso,16,Diciembre 18 de 1921,1921-12-18,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3.6,189-192
+Cyrano,221,Nick-Chano,Creador,Nick-Chano,NA,Revoltijo,16,Diciembre 18 de 1921,1921-12-18,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.6,192-194
+Cyrano,222,Anónimo,Creador,NA,NA,NA,16,Diciembre 18 de 1921,1921-12-18,No,NA,Español,NA,Publicidad,NA,NA,NA,2.7,194-NA
+Cyrano,223,Anónimo,Creador,NA,NA,NA,17,Enero 29 de 1922,1922-01-29,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Cyrano,224,Anónimo,Creador,NA,NA,NA,17,Enero 29 de 1922,1922-01-29,No,NA,Español,NA,Publicidad,NA,NA,NA,3,NA
+Cyrano,225,N. C,Creador,N. C,NA,Exposición de Bellas Artes,17,Enero 29 de 1922,1922-01-29,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.5,195-196
+Cyrano,226,"Isaza Jaramillo, Teodomiro",Creador,NA,NA,Saudades,17,Enero 29 de 1922,1922-01-29,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,196
+Cyrano,227,"Cano, María",Creador,NA,Colombia,De navidad,17,Enero 29 de 1922,1922-01-29,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,197
+Cyrano,228,"Montoya Gaviria, Emilio",Director,NA,Colombia,Del natural,17,Enero 29 de 1922,1922-01-29,No,NA,Español,NA,Prosa Ficción,NA,"Villejas, Juan",NA,2.2,198-200
+Cyrano,229,"Montoya, Roberto",Creador,NA,Colombia,El Candor de Mary,17,Enero 29 de 1922,1922-01-29,No,NA,Español,NA,Prosa Ficción,Cuento,"Velillo, José",NA,2.8,"200-201, 203"
+Cyrano,230,Anónimo,Ilustrador,NA,NA,Daniel Posada,17,Enero 29 de 1922,1922-01-29,No,NA,Español,NA,Imagen,NA,NA,NA,1,202
+Cyrano,231,Anónimo,Ilustrador,NA,NA,Dr. Lazaro Tobón,17,Enero 29 de 1922,1922-01-29,No,NA,Español,NA,Imagen,NA,NA,NA,0.8,204
+Cyrano,232,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,El vacío,17,Enero 29 de 1922,1922-01-29,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,204-205
+Cyrano,233,Nick-Chano,Creador,Nick-Chano,NA,Revoltijo,17,Enero 29 de 1922,1922-01-29,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.8,205-206
+Cyrano,234,"Posada Echeverri, Jesús",Ilustrador,Posada,Colombia,Dr. Glodomiro Ramírez,18,Febrero 4 de 1922,1922-02-04,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,235,Anónimo,Creador,NA,NA,NA,18,Febrero 4 de 1922,1922-02-04,No,NA,Español,NA,Publicidad,NA,NA,NA,3,NA
+Cyrano,236,"Gallego, Romualdo",Creador,NA,Colombia,El diálogo de las Moscas,18,Febrero 4 de 1922,1922-02-04,No,NA,Español,NA,Prosa Ficción,NA,"Renales, Paco",NA,2.2,207-209
+Cyrano,237,"Posada Echeverri, Jesús",Ilustrador,Posada,Colombia,Tipos de la calle,18,Febrero 4 de 1922,1922-02-04,No,NA,Español,NA,Imagen,NA,NA,NA,0.8,209
+Cyrano,238,"Posada Echeverri, Jesús",Creador,NA,Colombia,¿…?,18,Febrero 4 de 1922,1922-02-04,No,NA,Español,NA,Poesía,NA,"Montoya Gaviria, Emilio",NA,1,210
+Cyrano,239,"Montoya, Roberto",Creador,NA,Colombia,Espartana,18,Febrero 4 de 1922,1922-02-04,No,NA,Español,NA,Prosa Ficción,NA,"Villegas, Juan",NA,1.4,211-212
+Cyrano,240,"Jaramillo, Arturo",Creador,NA,NA,Ella,18,Febrero 4 de 1922,1922-02-04,No,NA,Español,NA,Poesía,NA,NA,NA,1,212-213
+Cyrano,241,"Montoya Gaviria, Emilio",Director,NA,Colombia,El engaño,18,Febrero 4 de 1922,1922-02-04,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,1.4,213-214
+Cyrano,242,"Serrano Blanco, Manuel",Creador,NA,Colombia,Periódicos y periodistas,18,Febrero 4 de 1922,1922-02-04,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,215-216
+Cyrano,243,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Los naufragos,18,Febrero 4 de 1922,1922-02-04,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.3,216
+Cyrano,244,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,El despertar,18,Febrero 4 de 1922,1922-02-04,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.3,216
+Cyrano,245,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,El solitario,18,Febrero 4 de 1922,1922-02-04,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.3,216
+Cyrano,246,"Vélez, Eladio",Ilustrador,Velez,Colombia,Dn. José A. Tamayo,18,Febrero 4 de 1922,1922-02-04,No,NA,Español,NA,Imagen,NA,NA,NA,1,217
+Cyrano,247,"Pérez C., Darío",Creador,NA,NA,Reminiscencia inútil,18,Febrero 4 de 1922,1922-02-04,No,NA,Español,NA,Prosa No Ficción,NA,"Rivera Tamayo, A.",NA,0.5,218
+Cyrano,248,Anónimo,Ilustrador,NA,NA,NA,18,Febrero 4 de 1922,1922-02-04,No,NA,Español,NA,Imagen,NA,NA,NA,0.5,218
+Cyrano,249,Anónimo,Ilustrador,NA,NA,Serenata,19,Febrero 12 de 1922,1922-02-12,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,250,Anónimo,Creador,NA,NA,NA,19,Febrero 12 de 1922,1922-02-12,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Cyrano,251,"Montoya, Roberto",Creador,NA,Colombia,El castigo,19,Febrero 12 de 1922,1922-02-12,No,NA,Español,NA,Prosa Ficción,NA,"Arango Soto, Teresita",NA,3,219-221
+Cyrano,252,"Posada Echeverri, Jesús",Ilustrador,Posada,Colombia,Dr. Alfonso Villegas Restrepo,19,Febrero 12 de 1922,1922-02-12,No,NA,Español,NA,Imagen,NA,NA,NA,1,222
+Cyrano,253,"Duque Estrada, Gilberto",Creador,NA,NA,Ella,19,Febrero 12 de 1922,1922-02-12,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,223
+Cyrano,254,"López Gómez, Adel",Creador,NA,Colombia,La maestra rural,19,Febrero 12 de 1922,1922-02-12,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,2.6,2234-226
+Cyrano,255,"Velillo, José",Creador,NA,NA,Del viento,19,Febrero 12 de 1922,1922-02-12,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,226-227
+Cyrano,256,"Hernández O., Blas",Creador,NA,NA,El triunfo de Lionel,19,Febrero 12 de 1922,1922-02-12,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.8,227-230
+Cyrano,257,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Vanas voces,19,Febrero 12 de 1922,1922-02-12,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,230
+Cyrano,258,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Voces vanas,19,Febrero 12 de 1922,1922-02-12,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,230
+Cyrano,259,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Parabola de la araña,19,Febrero 12 de 1922,1922-02-12,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,230
+Cyrano,260,Anónimo,Creador,NA,NA,NA,20,Febrero 20 de 1922,1922-02-20,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Cyrano,261,Anónimo,Creador,NA,NA,NA,20,Febrero 20 de 1922,1922-02-20,No,NA,Español,NA,Publicidad,NA,NA,NA,3,NA
+Cyrano,262,"Franco, Horacio",Creador,NA,Colombia,Palabras,20,Febrero 20 de 1922,1922-02-20,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,231
+Cyrano,263,"Cano, María",Creador,NA,Colombia,Azahares,20,Febrero 20 de 1922,1922-02-20,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.2,232-233
+Cyrano,264,"Jardiel, Mario",Creador,NA,NA,El piano,20,Febrero 20 de 1922,1922-02-20,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,2.9,233-237
+Cyrano,265,Anónimo,Creador,NA,NA,"¡Salve, señora!",20,Febrero 20 de 1922,1922-02-20,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.9,237
+Cyrano,266,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,La pena mía,20,Febrero 20 de 1922,1922-02-20,No,NA,Español,NA,Poesía,NA,NA,NA,1,238
+Cyrano,267,"Montoya Gaviria, Emilio",Creador,NA,Colombia,Fas por nefas,20,Febrero 20 de 1922,1922-02-20,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.5,239-240
+Cyrano,268,"Villegas, Octavio",Creador,NA,NA,Julio Cansino. Un hombre práctico,20,Febrero 20 de 1922,1922-02-20,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,240
+Cyrano,269,Anónimo,Creador,NA,NA,El retorno,21,Octubre 7 de 1922,1922-10-07,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,243
+Cyrano,270,"Vargas, Aurelia",Creador,NA,NA,Psiquis rural,21,Octubre 7 de 1922,1922-10-07,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,1.5,244-245
+Cyrano,271,"Cano, María",Creador,NA,Colombia,Palpitaciones,21,Octubre 7 de 1922,1922-10-07,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,245
+Cyrano,272,"Uribe Vallejo, Fita",Creador,NA,NA,Bosquejos,21,Octubre 7 de 1922,1922-10-07,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,245
+Cyrano,273,"Greiff, León de",Creador,NA,Colombia,Pequeña balada,21,Octubre 7 de 1922,1922-10-07,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,246
+Cyrano,274,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Armonías,21,Octubre 7 de 1922,1922-10-07,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,246
+Cyrano,275,"Montoya, Roberto",Creador,NA,Colombia,El contagio,21,Octubre 7 de 1922,1922-10-07,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.1,247-249
+Cyrano,276,"Ossorio, Miguel",Creador,NA,NA,Mosaico,21,Octubre 7 de 1922,1922-10-07,No,NA,Español,NA,Prosa Ficción,NA,"Montoya, Antonio",NA,0.9,249
+Cyrano,277,"Álvarez R., Lisandro",Administrador,NA,Colombia,Un iluso,21,Octubre 7 de 1922,1922-10-07,No,NA,Español,NA,Prosa Ficción,NA,"Villegas, Francisco",NA,3.4,250-253
+Cyrano,278,"Gómez Escobar, Francisco",Creador,Efe Gomez,Colombia,Palabras de Efe Gómez,21,Octubre 7 de 1922,1922-10-07,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,253-254
+Cyrano,279,Anónimo,Creador,NA,NA,NA,21,Octubre 7 de 1922,1922-10-07,No,NA,Español,NA,Publicidad,NA,NA,NA,0.6,254
+Cyrano,280,Anónimo,Ilustrador,NA,NA,Paco Renales,22,Octubre 16 de 1922,1922-10-16,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,281,Anónimo,Creador,NA,NA,NA,22,Octubre 16 de 1922,1922-10-16,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,282,"Álvarez R., Lisandro",Administrador,NA,Colombia,Milagro patente,22,Octubre 16 de 1922,1922-10-16,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.4,255-257
+Cyrano,283,"Gómez, Jacobo V.",Creador,NA,NA,Apologo,22,Octubre 16 de 1922,1922-10-16,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,257-258
+Cyrano,284,"López Gómez, Adel",Creador,NA,Colombia,La última excentricidad,22,Octubre 16 de 1922,1922-10-16,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,1.6,258-259
+Cyrano,285,"Duque Bernal, Augusto",Creador,NA,NA,Complicaciones,22,Octubre 16 de 1922,1922-10-16,No,NA,Español,NA,Poesía,NA,NA,NA,1,260
+Cyrano,286,"Montoya, Roberto",Creador,NA,Colombia,Gente buena,22,Octubre 16 de 1922,1922-10-16,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,3.4,261-264
+Cyrano,287,"Botero, Francisco",Creador,NA,Colombia,El hombre vencido,22,Octubre 16 de 1922,1922-10-16,No,NA,Español,NA,Prosa Ficción,NA,"Franco, Horacio",NA,0.8,264-265
+Cyrano,288,"Duque Estrada, Gilberto",Creador,NA,NA,Coloquios intimos,22,Octubre 16 de 1922,1922-10-16,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,265-266
+Cyrano,289,Anónimo,Creador,NA,NA,NA,22,Octubre 16 de 1922,1922-10-16,No,NA,Español,NA,Publicidad,NA,NA,NA,0.6,266
+Cyrano,290,B. Isaza,Ilustrador,B. Isaza,Colombia,"S. M. Lucia I, reina",23,Octubre 26 de 1922,1922-10-26,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,291,Anónimo,Creador,NA,NA,NA,23,Octubre 26 de 1922,1922-10-26,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,292,"Gómez, Jacobo V.",Creador,NA,NA,Resurrección,23,Octubre 26 de 1922,1922-10-26,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.1,267-269
+Cyrano,293,"Cano, María",Creador,NA,Colombia,Rosa de dolor,23,Octubre 26 de 1922,1922-10-26,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,269
+Cyrano,294,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Allegro,23,Octubre 26 de 1922,1922-10-26,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,269
+Cyrano,295,Fabio,Creador,Fabio,NA,La palma,23,Octubre 26 de 1922,1922-10-26,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,270
+Cyrano,296,"Velillo, José",Creador,NA,NA,Bañistas,23,Octubre 26 de 1922,1922-10-26,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,270
+Cyrano,297,Anónimo,Creador,NA,NA,NA,23,Octubre 26 de 1922,1922-10-26,No,NA,Español,NA,Publicidad,NA,NA,NA,0.1,270
+Cyrano,298,"Greiff, León de",Creador,NA,Colombia,Tergiversaciones,23,Octubre 26 de 1922,1922-10-26,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,271
+Cyrano,299,"Jaramillo, Arturo",Creador,NA,NA,Momentos,23,Octubre 26 de 1922,1922-10-26,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,271
+Cyrano,300,"Blanco, Ignacio",Creador,NA,NA,Horario,23,Octubre 26 de 1922,1922-10-26,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.5,272-273
+Cyrano,301,"Vélez, Eladio",Ilustrador,Velez,Colombia,D. Luciano Rodríguez Mira,23,Octubre 26 de 1922,1922-10-26,No,NA,Español,NA,Imagen,NA,NA,NA,0.5,273
+Cyrano,302,"Montoya, Roberto",Creador,NA,Colombia,Cabeza por cabeza,23,Octubre 26 de 1922,1922-10-26,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,2.6,274-276
+Cyrano,303,"Ferrer Escobar, Jesús",Creador,NA,Colombia,Renunciación,23,Octubre 26 de 1922,1922-10-26,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,276
+Cyrano,304,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Desfile de almas,23,Octubre 26 de 1922,1922-10-26,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.5,277-278
+Cyrano,305,B. Isaza,Ilustrador,B. Isaza,NA,D. Escolastico Baquero,23,Octubre 26 de 1922,1922-10-26,No,NA,Español,NA,Imagen,NA,NA,NA,0.5,278
+Cyrano,306,Anónimo,Creador,NA,NA,En las minas,24,Noviembre 2 de 1922,1922-11-02,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,307,Anónimo,Creador,NA,NA,NA,24,Noviembre 2 de 1922,1922-11-02,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,308,"Franco, Horacio",Creador,NA,Colombia,"Efe Gómez, filosofo y artista",24,Noviembre 2 de 1922,1922-11-02,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3,279-281
+Cyrano,309,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Desfile de almas,24,Noviembre 2 de 1922,1922-11-02,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.6,282-283
+Cyrano,310,"Botero, Francisco",Creador,NA,Colombia,El dolor del viento,24,Noviembre 2 de 1922,1922-11-02,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,283
+Cyrano,311,"Gómez, Jacobo V.",Creador,NA,NA,Episodios desconocidos,24,Noviembre 2 de 1922,1922-11-02,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.5,284-285
+Cyrano,312,Anónimo,Creador,NA,NA,En las minas,24,Noviembre 2 de 1922,1922-11-02,No,NA,Español,NA,Imagen,NA,NA,NA,0.5,285
+Cyrano,313,"von Maiz, Paul",Creador,NA,NA,"Jesucristo, poeta edonista",24,Noviembre 2 de 1922,1922-11-02,No,NA,Español,NA,Prosa No Ficción,Critica literaria,NA,NA,1.2,286-287
+Cyrano,314,"Ossorio, Miguel",Creador,NA,NA,Mosaico,24,Noviembre 2 de 1922,1922-11-02,No,NA,Español,NA,Prosa Ficción,NA,"Correa R., Alberto",NA,2.5,287-289
+Cyrano,315,"Uribe Vallejo, Fita",Creador,NA,NA,Cuadro negro,24,Noviembre 2 de 1922,1922-11-02,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.3,289
+Cyrano,316,"Montoya, Roberto",Creador,NA,Colombia,Episodios motañeses,24,Noviembre 2 de 1922,1922-11-02,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,290
+Cyrano,317,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Desfile de almas,25,Noviembre 10 de 1922,1922-11-10,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,291-292
+Cyrano,318,"Escobar, Samuel",Creador,NA,NA,Expectación,25,Noviembre 10 de 1922,1922-11-10,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,293
+Cyrano,319,"Uribe Vallejo, Fita",Creador,NA,NA,Pinceladas,25,Noviembre 10 de 1922,1922-11-10,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.3,293
+Cyrano,320,"Botero, Francisco",Creador,NA,Colombia,?,25,Noviembre 10 de 1922,1922-11-10,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,293-294
+Cyrano,321,"López Gómez, Adel",Creador,NA,Colombia,Mujeres del pasado,25,Noviembre 10 de 1922,1922-11-10,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,1.8,294-296
+Cyrano,322,"Velillo, José",Creador,NA,NA,Fugitivas,25,Noviembre 10 de 1922,1922-11-10,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.8,296
+Cyrano,323,"Gómez, Jacobo V.",Creador,NA,NA,Episodios desconocidos,25,Noviembre 10 de 1922,1922-11-10,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3.1,297-300
+Cyrano,324,Anónimo,Creador,NA,NA,Episodios motañeses,25,Noviembre 10 de 1922,1922-11-10,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.8,300-302
+Cyrano,325,Anónimo,Ilustrador,NA,Colombia,NA,25,Noviembre 10 de 1922,1922-11-10,No,NA,Español,NA,Imagen,NA,NA,NA,0.4,300
+Cyrano,326,Nick-Chano,Creador,Nick-Chano,NA,Revoltijo,25,Noviembre 10 de 1922,1922-11-10,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,302
+Cyrano,327,"Montoya Gaviria, Emilio",Director,L. D,Colombia,NA,25,Noviembre 10 de 1922,1922-11-10,No,NA,Español,NA,Publicidad,NA,NA,NA,0.3,302
+Cyrano,328,"Escobar, Samuel",Creador,NA,NA,María Cano,26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,303-304
+Cyrano,329,Anónimo,Creador,NA,NA,NA,26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Imagen,NA,NA,NA,0.4,304
+Cyrano,330,"Cano, María",Creador,NA,Colombia,Luz viva,26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.8,304-305
+Cyrano,331,"Agudelo, Gilberto",Creador,NA,NA,Garza viajera,26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,305
+Cyrano,332,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,La hampa literaria,26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.7,305-306
+Cyrano,333,"Arciniegas, Germán",Creador,"Gaseyra, León de",Colombia,Las marías,26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,306
+Cyrano,334,"Botero, Francisco",Creador,NA,Colombia,De mi vida,26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,306-307
+Cyrano,335,"Duque Bernal, Augusto",Creador,NA,NA,Hoja de album,26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,307
+Cyrano,336,"Velillo, José",Creador,NA,NA,"De ""El carnaval negro""",26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,307
+Cyrano,337,"Álvarez, Antonio",Creador,NA,NA,Moloch,26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.4,307-310
+Cyrano,338,"Montoya, Roberto",Creador,NA,Colombia,Episodios motañeses,26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,310-311
+Cyrano,339,"von Maiz, Paul",Creador,NA,NA,Crítica literaria,26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Prosa No Ficción,Critica literaria,NA,NA,1,311-312
+Cyrano,340,"Vélez Carmona, Juan Clímaco",Creador,NA,Colombia,Ella era dios,26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Poesía,NA,NA,NA,0.8,312
+Cyrano,341,"Atehortua, Abelardo",Creador,NA,NA,El solitario,26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.3,313
+Cyrano,342,Anónimo,Creador,NA,NA,La antioquia de verdad,26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Imagen,NA,NA,NA,0.3,313
+Cyrano,343,"Jaramillo, Arturo",Creador,NA,Colombia,Momentos,26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.3,313
+Cyrano,344,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,"Del libro ""ofrenda florida""",26,Noviembre 18 de 1922,1922-11-18,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,314
+Cyrano,345,Anónimo,Creador,NA,NA,Lisandro Alvarez R.,27,Noviembre 25 de 1922,1922-11-25,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,346,"Escobar, Samuel",Creador,NA,NA,Lisandro Alvarez,27,Noviembre 25 de 1922,1922-11-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3,315-317
+Cyrano,347,"Álvarez R., Lisandro",Administrador,NA,Colombia,Maria estrellita,27,Noviembre 25 de 1922,1922-11-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,6,318-323
+Cyrano,348,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,"Del libro ""ofrenda florida""",27,Noviembre 25 de 1922,1922-11-25,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3,324-326
+Cyrano,349,"Cano, María",Creador,NA,Colombia,¿........?,28,Diciembre 4 de 1922,1922-12-04,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,327-328
+Cyrano,350,"Duque Estrada, Gilberto",Creador,NA,NA,Huerfanita que pasas….,28,Diciembre 4 de 1922,1922-12-04,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,329
+Cyrano,351,"Montoya, Roberto",Creador,NA,Colombia,Fatalidad,28,Diciembre 4 de 1922,1922-12-04,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,1.5,329-330
+Cyrano,352,"Velillo, José",Creador,NA,NA,Paz,28,Diciembre 4 de 1922,1922-12-04,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,331
+Cyrano,353,"Jaramillo Gaitán, Uva",Creador,NA,NA,Memo,28,Diciembre 4 de 1922,1922-12-04,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.2,331-332
+Cyrano,354,"Arciniegas, Germán",Creador,NA,Colombia,Vamos luna nueva…,28,Diciembre 4 de 1922,1922-12-04,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,332
+Cyrano,355,"Jaramillo, Arturo",Creador,NA,NA,Momentos,28,Diciembre 4 de 1922,1922-12-04,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.7,332-333
+Cyrano,356,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,"Del libro ""ofrenda florida""",28,Diciembre 4 de 1922,1922-12-04,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.3,333-334
+Cyrano,357,"López Gómez, Adel",Creador,NA,Colombia,Caminito solo,28,Diciembre 4 de 1922,1922-12-04,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,335
+Cyrano,358,"Botero, Francisco",Creador,NA,Colombia,Un gallinazo,28,Diciembre 4 de 1922,1922-12-04,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,335-337
+Cyrano,359,"Álvarez R., Lisandro",Administrador,NA,Colombia,Salmo de vida,28,Diciembre 4 de 1922,1922-12-04,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.5,337-338
+Cyrano,360,Anónimo,Creador,NA,NA,Fita Uribe,29,Diciembre 9 de 1922,1922-12-09,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,361,Anónimo,Creador,NA,NA,NA,29,Diciembre 9 de 1922,1922-12-09,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,362,"Gómez Escobar, Francisco",Creador,Efe Gomez,Colombia,Un zarathustra maicero,29,Diciembre 9 de 1922,1922-12-09,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,9,339-347
+Cyrano,363,"Restrepo Piedrahíta, J.",Creador,NA,NA,Autosemblanza,29,Diciembre 9 de 1922,1922-12-09,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,348
+Cyrano,364,"Cano, María",Creador,NA,Colombia,Tú,29,Diciembre 9 de 1922,1922-12-09,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,348
+Cyrano,365,"Yepes Morales, Jesús",Creador,NA,NA,Oriental,29,Diciembre 9 de 1922,1922-12-09,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,349
+Cyrano,366,"Botero, Francisco",Creador,NA,Colombia,Palabras,29,Diciembre 9 de 1922,1922-12-09,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.3,349
+Cyrano,367,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,"Del libro ""ofrenda florida""",29,Diciembre 9 de 1922,1922-12-09,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.2,349-350
+Cyrano,368,Anónimo,Creador,NA,NA,Roberto Montoya,30,Diciembre 16 de 1922,1922-12-16,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,369,Anónimo,Creador,NA,NA,NA,30,Diciembre 16 de 1923,1923-12-16,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,370,"Cruz, Jorge de la",Creador,NA,Colombia,"De porqué te amo, oh Soñada!",30,Diciembre 16 de 1924,1924-12-16,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.4,315-353
+Cyrano,371,"Montoya, Roberto",Creador,NA,Colombia,La hora de nona,30,Diciembre 16 de 1925,1925-12-16,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,7,353-360
+Cyrano,372,"Álvarez R., Lisandro",Administrador,NA,Colombia,De un drama bateo,30,Diciembre 16 de 1926,1926-12-16,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,360-362
+Cyrano,373,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Cuestionario,30,Diciembre 16 de 1927,1927-12-16,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,362
+Cyrano,374,"Gómez Escobar, Francisco",Creador,Efe Gomez,Colombia,El diario de Pedro,31,Diciembre 28 de 1922,1922-12-28,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.6,363-364
+Cyrano,375,"Toro, Luis A.",Creador,NA,NA,Lo fatal,31,Diciembre 28 de 1922,1922-12-28,No,NA,Español,NA,Poesía,NA,Betancur A. Carlos,NA,0.4,364
+Cyrano,376,"Gómez, Jacobo V.",Creador,NA,NA,Episodios desconocidos,31,Diciembre 28 de 1922,1922-12-28,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,364-365
+Cyrano,377,"Botero, Francisco",Creador,NA,Colombia,Palabras,31,Diciembre 28 de 1922,1922-12-28,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.8,365-366
+Cyrano,378,"López Gómez, Adel",Creador,NA,Colombia,Poemas rusticos,31,Diciembre 28 de 1922,1922-12-28,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,367
+Cyrano,379,"Montoya, Roberto",Creador,NA,Colombia,La opinión-consejo,31,Diciembre 28 de 1922,1922-12-28,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.6,367
+Cyrano,380,"León Gómez, Adolfo",Creador,NA,Colombia,Los hombres no lloran,31,Diciembre 28 de 1922,1922-12-28,No,NA,Español,NA,Poesía,NA,NA,NA,1,368
+Cyrano,381,"Cano, María",Creador,NA,Colombia,Juventud eterna,31,Diciembre 28 de 1922,1922-12-28,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,369
+Cyrano,382,"Velásquez García, José",Creador,Julio Vives Guerra,NA,El turno bravo,31,Diciembre 28 de 1922,1922-12-28,No,NA,Español,NA,Prosa Ficción,NA,"López, Libardo",NA,1.4,369-370
+Cyrano,383,"Castro, Alfonso",Creador,NA,NA,Anima expuesta,31,Diciembre 28 de 1922,1922-12-28,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.8,370-371
+Cyrano,384,"Velillo, José",Creador,NA,NA,Infantil,31,Diciembre 28 de 1922,1922-12-28,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,371
+Cyrano,385,"Vélez Carmona, Juan Clímaco",Creador,NA,Colombia,Versos de navidad,31,Diciembre 28 de 1922,1922-12-28,No,NA,Español,NA,Poesía,NA,NA,NA,1,372
+Cyrano,386,Anónimo,Ilustrador,NA,NA,NA,31,Diciembre 28 de 1922,1922-12-28,No,NA,Español,NA,Imagen,NA,NA,NA,0.4,373
+Cyrano,387,"Duque Bernal, Augusto",Creador,NA,NA,La balada de la obrera,31,Diciembre 28 de 1922,1922-12-28,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,373
+Cyrano,388,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,"Del libro ""ofrenda florida""",31,Diciembre 28 de 1922,1922-12-28,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,374
+Cyrano,389,Anónimo,Creador,NA,NA,Notas,31,Diciembre 28 de 1922,1922-12-28,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,374
+Cyrano,390,Anónimo,Creador,NA,NA,J. M. Mejía,32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Cyrano,391,Anónimo,Creador,NA,NA,NA,32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Poesía,NA,NA,NA,1,NA
+Cyrano,392,"Franco, Horacio",Creador,NA,Colombia,León von Greiff,32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Poesía,NA,NA,NA,2.6,"375-379, 385"
+Cyrano,393,"Greiff, León de",Creador,NA,Colombia,Balada de los buhos estáticos,32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Poesía,NA,NA,NA,0.8,376
+Cyrano,394,"Greiff, León de",Creador,NA,Colombia,Arieta,32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,377
+Cyrano,395,"Greiff, León de",Creador,NA,Colombia,Signos,32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,377
+Cyrano,396,"Greiff, León de",Creador,NA,Colombia,Rondel,32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,378
+Cyrano,397,"Greiff, León de",Creador,NA,Colombia,Gris sostenido,32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,378
+Cyrano,398,"Greiff, León de",Creador,NA,Colombia,XVII,32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,378
+Cyrano,399,"Greiff, León de",Creador,NA,Colombia,XXII,32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,378
+Cyrano,400,"Greiff, León de",Creador,NA,Colombia,III,32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,379
+Cyrano,401,"Greiff, León de",Creador,NA,Colombia,Balada monodica,32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Poesía,NA,NA,NA,1.5,379-380
+Cyrano,402,"López Gómez, Adel",Creador,NA,Colombia,La pereza de vivir,32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Prosa Ficción,NA,"Velillo, José",,2.3,381-383
+Cyrano,403,"Montoya, Roberto",Creador,NA,Colombia,Hombre listo,32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Prosa Ficción,Cuento,"Alvarez R., Lisandro",,2,383-384
+Cyrano,404,Cortadillo,Creador,Cortadillo,NA,Chispazos,32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.8,384-385
+Cyrano,405,"Greiff, León de",Creador,NA,Colombia,Inicial,32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,385
+Cyrano,406,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,"Del libro ""ofrenda florida""",32,Enero 5 de 1923,1923-01-05,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,386
+Cyrano,407,Anónimo,Creador,NA,NA,Pacho Cardenas,33,Enero 11 de 1923,1923-01-11,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,408,Anónimo,Creador,NA,NA,NA,33,Enero 11 de 1923,1923-01-11,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,409,"Gómez, Jacobo V.",Creador,NA,NA,Vida y sol,33,Enero 11 de 1923,1923-01-11,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.6,387-388
+Cyrano,410,"Castañeda Aragón, Gregorio",Creador,NA,Colombia,Recortes de vida,33,Enero 11 de 1923,1923-01-11,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.9,388-389
+Cyrano,411,"Cano, María",Creador,NA,Colombia,Humano,33,Enero 11 de 1923,1923-01-11,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,389
+Cyrano,412,"Cano, María",Creador,NA,Colombia,Sonrisa,33,Enero 11 de 1923,1923-01-11,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,389-390
+Cyrano,413,"Duque Estrada, Gilberto",Creador,NA,NA,Platonismo artistico,33,Enero 11 de 1923,1923-01-11,No,NA,Español,NA,Poesía,NA,"Montoya Gaviria, Emilio",NA,0.6,390
+Cyrano,414,"Montoya, Roberto",Creador,NA,Colombia,La gota amarga,33,Enero 11 de 1923,1923-01-11,No,NA,Español,NA,Prosa Ficción,Cuento,B. P. A.,NA,2.5,391-393
+Cyrano,415,"Toro, Luis A.",Creador,NA,NA,Elegia de antaño,33,Enero 11 de 1923,1923-01-11,No,NA,Español,NA,Poesía,NA,"Ortiz R., Jorge",NA,0.5,393
+Cyrano,416,"Botero, Francisco",Creador,NA,Colombia,A orillas del río Medellín,33,Enero 11 de 1923,1923-01-11,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.9,394
+Cyrano,417,"Duque Estrada, Gilberto",Creador,NA,NA,Vivir…....!,33,Enero 11 de 1923,1923-01-11,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.6,394-395
+Cyrano,418,"Castañeda Aragón, Gregorio",Creador,NA,Colombia,Las torres ebrias,33,Enero 11 de 1923,1923-01-11,No,NA,Español,NA,Poesía,NA,"Gris, Leo",NA,0.4,395
+Cyrano,419,"Duque Estrada, Gilberto",Creador,NA,NA,La relatividad de las caidas,33,Enero 11 de 1923,1923-01-11,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.7,395-396
+Cyrano,420,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,"Del libro ""ofrenda florida""",33,Enero 11 de 1923,1923-01-11,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.2,396-397
+Cyrano,421,Nick-Chano,Creador,Nick-Chano,NA,Revoltijo,33,Enero 11 de 1923,1923-01-11,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,397-398
+Cyrano,422,Anónimo,Creador,NA,NA,Fernando Isaza,35,Enero 25 de 1923,1923-01-25,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,423,Anónimo,Creador,NA,NA,NA,35,Enero 25 de 1923,1923-01-25,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,424,"Montoya Gaviria, Emilio",Director,NA,Colombia,De la dirección,35,Enero 25 de 1923,1923-01-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,411-412
+Cyrano,425,"Montoya Gaviria, Emilio",Director,NA,Colombia,Los futuros,35,Enero 25 de 1923,1923-01-25,No,NA,Español,NA,Prosa Ficción,NA,"López Gómez, Adel",,1.8,412-413
+Cyrano,426,"Ferrer Escobar, Jesús",Creador,NA,Colombia,Pesimismo a la antigua,35,Enero 25 de 1923,1923-01-25,No,NA,Español,NA,Poesía,NA,NA,NA,1,414
+Cyrano,427,"Ferrer Escobar, Jesús",Creador,NA,Colombia,Histerismo,35,Enero 25 de 1923,1923-01-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,415
+Cyrano,428,"Ferrer Escobar, Jesús",Creador,NA,Colombia,Incompatibilidad,35,Enero 25 de 1923,1923-01-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,415
+Cyrano,429,"Franco, Horacio",Creador,NA,Colombia,El moderno antado,35,Enero 25 de 1923,1923-01-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,416-417
+Cyrano,430,"Cano, María",Creador,NA,Colombia,Cyrano,35,Enero 25 de 1923,1923-01-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,417
+Cyrano,431,"Carvajal Quintero, Filiberto",Creador,NA,Colombia,Sed,35,Enero 25 de 1923,1923-01-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,417
+Cyrano,432,"Carvajal Quintero, Filiberto",Creador,NA,Colombia,¿Algo de mi alma?,35,Enero 25 de 1923,1923-01-25,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.5,417-418
+Cyrano,433,"Jaramillo, Adán",Creador,NA,NA,Pequeños poemas,35,Enero 25 de 1923,1923-01-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,418
+Cyrano,434,"Greiff, León de",Creador,NA,Colombia,Signos,35,Enero 25 de 1923,1923-01-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,419
+Cyrano,435,"Harinas, Juancho",Creador,NA,NA,Apuntes triviales,35,Enero 25 de 1923,1923-01-25,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.7,419-420
+Cyrano,436,"Montoya, Roberto",Creador,NA,Colombia,La primera salida,35,Enero 25 de 1923,1923-01-25,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,2.8,420-422
+Cyrano,437,Anónimo,Creador,NA,NA,Rhea Toniolo,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,438,Anónimo,Creador,NA,NA,NA,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,439,"Álvarez R., Lisandro",Administrador,NA,Colombia,Hombradas,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.2,423-425
+Cyrano,440,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Las nubes,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.1,425
+Cyrano,441,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Alma del paisaje,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,425
+Cyrano,442,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Nazireo,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,425-426
+Cyrano,443,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Luz y sombra,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,426-427
+Cyrano,444,"Tranquilo, Javier",Creador,NA,NA,Por esas tierras,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Prosa No Ficción,NA,"Jaramillo de Meza, Blanca",NA,0.8,427
+Cyrano,445,"Isaza de Jaramillo Meza, Blanca",Creador,NA,NA,Motivos breves,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.7,428
+Cyrano,446,"Gutiérrez, Luis",Creador,NA,Colombia,Cuadro vivo,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,428
+Cyrano,447,Anónimo,Creador,NA,NA,José Falet,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Imagen,NA,NA,NA,1,429
+Cyrano,448,"Gutiérrez, Luis",Creador,NA,Colombia,El guadalupe,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,430
+Cyrano,449,Anónimo,Creador,NA,NA,Rhea Toniolo,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,430
+Cyrano,450,"Cano, María",Creador,NA,Colombia,Sed,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Prosa Ficción,NA,"Carvajal Quintero, Filiberto, Filiberto",NA,0.6,430
+Cyrano,451,"Euse Sánchez, Arturo",Creador,NA,NA,Minuto lírico,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,431
+Cyrano,452,"López Gómez, Adel",Creador,NA,Colombia,Poemas rusticos,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,432
+Cyrano,453,"Vasco Gutiérrez, Eduardo",Creador,NA,Colombia,Epistolario sentimental,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.2,432-433
+Cyrano,454,Anónimo,Creador,NA,NA,Circular,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,433-434
+Cyrano,455,Anónimo,Ilustrador,NA,NA,José J. Sierra,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.5,434
+Cyrano,456,Anónimo,Creador,NA,NA,Errata,36,Febrero 1 de 1923,1923-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,434
+Cyrano,457,Anónimo,Creador,NA,NA,Edoardo Faticanti,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,458,Anónimo,Creador,NA,NA,NA,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,459,"Restrepo Jaramillo, José Luis",Creador,NA,Colombia,Al abismo,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,435-436
+Cyrano,460,"Tranquilo, Javier",Creador,NA,NA,"Francisco Botero, poeta nuevo",37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,437
+Cyrano,461,"Vasco Gutiérrez, Eduardo",Creador,NA,Colombia,Mensaje,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,437
+Cyrano,462,"Botero, Francisco",Creador,NA,Colombia,Peregrina,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,438
+Cyrano,463,"Vasco Gutiérrez, Eduardo",Creador,NA,Colombia,Heroismo,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,438
+Cyrano,464,"Jaramillo, Adán",Creador,NA,NA,Pequeños poemas,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Poesía,NA,NA,NA,1.6,438-440
+Cyrano,465,Anónimo,Creador,NA,NA,Jesus Ferrer Escobar,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Imagen,NA,NA,NA,0.3,440
+Cyrano,466,Anónimo,Creador,NA,NA,El reloj,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,440
+Cyrano,467,"Villalonga, Blas de",Creador,NA,NA,Desinteria,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.8,441-443
+Cyrano,468,"López Gómez, Adel",Creador,NA,Colombia,Chinitica mia,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,443
+Cyrano,469,"Jaramillo Meza, Juan Bautista",Creador,NA,NA,El dolor de las cosas,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,444
+Cyrano,470,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Paradoja,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.1,444
+Cyrano,471,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Los naufragos,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,444
+Cyrano,472,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,La visión,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,444-445
+Cyrano,473,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,El vacío,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.1,445
+Cyrano,474,"Betancur Arango, Carlos",Creador,NA,NA,Tristezas,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,445
+Cyrano,475,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Los tres vortices,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,445
+Cyrano,476,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,El amor,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,445-446
+Cyrano,477,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Sombras animadas,37,Febrero 15 de 1923,1923-02-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.1,446
+Cyrano,478,"Franco, Horacio",Creador,NA,Colombia,Los caminos ocultos,38,Febrero 24 de 1923,1923-02-24,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.2,447-449
+Cyrano,479,"Montoya, Roberto",Creador,NA,Colombia,El milagro,38,Febrero 24 de 1923,1923-02-24,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,2.8,449-451
+Cyrano,480,"Solis Moncada, Jose",Creador,NA,NA,Elrededor del condor,38,Febrero 24 de 1923,1923-02-24,No,NA,Español,NA,Poesía,NA,NA,NA,1,452
+Cyrano,481,"Khayyam, Omar",Creador,NA,Irán,Robai,38,Febrero 24 de 1923,1923-02-24,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,453
+Cyrano,482,"Vélez Carmona, Juan Clímaco",Creador,NA,Colombia,Meditaciones,38,Febrero 24 de 1923,1923-02-24,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,453-454
+Cyrano,483,Anónimo,Creador,NA,NA,La causa,38,Febrero 24 de 1923,1923-02-24,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,454
+Cyrano,484,"Zarrazola, Pluvio",Creador,NA,NA,El reto,38,Febrero 24 de 1923,1923-02-24,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,454
+Cyrano,485,"Peña, Carlos I.",Creador,NA,NA,Augusto Duque Bernal,38,Febrero 24 de 1923,1923-02-24,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.7,455-456
+Cyrano,486,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Sombras animadas,38,Febrero 24 de 1923,1923-02-24,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.3,456-457
+Cyrano,487,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Las tres copas,38,Febrero 24 de 1923,1923-02-24,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.3,457
+Cyrano,488,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Palabra de sabiduría,38,Febrero 24 de 1923,1923-02-24,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.7,457-458
+Cyrano,489,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Hombre listo,38,Febrero 24 de 1923,1923-02-24,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.6,458
+Cyrano,490,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,"Amor, amor",38,Febrero 24 de 1923,1923-02-24,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,458
+Cyrano,491,"Álvarez R., Lisandro",Administrador,NA,Colombia,Vida errante,39,Marzo 2 de 1923,1923-03-02,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.3,459-460
+Cyrano,492,"López Gómez, Adel",Creador,NA,Colombia,Historia vulgar,39,Marzo 2 de 1923,1923-03-02,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.1,460-462
+Cyrano,493,"Greiff, León de",Creador,Gaspar,Colombia,Prosas de Gaspar,39,Marzo 2 de 1923,1923-03-02,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.6,462
+Cyrano,494,"Blanco, Ignacio",Creador,NA,NA,Horario,39,Marzo 2 de 1923,1923-03-02,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.8,463
+Cyrano,495,Nick-Chano,Creador,Nick-Chano,NA,Revoltijo,39,Marzo 2 de 1923,1923-03-02,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,463-464
+Cyrano,496,"Posada Echeverri, Jesús",Creador,NA,Colombia,El canto a la bien-amada,39,Marzo 2 de 1923,1923-03-02,No,NA,Español,NA,Poesía,NA,NA,NA,1.5,465-466
+Cyrano,497,"Duque Estrada, Gilberto",Creador,NA,NA,Florilegio del paisaje,39,Marzo 2 de 1923,1923-03-02,No,NA,Español,NA,Poesía,NA,"Montoya Gaviria, Emilio",NA,0.5,466
+Cyrano,498,"Cano, María",Creador,NA,Colombia,Vivir,39,Marzo 2 de 1923,1923-03-02,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.4,467-468
+Cyrano,499,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Literarias,39,Marzo 2 de 1923,1923-03-02,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.2,468-469
+Cyrano,500,"Vasco Gutiérrez, Eduardo",Creador,"Cavatini, Alhy",Colombia,Epistolario sentimental,39,Marzo 2 de 1923,1923-03-02,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.4,469-470
+Cyrano,501,Anónimo,Creador,NA,NA,Angela Liaño,40,Marzo 11 de 1923,1923-03-11,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Cyrano,502,Anónimo,Creador,NA,NA,NA,40,Marzo 11 de 1923,1923-03-11,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Cyrano,503,"Greiff, León de",Creador,Gaspar,Colombia,Prosas de Gaspar,40,Marzo 11 de 1923,1923-03-11,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2,471-472
+Cyrano,504,"Montoya, Roberto",Creador,NA,Colombia,Quisicosas,40,Marzo 11 de 1923,1923-03-11,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.6,473-474
+Cyrano,505,"Jérez, Armando",Creador,NA,NA,Salve mujer antioqueña,40,Marzo 11 de 1923,1923-03-11,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.8,474-475
+Cyrano,506,"López Gómez, Adel",Creador,NA,Colombia,Poemas rusticos,40,Marzo 11 de 1923,1923-03-11,No,NA,Español,NA,Poesía,NA,NA,NA,1.3,475-476
+Cyrano,507,"Zuluaga y Gutiérrez, Alfredo",Creador,NA,Colombia,Literarias,40,Marzo 11 de 1923,1923-03-11,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,476
+Cyrano,508,"López Gómez, Adel",Creador,NA,Colombia,"No enfries sus manos, señor",40,Marzo 11 de 1923,1923-03-11,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,477
+Cyrano,509,Anónimo,Creador,NA,NA,D. Libardo Botero,40,Marzo 11 de 1923,1923-03-11,No,NA,Español,NA,Imagen,NA,NA,NA,0.3,477
+Cyrano,510,"Capus, Rafael",Creador,NA,NA,Todos enfermos,40,Marzo 11 de 1923,1923-03-11,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.6,478-480
+Cyrano,511,"Blanco, Ignacio",Creador,NA,NA,Horario,40,Marzo 11 de 1923,1923-03-11,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.4,480
+Cyrano,512,Anónimo,Creador,NA,NA,Rafael Arcos,40,Marzo 11 de 1923,1923-03-11,No,NA,Español,NA,Imagen,NA,NA,NA,1,481
+Cyrano,513,Ever,Creador,Ever,NA,Alma triste,40,Marzo 11 de 1923,1923-03-11,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.7,482
+Cyrano,514,Anónimo,Creador,NA,NA,Lizardo Planelles,40,Marzo 11 de 1923,1923-03-11,No,NA,Español,NA,Imagen,NA,NA,NA,0.3,482

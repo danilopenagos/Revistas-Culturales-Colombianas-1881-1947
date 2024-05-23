@@ -1,0 +1,430 @@
+NombreR,NumContrib,Colaborador,Roles,Seudonimo,PaisOrigen,Titulo,NumFasciculo,Fecha-ISO,Traduccion,Traductor,Lengua,LenguaOriginal,Tipo,TipoIndice,Dedicatoria,ObrasResenadas,CantidadPaginas,Paginacion
+Revista Gris,1,Anónimo,Director,NA,NA,CONTENIDO,1 Año I,1892-10-12,No,NA,Español,NA,Prosa No Ficción,Contenido,NA,NA,1,NA
+Revista Gris,2,Anónimo,Director,NA,NA,Crónica local,1 Año I,1892-10-12,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Revista Gris,3,Anónimo,Director,La Dirección,NA,Nuestra Revista,1 Año I,1892-10-12,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.8,1
+Revista Gris,4,"Ponce Aguilera, Salomón",Director,S. P. A,Panamá,4.° Centenario del descubrimiento de América,1 Año I,1892-10-12,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.8,2-4
+Revista Gris,5,"González Barrero, Rafael",Creador,NA,Colombia,A Colón,1 Año I,1892-10-12,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.6,4-5
+Revista Gris,6,"Ponce Aguilera, Salomón",Director,NA,Panamá,Cromo (Del natural),1 Año I,1892-10-12,No,NA,Español,NA,Prosa No Ficción,NA,"Grillo, Maximiliano",NA,3.2,5-8
+Revista Gris,7,"Obligado, Rafael",Creador,NA,Argentina,La flor del Seibo,1 Año I,1892-10-12,No,NA,Español,NA,Poesía,Poesía,"Oyuela, Calixto",NA,1.6,8-9
+Revista Gris,8,"Ribón Castellanos, Cristóbal",Creador,Rafael Ribón,Colombia,La música,1 Año I,1892-10-12,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.6,10-14
+Revista Gris,9,"Villegas Arango, Alfonso",Creador,NA,Colombia,Fugitivas,1 Año I,1892-10-12,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.8,14-15
+Revista Gris,10,"Grillo, Maximiliano",Director,NA,Colombia,Un poeta argentino,1 Año I,1892-10-12,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,9.4,15-24
+Revista Gris,11,"García Sierra, Miguel",Creador,"García S., Miguel",Colombia,Apariencias,1 Año I,1892-10-12,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3.6,25-28
+Revista Gris,12,"Sanín Cano, Baldomero",Creador,NA,Colombia,Sinceridad de artista,1 Año I,1892-10-12,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,6.4,28-34
+Revista Gris,13,"Núñez, Rafael",Creador,NA,Colombia,DECRETO NÚMERO 151 DE 1888,1 Año I,1892-10-12,No,NA,Español,NA,Prosa No Ficción,Decreto,NA,NA,1,NA
+Revista Gris,14,Anónimo,Director,NA,NA,ADVERTENCIAS,1 Año I,1892-10-12,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Revista Gris,15,Anónimo,Director,NA,NA,CONTENIDO,2 Año I,1892-11-25,No,NA,Español,NA,Prosa No Ficción,Contenido,NA,NA,1,NA
+Revista Gris,16,"Palacio, Luis R.",Creador,NA,Colombia,A Colón,2 Año I,1892-11-25,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.6,NA
+Revista Gris,17,"Montes del Valle, Agripina",Creador,NA,Colombia,"Señores Directores de la ""Revista Gris""-En la ciudad",2 Año I,1892-11-25,No,NA,Español,NA,Prosa No Ficción,Carta,"Ponce Aguilera, Salomón; Grillo, Maximiliano",NA,1.2,35-36
+Revista Gris,18,"Silva, José Asunción",Creador,NA,Colombia,Carta abierta,2 Año I,1892-11-25,No,NA,Español,NA,Prosa No Ficción,Carta,NA,NA,6.4,36-42
+Revista Gris,19,"Arciniegas, Ismael Enrique",Creador,NA,Colombia,Invocación,2 Año I,1892-11-25,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.8,42-43
+Revista Gris,20,"Ponce Aguilera, Salomón",Director,NA,Panamá,Susana (Del natural),2 Año I,1892-11-25,No,NA,Español,NA,Prosa Ficción,NA,"Cuervo M., Emilio",NA,5.2,43-48
+Revista Gris,21,"Rivas Frade, Federico",Creador,NA,Colombia,Rondel,2 Año I,1892-11-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.8,48-49
+Revista Gris,22,"Goenaga, Florentino",Creador,Juan Gabriel Sierra,Colombia,María Bushkirtseff (DESPUÉS DE LEER SU DIARIO),2 Año I,1892-11-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.2,49-53
+Revista Gris,23,"Obregón, Manuel F.",Creador,M. F. Obregón,Colombia,Metamorfosis de la Cigarra,2 Año I,1892-11-25,No,NA,Español,NA,Prosa No Ficción,NA,"Ospina L. G., Heliodoro",NA,12.8,53-66
+Revista Gris,24,"Grillo, Maximiliano",Director,M. Grillo,Colombia,Un Canto de Samuel Velásquez,2 Año I,1892-11-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3.6,66-69
+Revista Gris,25,"González Barrero, Rafael",Creador,R. González Barrero,Colombia,A solas,2 Año I,1892-11-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,70
+Revista Gris,26,C. M.,Creador,C. M.,NA,Aislamiento,2 Año I,1892-11-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,70
+Revista Gris,27,Anónimo,Director,NA,NA,NA,2 Año I,1892-11-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,NA
+Revista Gris,28,"Núñez, Rafael",Creador,NA,Colombia,DECRETO NÚMERO 151 DE 1888 (Continuación),2 Año I,1892-11-25,No,NA,Español,NA,Prosa No Ficción,Decreto,NA,NA,0.4,NA
+Revista Gris,29,Anónimo,Director,NA,NA,ADVERTENCIAS,2 Año I,1892-11-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Revista Gris,30,Anónimo,Director,NA,NA,CONTENIDO,3 Año I,1892-12-01,No,NA,Español,NA,Prosa No Ficción,Contenido,NA,NA,1,NA
+Revista Gris,31,Anónimo,Director,NA,NA,“Señores agentes…”,3 Año I,1892-12-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,NA
+Revista Gris,32,Anónimo,Director,NA,NA,“En el presente mes”,3 Año I,1892-12-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,NA
+Revista Gris,33,Anónimo,Director,NA,NA,“En la Universidad Republicana”,3 Año I,1892-12-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,NA
+Revista Gris,34,Anónimo,Director,NA,NA,Las formas de gobierno,3 Año I,1892-12-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,"Las formas de gobierno, por Vicente Olarte G.",0.1,NA
+Revista Gris,35,Anónimo,Director,NA,NA,“La facultad de Ingenieria...”,3 Año I,1892-12-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.4,NA
+Revista Gris,36,Anónimo,Director,NA,NA,“Agradecemos el envío..”,3 Año I,1892-12-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,"Libro del niño, por Emiliano Isaza",0.1,NA
+Revista Gris,37,"Cuervo Márquez, Emilio",Creador,NA,Colombia,Phrazomela,3 Año I,1892-12-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,15.8,71-86
+Revista Gris,38,"Rivas Frade, Federico",Creador,NA,Colombia,"Olvido (DEL LIBRO ""YEDRAS"") ",3 Año I,1892-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,87
+Revista Gris,39,"Grillo, Maximiliano",Director,NA,Colombia,Nostalgia,3 Año I,1892-12-01,No,NA,Español,NA,Poesía,NA,"Zalamea, Benito",NA,3,87-90
+Revista Gris,40,"Vergara Barros, Francisco",Creador,NA,Colombia,El divino arte,3 Año I,1892-12-01,No,NA,Español,NA,Prosa No Ficción,NA,"Ponce Aguilera, Salomón",NA,3.8,90-94
+Revista Gris,41,"Villegas Arango, Alfonso",Creador,NA,Colombia,A Pastora,3 Año I,1892-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.6,94-95
+Revista Gris,42,"Basto, Carlos María",Creador,NA,Colombia,Colón,3 Año I,1892-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,96
+Revista Gris,43,"Mantegazza, Paolo",Creador,NA,Italia,El éxtasis humano,3 Año I,1892-12-01,Sí,"Obregón, Manuel F.",Español,Italiano,Prosa No Ficción,NA,NA,NA,6,96-102
+Revista Gris,44,Anónimo,Director,La Dirección,NA,Corona fúnebre,3 Año I,1892-12-01,No,NA,Español,NA,Reseña,NA,"Corona fúnebre, por Gómez, Ernesto L.",NA,0.6,102
+Revista Gris,45,Anónimo,Director,NA,NA,“Hemos recibido…”,3 Año I,1892-12-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,El periódico nuevo,0.1,NA
+Revista Gris,46,Anónimo,Director,NA,NA,Literatura de El Heraldo,3 Año I,1892-12-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,Literatura de El Heraldo,0.2,NA
+Revista Gris,47,Anónimo,Director,NA,NA,La Palabra,3 Año I,1892-12-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,"La Palabra (Panamá), dirigido por Ramón M. Valdés",0.2,NA
+Revista Gris,48,Anónimo,Director,NA,NA,“El notable cuanto aplaudido artista…”,3 Año I,1892-12-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,NA
+Revista Gris,49,Anónimo,Director,NA,NA,“En Chiriguaná…”,3 Año I,1892-12-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.3,NA
+Revista Gris,50,Anónimo,Director,NA,NA,ADVERTENCIAS,3 Año I,1892-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Revista Gris,51,"Posada, Eduardo",Creador,NA,Colombia,Øresund,4 Año I,1893-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,10.6,103-113
+Revista Gris,52,"Rivas Frade, Federico",Creador,NA,Colombia,"Rondel (DEL LIBRO ""YEDRAS"")",4 Año I,1893-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,113-114
+Revista Gris,53,"Grillo, Maximiliano",Director,M. Grillo,Colombia,Literatura peruana,4 Año I,1893-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.2,114-116
+Revista Gris,54,"Amézaga, Carlos Germán",Creador,"Amézaga, Carlos G.",Perú,Mi locura (CONFIDENCIAS Á UNA ALMA GRANDE),4 Año I,1893-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.2,116-117
+Revista Gris,55,"Aguilera Herrera, Benjamín",Creador,NA,Colombia,Jamás,4 Año I,1893-01-01,No,NA,Español,NA,Reseña,NA,NA,"Jamás, por Ángel Cuervo",4,117-121
+Revista Gris,56,"Sanín Cano, Baldomero",Creador,Inés (Caucana),Colombia,Una flor,4 Año I,1893-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.4,121-122
+Revista Gris,57,"Pombo, Rafael",Creador,NA,Colombia,A Inés (CAUCANA),4 Año I,1893-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,123
+Revista Gris,58,"Ponce Aguilera, Salomón",Director,NA,Panamá,Mi amigo Julio,4 Año I,1893-01-01,No,NA,Español,NA,Prosa Ficción,NA,"Valdés, Ramón M.",NA,8,124-131
+Revista Gris,59,"Ladrón de Guevara, Teodoro",Creador,NA,Colombia,La fuente,4 Año I,1893-01-01,No,NA,Español,NA,Poesía,NA,"Ruiz, Rafael Francisco",NA,1.2,132-133
+Revista Gris,60,"Cuervo Márquez, Carlos",Creador,NA,Colombia,La piedra grabada de Chiriló,4 Año I,1893-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.4,133-134
+Revista Gris,61,Anónimo,Ilustrador,NA,NA,NA,4 Año I,1893-01-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.4,134
+Revista Gris,62,Anónimo,Creador,NA,NA,CORRESPONDENCIA,4 Año I,1893-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,134
+Revista Gris,63,"Posada, Eduardo",Creador,NA,Colombia,Øresund,5 Año I,1893-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,13.4,135-148
+Revista Gris,64,"Fernández Avendaño, Enrique Wenceslao",Creador,NA,Colombia,Oh Madre!,5 Año I,1893-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.2,148-149
+Revista Gris,65,"Olivier, Jorge",Creador,NA,NA,"En ""La unión""",5 Año I,1893-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,6.1,149-155
+Revista Gris,66,"Vergara Barros, Francisco",Creador,F. Vergara Barros,Colombia,Solitudine,5 Año I,1893-02-01,No,NA,Español,NA,Poesía,NA,Isabel,NA,0.8,155-156
+Revista Gris,67,"Mantilla, Víctor G.",Creador,NA,Perú,El sueño del patriarca,5 Año I,1893-02-01,No,NA,Español,NA,Prosa Ficción,NA,"Barreto, J. Federico",NA,3.6,156-159
+Revista Gris,68,"Brito, Aníbal",Creador,NA,Colombia,Gloria!,5 Año I,1893-02-01,No,NA,Español,NA,Poesía,NA,"Pombo, Rafael",NA,2.2,160-162
+Revista Gris,69,"Ponce Aguilera, Salomón",Director,NA,Panamá,Primer amor,5 Año I,1893-02-01,No,NA,Español,NA,Prosa Ficción,NA,"Goenaga, Teodosio",NA,6.6,162-168
+Revista Gris,70,Anónimo,Director,NA,NA,CORRESPONDENCIA,5 Año I,1893-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,168
+Revista Gris,71,"Villegas Arango, Alfonso",Creador,NA,Colombia,A Zorrilla,6 Año I,1893-03-01,No,NA,Español,NA,Poesía,NA,"Zorrilla, Jose",NA,0.6,169
+Revista Gris,72,"Cuervo Márquez, Emilio",Creador,NA,Colombia,Alucinación,6 Año I,1893-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,11.8,170-181
+Revista Gris,73,"Llona, Numa Pompilio",Creador,NA,Ecuador,La palma (DESDE MI LECHO DE DOLOR),6 Año I,1893-03-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,181-182
+Revista Gris,74,"Llona, Numa Pompilio",Creador,NA,Ecuador,El padre carpintero (IMPROVISACIÓN),6 Año I,1893-03-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,182
+Revista Gris,75,"Aguilera Herrera, Benjamín",Creador,NA,Colombia,Bibliografía,6 Año I,1893-03-01,No,NA,Español,NA,Reseña,NA,NA,"Serie de novelas: El trabajo, Luz de la noche y La muleta, por Ubladina Dávila de Ponce",2.4,183-185
+Revista Gris,76,"Bolet Peraza, Nicanor",Creador,"Bolet Peraza, N.",Venezuela,El arte,6 Año I,1893-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,4.2,185-189
+Revista Gris,77,"Wilson, Jorge",Creador,NA,Colombia,José Joaquín Ortiz,6 Año I,1893-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.4,189-193
+Revista Gris,78,"Mantegazza, Paolo",Creador,NA,Italia,El éxtasis humano,6 Año I,1893-03-01,Sí,"Obregón, Manuel F.",Español,Italiano,Prosa No Ficción,NA,NA,NA,5,193-198
+Revista Gris,79,"Mutis, A.",Creador,"Mutis, A.",Colombia,Nietzsche (FRAGMENTO DE UNA CARTA LITERARIA),6 Año I,1893-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,198-199
+Revista Gris,80,C. G. A.,Creador,C. G. A.,Perú,Las pálidas,6 Año I,1893-03-01,No,NA,Español,NA,Poesía,NA,"T., E.",NA,0.6,200
+Revista Gris,81,"Bobadilla, Emilio",Creador,Fray Candil,Cuba,Por ti,6 Año I,1893-03-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,200
+Revista Gris,82,"Ponce Aguilera, Salomón",Director,NA,Panamá,Ideales,7 Año I,1893-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,11.5,201-212
+Revista Gris,83,"Chocano, José Santos",Creador,NA,Perú,Dolor,7 Año I,1893-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,3.4,212-215
+Revista Gris,84,"Bobadilla, Emilio",Creador,Fray Candil,Cuba,"""Bajo el punto de vista""",7 Año I,1893-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3.4,216-219
+Revista Gris,85,"Grillo, Maximiliano",Director,NA,Colombia,¡Madre mía!,7 Año I,1893-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,219-221
+Revista Gris,86,"Rivas Frade, Federico",Creador,NA,Colombia,Rimas,7 Año I,1893-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,221
+Revista Gris,87,"Mantegazza, Paolo",Creador,NA,Italia,El éxtasis humano,7 Año I,1893-04-01,Sí,"Obregón, Manuel F.",Español,Italiano,Prosa No Ficción,NA,NA,NA,10,221-231
+Revista Gris,88,"Silva, Eleázar",Creador,NA,Venezuela,Rondel,7 Año I,1893-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,231
+Revista Gris,89,"Parodi, B.",Creador,NA,NA,Delirando,7 Año I,1893-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,232
+Revista Gris,90,"Posada, Eduardo",Creador,NA,Colombia,El pasmo de Sicilia,8 Año I,1893-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7.5,233-240
+Revista Gris,91,"Obligado, Rafael",Creador,NA,Argentina,En la ribera,8 Año I,1893-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,240-242
+Revista Gris,92,"Villegas Arango, Alfonso",Creador,NA,Colombia,Belum,8 Año I,1893-05-01,No,NA,Español,NA,Poesía,NA,"Grillo, Maximiliano",NA,2.4,242-244
+Revista Gris,93,"Ponce Aguilera, Salomón",Director,NA,Panamá,El banquero Soulier,8 Año I,1893-05-01,No,NA,Español,NA,Prosa Ficción,NA,"Gamboa G., Enrique",NA,6,245-250
+Revista Gris,94,"Larriva de Llona, Lastenia",Creador,NA,Perú,Ausencia,8 Año I,1893-05-01,No,NA,Español,NA,Poesía,NA,Carlos Adolfo,NA,1.6,251-252
+Revista Gris,95,"Tirado Macías, Ricardo",Creador,NA,Colombia,Werther y Don Juan,8 Año I,1893-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.2,252-256
+Revista Gris,96,"Pérez, Enrique",Creador,NA,Colombia,11 de agosto,8 Año I,1893-05-01,No,NA,Español,NA,Poesía,NA,"Silva, José Asunción",NA,0.8,256-257
+Revista Gris,97,"Oyuela, Calixto",Creador,NA,Argentina,Apuntes estéticos,8 Año I,1893-05-01,No,NA,Español,NA,Prosa No Ficción,NA,"Dobranich, B. F.",NA,5.2,257-262
+Revista Gris,98,"Romero García, Manuel Vicente",Creador,NA,Venezuela,Acuarela,8 Año I,1893-05-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,262-263
+Revista Gris,99,Anónimo,Creador,La Dirección,NA,Breve observación,8 Año I,1893-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.8,263-264
+Revista Gris,100,"Grillo, Maximiliano",Creador,M. G.,Colombia,En silencio,8 Año I,1893-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,264
+Revista Gris,101,"Pérez Bonalde, Juan Antonio",Creador,NA,Venezuela,Improvisación,8 Año I,1893-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,264
+Revista Gris,102,"Oyuela, Calixto",Creador,NA,Argentina,Apuntes estéticos II,9 Año I,1893-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7.2,265-272
+Revista Gris,103,"Caro, Miguel Antonio",Creador,NA,Colombia,Belleza ideal,9 Año I,1893-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.8,272
+Revista Gris,104,"Horacio Flaco, Quinto",Creador,Horacio,Italia,Oda XIII,9 Año I,1893-06-01,Sí,"Vergara Barros, Francisco",Español,Latín,Poesía,NA,NA,NA,1,273
+Revista Gris,105,"Posada, Eduardo",Creador,NA,Colombia,Palabras,9 Año I,1893-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7.6,274-281
+Revista Gris,106,"Grillo, Maximiliano",Director,NA,Colombia,Canto a Chile,9 Año I,1893-06-01,No,NA,Español,NA,Prosa No Ficción,NA,"Argáez, Jerónimo",NA,1.6,281-283
+Revista Gris,107,"Grillo, Maximiliano",Director,NA,Colombia,A Chile,9 Año I,1893-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,5,283-288
+Revista Gris,108,"Rives de Borja, Enrique",Creador,NA,Colombia,Tu amor (DELIRIOS DE RAIMUNDO LULIO),9 Año I,1893-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.8,288
+Revista Gris,109,"Imendia, Carlos Arturo",Creador,"Imendia, Carlos A.",El Salvador,El mago Abd-El-Akir (CUENTO ORIENTAL),9 Año I,1893-06-01,No,NA,Español,NA,Prosa Ficción,Cuento,NA,NA,4,289-292
+Revista Gris,110,Anónimo,Creador,NA,NA,Celos,9 Año I,1893-06-01,Sí,"Arciniegas, Ismael Enrique",Español,NA,Prosa Ficción,NA,NA,NA,3.6,293-296
+Revista Gris,111,"Núñez de Arce, Gaspar",Creador,NA,España,Luzbel,10 Año I,1893-07-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,4,297-300
+Revista Gris,112,"Posada, Eduardo",Creador,NA,Colombia,Palabras (CONCLUYE),10 Año I,1893-07-01,No,NA,Español,NA,Teatro,NA,NA,NA,6.8,301-307
+Revista Gris,113,"Horacio Flaco, Quinto",Creador,Horacio,Italia,Oda XVIII,10 Año I,1893-07-01,Sí,"Vergara Barros, Francisco",Español,Latín,Poesía,NA,NA,NA,1,308
+Revista Gris,114,"Oyuela, Calixto",Creador,NA,Argentina,Apuntes estéticos III,10 Año I,1893-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7.5,309-316
+Revista Gris,115,"Uribe, Diego",Creador,NA,Colombia,Becquer,10 Año I,1893-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7.5,316-323
+Revista Gris,116,"Grillo, Maximiliano",Director,M. G.,Colombia,Bibliografía,10 Año I,1893-07-01,No,NA,Español,NA,Reseña,NA,"La novela moderna, por Mecerdes Cabello de Carbonera",NA,1.2,324-325
+Revista Gris,117,"Goenaga, Florentino",Creador,"Sierra, Juan Gabriel",Colombia,Bordando,10 Año I,1893-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.4,325-326
+Revista Gris,118,"Fábrega, Pedro",Creador,NA,Colombia,Rimas,10 Año I,1893-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,327
+Revista Gris,119,"Grillo, Maximiliano",Director,NA,Colombia,A propósito de una traducción,10 Año I,1893-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.2,328-330
+Revista Gris,120,"Ponce Aguilera, Salomón",Director,NA,Panamá,"Julio Flórez y sus ""Horas""",10 Año I,1893-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,15.3,330-345
+Revista Gris,121,"Vieco, Julio N.",Creador,NA,Colombia,El vino con el llanto,10 Año I,1893-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.5,345-346
+Revista Gris,122,"Ponce Aguilera, Salomón",Director,NA,Panamá,Algo sobre la novela colombiana,11 Año I,1893-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,11.6,347-358
+Revista Gris,123,"Velásquez Botero, Samuel",Creador,NA,Colombia,La lucha. Del Natural.,11 Año I,1893-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,2.4,358-360
+Revista Gris,124,"Villegas Arango, Alfonso",Creador,NA,Colombia,El secreto de la miel,11 Año I,1893-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,361
+Revista Gris,125,"Oyuela, Calixto",Creador,NA,Argentina,Apuntes estéticos,11 Año I,1893-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,6,362-367
+Revista Gris,126,"Flórez, Julio",Creador,NA,Colombia,Luceros,11 Año I,1893-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,368
+Revista Gris,127,"Arciniegas, Ismael Enrique",Creador,NA,Colombia,La ira santa,11 Año I,1893-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,368
+Revista Gris,128,Anónimo,Director,La Dirección,NA,Epifanio Mejía,11 Año I,1893-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,369
+Revista Gris,129,Anónimo,Director,La Dirección,NA,"""El Perú artístico""",11 Año I,1893-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,370
+Revista Gris,130,"Wilson, Jorge",Creador,NA,Colombia,Carta a Alonso Bermúdez,12 Año I,1893-09-01,No,NA,Español,NA,Prosa No Ficción,NA,"Bermúdez, Alonso",NA,6,371-376
+Revista Gris,131,"Uribe, Diego",Creador,NA,Colombia,Siesta,12 Año I,1893-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,377
+Revista Gris,132,"Fernández Avendaño, Enrique Wenceslao",Creador,NA,Colombia,La última pareja,12 Año I,1893-09-01,No,NA,Español,NA,Poesía,NA,Revista Gris,NA,0.8,377-378
+Revista Gris,133,"Ponce Aguilera, Salomón",Director,NA,Panamá,Novia,12 Año I,1893-09-01,No,NA,Español,NA,Prosa Ficción,NA,"Posada, Eduardo",NA,5.8,378-383
+Revista Gris,134,"Lorenzana, Carlos",Creador,NA,Colombia,Nupcial,12 Año I,1893-09-01,No,NA,Español,NA,Poesía,NA,"Mac Douall, Roberto",NA,1.4,384-385
+Revista Gris,135,"Grillo, Maximiliano",Director,NA,Colombia,¡Oh selva!,12 Año I,1893-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.6,385-386
+Revista Gris,136,"Arango M., Miguel",Creador,NA,Colombia,El sueño fisiológico,12 Año I,1893-09-01,No,NA,Español,NA,Prosa No Ficción,NA,"Obregón, Manuel F.",NA,5.6,387-392
+Revista Gris,137,"Villegas Arango, Alfonso",Creador,NA,Colombia,Ausente,12 Año I,1893-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.4,392-393
+Revista Gris,138,"Vergara Barros, Francisco",Creador,NA,Colombia,Señor D. Maximiliano Grillo,12 Año I,1893-09-01,No,NA,Español,NA,Prosa No Ficción,Carta,"Grillo, Maximiliano",NA,0.6,394
+Revista Gris,139,"Horacio Flaco, Quinto",Creador,Horacio,Italia,Oda XI. (Libro IV),12 Año I,1893-09-01,Sí,"Vergara Barros, Francisco",Español,Latín,Poesía,NA,Filis,NA,1.4,394-395
+Revista Gris,140,"Tirado Macías, Ricardo",Creador,NA,Colombia,Fin de un poeta,12 Año I,1893-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3.4,396-399
+Revista Gris,141,Anónimo,Director,NA,NA,"""Con el deseo de proporcionar á los lectores de la REVISTA…""",12 Año I,1893-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,399
+Revista Gris,142,"Facio, Justo A.",Creador,NA,Costa Rica,El artista,12 Año I,1893-09-01,No,NA,Español,NA,Poesía,NA,"Ponce Aguilera, Salomón; Grillo, Maximiliano",NA,1,399-400
+Revista Gris,143,Anónimo,Director,La Dirección,NA,El último Pijao,12 Año I,1893-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,400
+Revista Gris,144,Anónimo,Director,NA,NA,Indice del Tomo I,12 Año I,1893-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,401-402
+Revista Gris,145,Anónimo,Director,NA,NA,REVISTA GRIS,1 Año II,1894-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Revista Gris,146,Anónimo,Director,NA,NA,CONTENIDO,1 Año II,1894-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,NA
+Revista Gris,147,Anónimo,Director,NA,NA,Crítica,1 Año II,1894-01-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,NA
+Revista Gris,148,Anónimo,Director,NA,NA,Revista política,1 Año II,1894-01-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,NA
+Revista Gris,149,Anónimo,Director,NA,NA,Suplica,1 Año II,1894-01-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,NA
+Revista Gris,150,Anónimo,Director,NA,NA,Pésame,1 Año II,1894-01-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,NA
+Revista Gris,151,Anónimo,Director,La Redacción,NA,Nuevo año,1 Año II,1894-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.6,1-2
+Revista Gris,152,"Fastenrath, Johannes",Creador,"Fastenrath, Juan",Alemania,Carta europea,1 Año II,1894-01-01,No,NA,Español,NA,Prosa No Ficción,NA,"Grillo, Maximiliano",NA,10,2-12
+Revista Gris,153,"Uribe, Diego",Creador,NA,Colombia,Tu plegaria,1 Año II,1894-01-01,No,NA,Español,NA,Poesía,NA,A mi esposa,NA,2.4,12-14
+Revista Gris,154,"Arias Argáez, Daniel",Creador,NA,Colombia,Sonata,1 Año II,1894-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,15
+Revista Gris,155,"Espinosa Guzmán, Rafael",Creador,Reg,Colombia,Viaje al oriente de la república. (De sogamoso a la laguna de Tota),1 Año II,1894-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,15-20
+Revista Gris,156,"Rivas Frade, Federico",Creador,NA,Colombia,Rondel,1 Año II,1894-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,20-21
+Revista Gris,157,"Rivas Frade, Federico",Creador,NA,Colombia,***,1 Año II,1894-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.2,21
+Revista Gris,158,"Tirado Macías, Ricardo",Creador,NA,Colombia,Canicular,1 Año II,1894-01-01,No,NA,Español,NA,Prosa No Ficción,NA,"Jaramillo R., Manuel",NA,1.6,21-22
+Revista Gris,159,"Restrepo, Antonio José",Creador,NA,Colombia,Aleluya,1 Año II,1894-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.6,23-25
+Revista Gris,160,"Gamboa, Francisco Antonio",Creador,"Gamboa, F. A.",Colombia,Raza degenerada,1 Año II,1894-01-01,No,NA,Español,NA,Poesía,NA,"Ponce Aguilera, Salomón",NA,2,25-27
+Revista Gris,161,"Alas, Leopoldo",Creador,Clarín,España,El sustituto,1 Año II,1894-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,6.6,27-34
+Revista Gris,162,"Grillo, Maximiliano",Director,NA,Colombia,Al toque de Angelus,1 Año II,1894-01-01,No,NA,Español,NA,Poesía,NA,"Vergara Barros, Francisco",NA,0.6,34
+Revista Gris,163,"Arciniegas, Ismael Enrique",Creador,NA,Colombia,Julian del Casal,2 Año II,1894-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,35-36
+Revista Gris,164,"Arciniegas, Ismael Enrique",Creador,NA,Colombia,Rondel de Rollinat,2 Año II,1894-02-01,No,NA,Español,NA,Poesía,NA,"Silva, José Asunción",NA,0.6,36
+Revista Gris,165,"Bourget, Paul",Creador,NA,Colombia,En el peñasco,2 Año II,1894-02-01,Sí,"Arciniegas, Ismael Enrique",Español,Francés,Poesía,NA,NA,NA,0.6,36-37
+Revista Gris,166,"Alas, Leopoldo",Creador,NA,España,Enrique Gómez Carrillo,2 Año II,1894-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4,37-41
+Revista Gris,167,"Flórez, Julio",Creador,NA,Colombia,En que piensas?,2 Año II,1894-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.4,41-42
+Revista Gris,168,"Horacio Flaco, Quinto",Creador,Horacio,Italia,Oda XXIII. (Libro I),2 Año II,1894-02-01,Sí,"Vergara Barros, Francisco",Español,Latín,Poesía,NA,Cloe,NA,0.6,43
+Revista Gris,169,Anónimo,Creador,NA,NA,Nueva sintaxis latina,2 Año II,1894-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.4,43-44
+Revista Gris,170,"Casas, Pablo I.",Creador,NA,Colombia,Sintaxis latina,2 Año II,1894-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3,45-47
+Revista Gris,171,"Serrano, Marco Aurelio",Creador,NA,Colombia,Querellas,2 Año II,1894-02-01,No,NA,Español,NA,Poesía,NA,"Grillo, Maximiliano",NA,2,48-49
+Revista Gris,172,"Frederic, Harold",Creador,NA,Estados Unidos,El hermano Angelan,2 Año II,1894-02-01,Sí,"Coradine, Carlos Eduardo",Español,Inglés,Prosa No Ficción,NA,NA,NA,20,50-69
+Revista Gris,173,Anónimo,Anunciante,NA,NA,El laberinto de Pacho Jiménez M.,2 Año II,1894-02-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,70
+Revista Gris,174,"Posada, Eduardo",Creador,NA,Colombia,En vacaciones,3 Año II,1894-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,12.5,71-83
+Revista Gris,175,"Torres, Carlos Arturo",Creador,NA,Colombia,A los escritores colombianos de fin de siglo,3 Año II,1894-03-01,No,NA,Español,NA,Poesía,NA,Revista Gris,NA,3.5,83-86
+Revista Gris,176,"Tirado Macías, Ricardo",Creador,NA,Colombia,Campanadas,3 Año II,1894-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.6,87-91
+Revista Gris,177,"Moore, Thomas",Creador,NA,Irlanda,Última rosa de estío,3 Año II,1894-03-01,Sí,"Rivas Frade, Federico",Español,Inglés,Prosa Ficción,NA,NA,NA,1,91-92
+Revista Gris,178,"Espinosa Guzmán, Rafael",Creador,Reg,Colombia,Viaje al oriente de la república. (De la laguna de Tota a San Rafael),3 Año II,1894-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,92-97
+Revista Gris,179,"Horacio Flaco, Quinto",Creador,Horacio,Italia,Oda XXVIII. (Libro III),3 Año II,1894-03-01,Sí,"Vergara Barros, Francisco",Español,Latín,Poesía,NA,Lide,NA,0.8,97-98
+Revista Gris,180,"León Gómez, Adolfo",Creador,NA,Colombia,El punto céntrico,3 Año II,1894-03-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,98
+Revista Gris,181,"Ribón Castellanos, Cristóbal",Creador,NA,Colombia,Così va il mondo,3 Año II,1894-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,99
+Revista Gris,182,"Ponce Aguilera, Salomón",Director,NA,Panamá,Nerviosa,3 Año II,1894-03-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,4,100-103
+Revista Gris,183,Anónimo,Redactor,La Redacción,NA,“Felicitamos...”,3 Año II,1894-03-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,104
+Revista Gris,184,Anónimo,Redactor,La Redacción,NA,El señor Pablo E. Gutiérrez,3 Año II,1894-03-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,104
+Revista Gris,185,Anónimo,Redactor,La Redacción,NA,Periódico,3 Año II,1894-03-01,No,NA,Español,NA,Reseña de revista,Miscelánea,NA,El Bien Público,0.1,104
+Revista Gris,186,Anónimo,Redactor,La Redacción,NA,Colegio para señoritas,3 Año II,1894-03-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,104
+Revista Gris,187,Anónimo,Redactor,La Redacción,NA,Grados notables,3 Año II,1894-03-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,104
+Revista Gris,188,Anónimo,Redactor,La Redacción,NA,A nuestros estimables colegas,3 Año II,1894-03-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,104
+Revista Gris,189,Anónimo,Redactor,La Redacción,NA,La lectura para todos,3 Año II,1894-03-01,No,NA,Español,NA,Reseña de revista,Miscelánea,NA,"La lectura para todos (Cartagena), dirigida por Carlos Castelbondo",0.1,105
+Revista Gris,190,Anónimo,Redactor,La Redacción,NA,Pésame,3 Año II,1894-03-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,105
+Revista Gris,191,Anónimo,Redactor,La Redacción,NA,“Hemos recibido…”,3 Año II,1894-03-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,105
+Revista Gris,192,Anónimo,Redactor,La Redacción,NA,Revista,3 Año II,1894-03-01,No,NA,Español,NA,Reseña de revista,Miscelánea,NA,"Revista Azul (Barranquilla), dirigida por Abraham Z. López Penha",0.1,105
+Revista Gris,193,Anónimo,Redactor,La Redacción,NA,Bienvenida,3 Año II,1894-03-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,105
+Revista Gris,194,Anónimo,Redactor,La Redacción,NA,Circular,3 Año II,1894-03-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,105
+Revista Gris,195,Anónimo,Redactor,La Redacción,NA,Corrigenda,3 Año II,1894-03-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,105
+Revista Gris,196,Anónimo,Anunciante,NA,NA,El laberinto de Pacho Jiménez M.,3 Año II,1894-03-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,106
+Revista Gris,197,"Ponce Aguilera, Salomón",Director,NA,Panamá,Cuentos del tío Lucas: La voz de los muertos,4 Año II,1894-04-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,6.6,107-113
+Revista Gris,198,"Balart, Federico",Creador,NA,España,Recuerdo,4 Año II,1894-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.1,113-114
+Revista Gris,199,"Imendia, Carlos Arturo",Creador,"Imendia, Carlos A.",El Salvador,El marco del retrato,4 Año II,1894-04-01,No,NA,Español,NA,Prosa Ficción,NA,"Grillo, Maximiliano",NA,3.2,114-117
+Revista Gris,200,"Flórez, Julio",Creador,NA,Colombia,Gota de ajenjo,4 Año II,1894-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,117
+Revista Gris,201,"Coppée, François",Creador,NA,Colombia,Los ojos de la mujer,4 Año II,1894-04-01,Sí,"Restrepo, Antonio José",Español,Francés,Poesía,NA,"Suri Salcedo, Tomás",NA,1.4,118-119
+Revista Gris,202,"Grillo, Maximiliano",Director,NA,Colombia,Leyendo un informe,4 Año II,1894-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8.6,119-127
+Revista Gris,203,"Champeau, Edmond",Creador,NA,Francia,"El primer numero de la ""Revue Générale de Droit International Public""",4 Año II,1894-04-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,12,128-139
+Revista Gris,204,"Ladrón de Guevara, Teodoro",Creador,NA,Colombia,Madrigal,4 Año II,1894-04-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,140
+Revista Gris,205,Anónimo,Redactor,La Redacción,NA,Saludo,4 Año II,1894-04-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.5,140
+Revista Gris,206,Anónimo,Redactor,La Redacción,NA,“Hemos recibido…”,4 Año II,1894-04-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,140
+Revista Gris,207,Anónimo,Redactor,La Redacción,NA,Gracias,4 Año II,1894-04-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,141
+Revista Gris,208,Anónimo,Redactor,La Redacción,NA,Canjes,4 Año II,1894-04-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,141
+Revista Gris,209,Anónimo,Redactor,La Redacción,NA,Pésame,4 Año II,1894-04-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,141
+Revista Gris,210,Anónimo,Redactor,La Redacción,NA,Poesía,4 Año II,1894-04-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,141
+Revista Gris,211,Anónimo,Redactor,La Redacción,NA,Eugenio Díaz,4 Año II,1894-04-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,141
+Revista Gris,212,Anónimo,Redactor,La Redacción,NA,Escuela de Bellas Artes,4 Año II,1894-04-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,141
+Revista Gris,213,Anónimo,Redactor,La Redacción,NA,“Al Sr. Dr. D. José M. González Valencia…”,4 Año II,1894-04-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,141
+Revista Gris,214,Anónimo,Anunciante,NA,NA,El laberinto de Pacho Jiménez M.,4 Año II,1894-04-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,142
+Revista Gris,215,Ribera,Ilustrador,Ribera,NA,Armando Palacio Valdés,5 Año II,1894-05-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.8,143
+Revista Gris,216,"Ponce Aguilera, Salomón",Director,NA,Panamá,Armando Palacio Valdés,5 Año II,1894-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,12.2,143-155
+Revista Gris,217,"Rivas Groot, José María",Creador,NA,Colombia,El valse,5 Año II,1894-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,2.5,156-158
+Revista Gris,218,"Flórez, Julio",Creador,NA,Colombia,"Mis ""flores negras""",5 Año II,1894-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,158-159
+Revista Gris,219,"Herman, B. A.",Creador,"Herman, B. A.",NA,Rústica,5 Año II,1894-05-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.5,159-160
+Revista Gris,220,"Uribe, Diego",Creador,NA,Colombia,Drama eterno,5 Año II,1894-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,161
+Revista Gris,221,"Heine, Heinrich",Creador,NA,Alemania,Epílogo,5 Año II,1894-05-01,Sí,"Vega, Alejandro",Español,Alemán,Poesía,NA,NA,NA,0.8,161-162
+Revista Gris,222,"Picón, Jacinto Octavio",Creador,NA,España,Los favores de fortuna,5 Año II,1894-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3.6,162-165
+Revista Gris,223,"Torres, Carlos Arturo",Creador,NA,Colombia,La madre tierra,5 Año II,1894-05-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.4,166-167
+Revista Gris,224,"Ribón Castellanos, Cristóbal",Creador,NA,Colombia,Algo sobre la música rusa,5 Año II,1894-05-01,No,NA,Español,NA,Prosa No Ficción,NA,"Price, Jorge W. ",NA,1.8,167-169
+Revista Gris,225,"Grillo, Maximiliano",Creador,NA,Colombia,Revista,5 Año II,1894-05-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.8,169-173
+Revista Gris,226,Anónimo,Redactor,La Redacción,NA,Arístides Rojas,5 Año II,1894-05-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.3,174
+Revista Gris,227,Anónimo,Redactor,La Redacción,NA,Ricardo Domínguez,5 Año II,1894-05-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,174
+Revista Gris,228,"Triana, Miguel",Creador,NA,Colombia,Nota suelta,5 Año II,1894-05-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.5,174
+Revista Gris,229,Anónimo,Redactor,La Redacción,NA,Folletos y periódicos,5 Año II,1894-05-01,No,NA,Español,NA,Reseña,Miscelánea,NA,"Recuerdos a la memoria de Lázaro María Pérez y de Manuel Antonio Pérez; Siemprevivas para la guirnalda del malogrado vate Torcuato A. Ortega; Ferrocarril de Antioquia, Concepto emitio por Nicolás Esguerra; Asuntos fiscales y económicos; Exposición del Ministerio de Fomento sobre los contratos celebrados para el ferrocarril de Antioquia; Informe del tribunal de cuentas.",1.3,175-176
+Revista Gris,230,Anónimo,Redactor,La Redacción,NA,Canjes,5 Año II,1894-05-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,176
+Revista Gris,231,Anónimo,Redactor,La Redacción,NA,Advertencia,5 Año II,1894-05-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,176
+Revista Gris,232,Anónimo,Redactor,La Redacción,NA,Grado,5 Año II,1894-05-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,176
+Revista Gris,233,Anónimo,Redactor,La Redacción,NA,Bienvenida,5 Año II,1894-05-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,176
+Revista Gris,234,Anónimo,Redactor,La Redacción,NA,Un lustro,5 Año II,1894-05-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,176
+Revista Gris,235,Anónimo,Anunciante,NA,NA,Lotería de Cundinamarca,5 Año II,1894-05-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Revista Gris,236,Anónimo,Anunciante,NA,NA,El laberinto de Pacho Jiménez M.,5 Año II,1894-05-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Revista Gris,237,"Triana, Miguel",Creador,NA,Colombia,Siluetas campechanas,6 Año II,1894-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.6,177-179
+Revista Gris,238,"Pérez Triana, Santiago",Creador,NA,Colombia,París,6 Año II,1894-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,4.8,179-184
+Revista Gris,239,"Posada, Eduardo",Creador,NA,Colombia,Los hijos del Sol,6 Año II,1894-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8.8,184-193
+Revista Gris,240,"Flórez, Julio",Creador,NA,Colombia,Sueño de opio,6 Año II,1894-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.8,193
+Revista Gris,241,"Horacio Flaco, Quinto",Creador,Horacio,Italia,Oda III. (Libro II),6 Año II,1894-06-01,Sí,"Vergara Barros, Francisco",Español,Latín,Poesía,NA,NA,NA,1,194
+Revista Gris,242,"Brettes, Joseph de",Creador,NA,Francia,Conferencia,6 Año II,1894-06-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,6.2,195-201
+Revista Gris,243,"Leconte de Lisle, Charles-Marie",Creador,NA,Francia,Paisaje tórrido,6 Año II,1894-06-01,sí,"Restrepo, Antonio José",Español,NA,Poesía,NA,NA,NA,1.3,201-202
+Revista Gris,244,"Villegas Arango, Alfonso",Creador,NA,Colombia,Fugitiva,6 Año II,1894-06-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,202
+Revista Gris,245,"Espinosa Guzmán, Rafael",Creador,Reg,Colombia,Viaje al oriente de la república. (De San Rafael á la cascada del Vigua),6 Año II,1894-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5.6,203-208
+Revista Gris,246,"Rodríguez, Alfonso",Creador,NA,NA,En el huerto,6 Año II,1894-06-01,No,NA,Español,NA,Prosa Ficción,NA,"Grillo, Maximiliano",NA,2,208-210
+Revista Gris,247,Anónimo,Redactor,La Redacción,NA,Duelo universal,6 Año II,1894-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,210
+Revista Gris,248,Anónimo,Redactor,La Redacción,NA,Desgracia en Panamá,6 Año II,1894-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,211
+Revista Gris,249,Anónimo,Redactor,La Redacción,NA,El pórtico,6 Año II,1894-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,211
+Revista Gris,250,Anónimo,Redactor,La Redacción,NA,Los tiempos,6 Año II,1894-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,211
+Revista Gris,251,Anónimo,Redactor,La Redacción,NA,Bibliografía,6 Año II,1894-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,211
+Revista Gris,252,M. J. R.,Redactor,M. J. R.,NA,Compañía de Zarzuela,6 Año II,1894-06-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,211-212
+Revista Gris,253,Anónimo,Anunciante,NA,NA,Lotería de Cundinamarca,6 Año II,1894-06-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Revista Gris,254,Anónimo,Anunciante,NA,NA,El laberinto de Pacho Jiménez M.,6 Año II,1894-06-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Revista Gris,255,"Ponce Aguilera, Salomón",Director,NA,Panamá,Cuestión de nombres,7 Año II,1894-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3.4,213-216
+Revista Gris,256,"Pardo Bazán, Emilia",Creador,NA,España,Afra,7 Año II,1894-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3.8,216-220
+Revista Gris,257,"Tirado Macías, Ricardo",Creador,NA,Colombia,Traductores,7 Año II,1894-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.6,220-224
+Revista Gris,258,"Grillo, Maximiliano",Director,NA,Colombia,Callad…. !,7 Año II,1894-07-01,No,NA,Español,NA,Poesía,NA,"Ponce Aguilera, Salomón",NA,0.6,224-225
+Revista Gris,259,"Brettes, Joseph de",Creador,NA,Francia,Conferencia,7 Año II,1894-07-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,8.1,225-233
+Revista Gris,260,"Londoño, Víctor Manuel",Creador,"Londoño, Víctor",Colombia,Soneto,7 Año II,1894-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.1,233-234
+Revista Gris,261,"Facio, Justo A.",Creador,NA,Costa Rica,Florez de llanto,7 Año II,1894-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,234-235
+Revista Gris,262,"Quesada R., Pedro",Creador,NA,Colombia,Un punto científico,7 Año II,1894-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.6,235-239
+Revista Gris,263,"Garay Díaz, Narciso",Creador,"Garay, N.",Panamá,Música colombiana,7 Año II,1894-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.8,240-244
+Revista Gris,264,Anónimo,Director,NA,NA,Revues de revues,7 Año II,1894-07-01,No,NA,Español,NA,Reseña de revista,NA,NA,Revue des Revues,1.2,244-245
+Revista Gris,265,Anónimo,Redactor,La Redacción,NA,El libro de la Patria,7 Año II,1894-07-01,No,NA,Español,NA,Reseña,Miscelánea,NA,"Historia del 20 de Julio de 1810, por Ignacio Borda",0.2,246
+Revista Gris,266,Anónimo,Redactor,La Redacción,NA,Compañía de Zarzuela,7 Año II,1894-07-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.6,246
+Revista Gris,267,Anónimo,Redactor,La Redacción,NA,La patria,7 Año II,1894-07-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,246
+Revista Gris,268,Anónimo,Redactor,La Redacción,NA,Agencia,7 Año II,1894-07-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,246
+Revista Gris,269,Anónimo,Anunciante,NA,NA,Lotería de Cundinamarca,7 Año II,1894-07-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Revista Gris,270,Anónimo,Anunciante,NA,NA,El laberinto de Pacho Jiménez M.,7 Año II,1894-07-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Revista Gris,271,Anónimo,Ilustrador,NA,NA,Diego Fallon,8 Año II,1894-08-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.8,247
+Revista Gris,272,"Grillo, Maximiliano",Director,NA,Colombia,Diego Fallon,8 Año II,1894-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7.6,247-255
+Revista Gris,273,"Longfellow, Henry Wadsworth",Creador,NA,Estados Unidos,El molino de viento,8 Año II,1894-08-01,Sí,"Fallón, Diego",Español,Inglés,Poesía,NA,"Torres Mariño, Rafael",NA,1,255-256
+Revista Gris,274,"Fernández Bremón, José",Creador,NA,España,La cruz de caña,8 Año II,1894-08-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,4.2,256-260
+Revista Gris,275,"Posada, Eduardo",Creador,NA,Colombia,El dorado,8 Año II,1894-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,11.6,261-272
+Revista Gris,276,"Flórez, Julio",Creador,NA,Colombia,Frueibk,8 Año II,1894-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,272-273
+Revista Gris,277,"Pombo, Rafael",Creador,NA,Colombia,¡Más profanaciones!,8 Año II,1894-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3,273-275
+Revista Gris,278,"Heredia, José-Maria",Creador,NA,Cuba,El olvido,8 Año II,1894-08-01,Sí,Anónimo,Español,Francés,Poesía,NA,NA,NA,0.5,275
+Revista Gris,279,"Brettes, Joseph de",Creador,NA,Francia,Conferencia,8 Año II,1894-08-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,2.4,276-278
+Revista Gris,280,"Fernández Avendaño, Enrique Wenceslao",Creador,NA,Colombia,A Bolívar,8 Año II,1894-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,278
+Revista Gris,281,Anónimo,Redactor,La Redacción,NA,Doce poesías,8 Año II,1894-08-01,No,NA,Español,NA,Reseña,Miscelánea,NA,"Doce poesías, por Francisco A. Gamboa",0.4,279
+Revista Gris,282,Anónimo,Redactor,La Redacción,NA,Saludo,8 Año II,1894-08-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,279
+Revista Gris,283,Anónimo,Redactor,La Redacción,NA,Pésame,8 Año II,1894-08-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,279
+Revista Gris,284,Anónimo,Redactor,La Redacción,NA,Bienvenida,8 Año II,1894-08-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,279
+Revista Gris,285,Anónimo,Redactor,La Redacción,NA,“El amigo del pueblo”,8 Año II,1894-08-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,279
+Revista Gris,286,Anónimo,Redactor,La Redacción,NA,Grados,8 Año II,1894-08-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,280
+Revista Gris,287,Anónimo,Redactor,La Redacción,NA,“Agradecemos la visita…”,8 Año II,1894-08-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.5,280
+Revista Gris,288,Anónimo,Redactor,La Redacción,NA,Compañía infantil de Zarzuela,8 Año II,1894-08-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,280
+Revista Gris,289,Anónimo,Redactor,La Redacción,NA,Bibliografía,8 Año II,1894-08-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,280
+Revista Gris,290,Anónimo,Anunciante,NA,NA,Teatro y espectáculos,8 Año II,1894-08-01,No,NA,Español,NA,Publicidad,NA,NA,NA,2,NA
+Revista Gris,291,Anónimo,Anunciante,NA,NA,Anuncios,8 Año II,1894-08-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Revista Gris,292,Anónimo,Anunciante,NA,NA,El laberinto de Pacho Jiménez M.,8 Año II,1894-08-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Revista Gris,293,"Sanín Cano, Baldomero",Creador,B. Sanín Cano,Colombia,De lo exótico,9 Año II,1894-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,11.6,281-292
+Revista Gris,294,"Gómez Carrillo, Enrique",Creador,NA,Guatemala,Notas. Sobre el parnaso contemporáneo,9 Año II,1894-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5.4,292-297
+Revista Gris,295,"Montes del Valle, Agripina",Creador,NA,Colombia,El último Pijao,9 Año II,1894-09-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,2.5,298-300
+Revista Gris,296,"Ponce Aguilera, Salomón",Director,NA,Panamá,Desiderio,9 Año II,1894-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,8.5,300-308
+Revista Gris,297,"Arciniegas, Ismael Enrique",Creador,NA,Colombia,A una pálida,9 Año II,1894-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,309
+Revista Gris,298,"Brettes, Joseph de",Creador,NA,Francia,Conferencia,9 Año II,1894-09-01,Sí,Anónimo,Español,Francés,Prosa No Ficción,Conferencia,NA,NA,6,309-315
+Revista Gris,299,Anónimo,Director,NA,NA,Papeles recogidos,9 Año II,1894-09-01,No,NA,Español,NA,Reseña,Miscelánea,NA,"Papeles recogidos, por Florentino Goenaga con el seudónimo de Juan Gabriel Sierra",0.2,315
+Revista Gris,300,Anónimo,Creador,NA,NA,El laberinto de Pacho Jiménez M.,9 Año II,1894-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,316
+Revista Gris,301,Anónimo,Creador,NA,NA,Duelo para las letras,10 Año II,1894-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,317
+Revista Gris,302,"Núñez, Rafael",Creador,NA,Colombia,La divina doctora,10 Año II,1894-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8.4,317-325
+Revista Gris,303,Scott,Creador,Scott,NA,Tisbe,10 Año II,1894-10-01,Sí,"Núñez, Rafael",Español,NA,Poesía,NA,NA,NA,1.8,326-327
+Revista Gris,304,"Wilson, Jorge",Creador,NA,Colombia,José María Vergara y Vergara,10 Año II,1894-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,10.2,327-337
+Revista Gris,305,"Horacio Flaco, Quinto",Creador,Horacio,Italia,Oda I. (Libro I),10 Año II,1894-10-01,Sí,"Vergara Barros, Francisco",Español,Latín,Poesía,NA,NA,NA,1.4,338-339
+Revista Gris,306,"Tirado Macías, Ricardo",Creador,NA,Colombia,Libros,10 Año II,1894-10-01,No,NA,Español,NA,Reseña,NA,NA,"Parnaso ecuatoriano, por Máximo Soto Hall; La Evolución de Paulina, por M. Praxedis Muñoz; Errores de justicia y víctimas humanas, Medardo Rivas.",3.8,339-343
+Revista Gris,307,Jorge,Creador,Jorge,NA,Amor y dados,10 Año II,1894-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.6,343-347
+Revista Gris,308,Anónimo,Redactor,La Redacción,NA,Notas sobre el parnaso contemporáneo,10 Año II,1894-10-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.4,347
+Revista Gris,309,Anónimo,Redactor,La Redacción,NA,Un poema,10 Año II,1894-10-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,348
+Revista Gris,310,Anónimo,Redactor,La Redacción,NA,La Miscelánea,10 Año II,1894-10-01,No,NA,Español,NA,Reseña de revista,Miscelánea,NA,"La Miscelánea (Medellín), dirigida por Carlos E. Molina",0.2,348
+Revista Gris,311,Anónimo,Redactor,La Redacción,NA,Periódicos,10 Año II,1894-10-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.4,348
+Revista Gris,312,Anónimo,Redactor,La Redacción,NA,Bibliografía,10 Año II,1894-10-01,No,NA,Español,NA,Reseña,Miscelánea,NA,"Gramática de la Lengua Castellana, por Martín Restrepo Mejía; Boletín trimestral de la estadística de Colombia",0.3,348
+Revista Gris,313,"Aguilera Herrera, Benjamín",Creador,B. A. H.,Colombia,Pésame,10 Año II,1894-10-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,349
+Revista Gris,314,"Lorenzana, Carlos",Creador,C. L.,Colombia,Grado notable,10 Año II,1894-10-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,349
+Revista Gris,315,Anónimo,Redactor,La Redacción,NA,Manuel F. Obregón,10 Año II,1894-10-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.3,349
+Revista Gris,316,Anónimo,Redactor,La Redacción,NA,Grados,10 Año II,1894-10-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,349
+Revista Gris,317,Anónimo,Redactor,La Redacción,NA,Pocas líneas,10 Año II,1894-10-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,1.5,349-351
+Revista Gris,318,Anónimo,Redactor,La Redacción,NA,Corrigenda,10 Año II,1894-10-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.5,351
+Revista Gris,319,Anónimo,Anunciante,NA,NA,Anuncios,10 Año II,1894-10-01,No,NA,Español,NA,Publicidad,NA,NA,NA,0.2,351
+Revista Gris,320,Anónimo,Anunciante,NA,NA,El laberinto de Pacho Jiménez M.,10 Año II,1894-10-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,352
+Revista Gris,321,"Torres, Carlos Arturo",Creador,NA,Colombia,La esfinge,11 Año II,1894-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3.6,353-356
+Revista Gris,322,"Fallon, Diego",Creador,NA,Colombia,A Panamá,11 Año II,1894-11-01,No,NA,Español,NA,Poesía,NA,"Pájaro H., Manuel",NA,0.6,356-357
+Revista Gris,323,"González Serrano, Urbano",Creador,NA,España,Schopenhauer,11 Año II,1894-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7,357-364
+Revista Gris,324,"Londoño, Víctor Manuel",Creador,NA,Colombia,La serpiente,11 Año II,1894-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,364
+Revista Gris,325,"Pardo Bazán, Emilia",Creador,NA,España,La paloma negra,11 Año II,1894-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3.4,365-368
+Revista Gris,326,"Longfellow, Henry Wadsworth",Creador,NA,Estados Unidos,El día lluvioso,11 Año II,1894-11-01,Sí,"Gaviria, Luis M.",Español,Inglés,Poesía,NA,NA,NA,0.6,368-369
+Revista Gris,327,"Alas, Leopoldo",Creador,Clarín,España,"""Los trofeos"" por José María de Heredia",11 Año II,1894-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8.4,369-377
+Revista Gris,328,"Gras y Elías, Francisco",Creador,"Gras, Francisco",España,Amor de los amores,11 Año II,1894-11-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.8,377-379
+Revista Gris,329,"Sainte-Beuve, Charles-Augustin",Creador,NA,Francia,Hoffmann,11 Año II,1894-11-01,Sí,"Cuervo Márquez, Emilio",Español,Francés,Prosa No Ficción,NA,NA,NA,3,379-382
+Revista Gris,330,Anónimo,Redactor,La Redacción,NA,Emiro Kastos,11 Año II,1894-11-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.6,382
+Revista Gris,331,Jorge,Redactor,Jorge,Colombia,Colegio pestaloziano,11 Año II,1894-11-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,3.4,383-386
+Revista Gris,332,Anónimo,Redactor,La Redacción,NA,Duelo,11 Año II,1894-11-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,386
+Revista Gris,333,Anónimo,Redactor,La Redacción,NA,Grados,11 Año II,1894-11-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.3,386
+Revista Gris,334,Anónimo,Redactor,La Redacción,NA,Bibliografía,11 Año II,1894-11-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.9,386-387
+Revista Gris,335,Anónimo,Anunciante,NA,NA,Anuncios,11 Año II,1894-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,387-388
+Revista Gris,336,"Sanín Cano, Baldomero",Creador,CAD,Colombia,Rectificación histórica,12 Año II,1894-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.6,389-390
+Revista Gris,337,"Ponce Aguilera, Salomón",Director,NA,Panamá,La tradición de Niope,12 Año II,1894-12-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,5.2,390-395
+Revista Gris,338,"Facio, Justo A.",Creador,NA,Costa Rica,Mármol griego,12 Año II,1894-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.6,395-397
+Revista Gris,339,"Fernández Guardia, Ricardo",Creador,NA,Costa Rica,Sevilla,12 Año II,1894-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5.2,397-402
+Revista Gris,340,"Londoño, Víctor Manuel",Creador,NA,Colombia,Vísperas,12 Año II,1894-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,402
+Revista Gris,341,"Londoño, Víctor Manuel",Creador,NA,Colombia,En el desierto,12 Año II,1894-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,403
+Revista Gris,342,"Fernández Bremón, José",Creador,NA,España,El eclipse,12 Año II,1894-12-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,4.2,403-407
+Revista Gris,343,"Montes del Valle, Agripina",Creador,NA,Colombia,Eterno amor,12 Año II,1894-12-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.6,407-409
+Revista Gris,344,Anónimo,Redactor,La Redacción,NA,Dos muertos ilustres,12 Año II,1894-12-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,1.4,409-410
+Revista Gris,345,Anónimo,Redactor,La Redacción,NA,Plano de Bogotá,12 Año II,1894-12-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,1.3,410-412
+Revista Gris,346,Anónimo,Redactor,La Redacción,NA,Grados,12 Año II,1894-12-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.2,412
+Revista Gris,347,Anónimo,Redactor,La Redacción,NA,Cultivo del cacao,12 Año II,1894-12-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,NA,0.1,412
+Revista Gris,348,Anónimo,Redactor,La Redacción,NA,Contenido,12 Año II,1894-12-01,No,NA,Español,NA,Reseña de revista,Miscelánea,NA,La Revue de Revues,0.4,412
+Revista Gris,349,Anónimo,Redactor,La Redacción,NA,Bibliografía,12 Año II,1894-12-01,No,NA,Español,NA,Prosa No Ficción,Miscelánea,NA,"Rafael Núñez, por Alfredo Tomás Ortega; Regulación del sistema monetario, compilación de artículos de Miguel Samper y Paul Leroy-Belulieu",0.2,412
+Revista Gris,350,Anónimo,Director,NA,NA,INDICE DEL TOMO II,12 Año II,1894-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,413-414
+Revista Gris,351,Anónimo,Anunciante,NA,NA,Lotería de Cundinamarca,12 Año II,1894-12-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,415
+Revista Gris,352,Anónimo,Anunciante,NA,NA,Anuncios,12 Año II,1894-12-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,416
+Revista Gris,353,Anónimo,Creador,NA,NA,Otra jornada,1 Año III,1895-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,1-2
+Revista Gris,354,"Coppée, François",Creador,NA,Francia,Convaleciente,1 Año III,1895-01-01,Sí,A. Z.,Español,Francés,Prosa Ficción,NA,NA,NA,11,3-13
+Revista Gris,355,"Flórez, Julio",Creador,NA,Colombia,En el tifo,1 Año III,1895-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.8,14
+Revista Gris,356,Anónimo,Creador,NA,NA,La última obra del señor Alcorta,1 Año III,1895-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.4,14-19
+Revista Gris,357,"Tirado Macías, Ricardo",Director,NA,Colombia,Libros,1 Año III,1895-01-01,No,NA,Español,NA,Reseña,NA,NA,"El origen del pensamiento, por Armando Palacio y Valdés; Mis Versos, por Julio A. Facio.",4.6,19-23
+Revista Gris,358,"Horacio Flaco, Quinto",Creador,Horacio,Italia,Oda XVII. (Libro I),1 Año III,1895-01-01,Sí,"Vergara Barros, Francisco",Español,Latín,Poesía,NA,Tindaris,NA,0.8,23-24
+Revista Gris,359,"Pardo Bazán, Emilia",Creador,NA,España,El tesoro,1 Año III,1895-01-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3.4,24-27
+Revista Gris,360,"Triana, Miguel",Creador,NA,Colombia,Noche de luna,1 Año III,1895-01-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,2.5,28-30
+Revista Gris,361,"Villegas Arango, Alfonso",Creador,NA,Colombia,Recuerdos,1 Año III,1895-01-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.5,30-31
+Revista Gris,362,"Bourget, Paul",Creador,NA,Francia,Ecce homo,1 Año III,1895-01-01,No,NA,Francés,NA,Poesía,Poesía,NA,NA,1,32
+Revista Gris,363,Anónimo,Ilustrador,NA,NA,Jorge Isaacs,1 Año III,1895-01-01,No,NA,Español,NA,Imagen,NA,NA,NA,1,NA
+Revista Gris,364,Anónimo,Director,NA,NA,Como decíamos ayer,2 Año III,1895-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,33
+Revista Gris,365,"Restrepo, Antonio José",Creador,NA,Colombia,"Jorge Isaacs y ""María""",2 Año III,1895-07-01,No,NA,Español,NA,Prosa No Ficción,NA,"Rivera Garrido, Luciano",NA,7,34-40
+Revista Gris,366,"Isaacs, Jorge",Creador,NA,Colombia,"Vé, pensamiento!",2 Año III,1895-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.2,41-42
+Revista Gris,367,"Ponce Aguilera, Salomón",Creador,NA,Panamá,Por el artista,2 Año III,1895-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3.2,42-45
+Revista Gris,368,"Isaacs, Jorge",Creador,NA,Colombia,El esclavo Pedro,2 Año III,1895-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.6,45-46
+Revista Gris,369,"Vergara Barros, Francisco",Creador,NA,Colombia,"El autor de ""María""",2 Año III,1895-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.8,46-49
+Revista Gris,370,"Isaacs, Jorge",Creador,NA,Colombia,La tierra madre,2 Año III,1895-07-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,49
+Revista Gris,371,"Picón, Jacinto Octavio",Creador,NA,España,Las coronas,2 Año III,1895-07-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,5.6,50-55
+Revista Gris,372,"Trejo, Joaquín",Creador,NA,México,La muerte de Tenysson,2 Año III,1895-07-01,No,NA,Español,NA,Poesía,NA,"Gutiérrez Nájera, Manuel",NA,1.4,55-56
+Revista Gris,373,Anónimo,Creador,NA,NA,Ruíz Zorrilla,2 Año III,1895-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,57-58
+Revista Gris,374,Anónimo,Director,NA,NA,Notas,2 Año III,1895-07-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.8,58-60
+Revista Gris,375,"Bourget, Paul",Creador,NA,Francia,Ecce homo,2 Año III,1895-07-01,Sí,Bryaut,Español,Francés,Poesía,Poesía,NA,NA,1,61
+Revista Gris,376,Anónimo,Anunciante,NA,NA,El laberinto de Pacho Jiménez M.,2 Año III,1895-07-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,62
+Revista Gris,377,"Fastenrath, Johannes",Creador,"Fastenrath, Juan",Alemania,Los exploradores alemanes,3 Año III,1895-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,16.4,63-79
+Revista Gris,378,"Torres, Carlos Arturo",Creador,NA,Colombia,El vencido,3 Año III,1895-08-01,No,NA,Español,NA,Poesía,NA,"Gómez, Juan Francisco ",NA,2,79-81
+Revista Gris,379,"Tirado Macías, Ricardo",Director,NA,Colombia,Clarin en el teatro,3 Año III,1895-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.6,81-85
+Revista Gris,380,"Flórez, Julio",Creador,NA,Colombia,Desaliento,3 Año III,1895-08-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,86
+Revista Gris,381,"Grillo, Maximiliano",Director,NA,Colombia,Peñas arriba,3 Año III,1895-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7.6,86-94
+Revista Gris,382,Anónimo,Director,NA,NA,Notas,3 Año III,1895-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,94
+Revista Gris,383,"Bolet, Julio C.",Creador,NA,Venezuela,Bibliografía,3 Año III,1895-08-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,NA
+Revista Gris,384,Anónimo,Anunciante,NA,NA,El laberinto de Pacho Jiménez M.,3 Año III,1895-08-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Revista Gris,385,Anónimo,Anunciante,NA,NA,Lotería de Cundinamarca,3 Año III,1895-08-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Revista Gris,386,Anónimo,Anunciante,NA,NA,Anuncios,3 Año III,1895-08-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Revista Gris,387,Anónimo,Ilustrador,NA,NA,Julio Flórez,4 Año III,1895-09-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.6,95
+Revista Gris,388,"Grillo, Maximiliano",Director,NA,Colombia,Julio Flórez,4 Año III,1895-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,10.6,95-106
+Revista Gris,389,"Flórez, Julio",Creador,NA,Colombia,¡Oh poetas!,4 Año III,1895-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,2.8,106-108
+Revista Gris,390,"Tirado Macías, Ricardo",Director,NA,Colombia,Luzbel,4 Año III,1895-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7.6,109-116
+Revista Gris,391,"Londoño, Víctor Manuel",Creador,NA,Colombia,La sirena,4 Año III,1895-09-01,No,NA,Español,NA,Poesía,NA,"Flórez, Julio",NA,1.4,116-117
+Revista Gris,392,"Flórez, Julio",Creador,NA,Colombia,Gota de ajenjo,4 Año III,1895-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,118
+Revista Gris,393,"Arciniegas, Ismael Enrique",Creador,NA,Colombia,"De ""Tu libro""",4 Año III,1895-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,1,118-119
+Revista Gris,394,"Flórez, Julio",Creador,NA,Colombia,Sueño de opio,4 Año III,1895-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.2,119-120
+Revista Gris,395,Anónimo,Director,NA,NA,Notas,4 Año III,1895-09-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3.6,120-123
+Revista Gris,396,Anónimo,Anunciante,NA,NA,Lotería de Cundinamarca,4 Año III,1895-09-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,124
+Revista Gris,397,"Posada, Eduardo",Creador,NA,Colombia,Zorarama,5 Año III,1895-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,15.6,125-140
+Revista Gris,398,"Martí, José",Creador,NA,Cuba,A mis hermanos,5 Año III,1895-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,5.4,140-145
+Revista Gris,399,"Ponce Aguilera, Salomón",Creador,NA,Panamá,Exposita,5 Año III,1895-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,8,146-153
+Revista Gris,400,"Uribe, Diego",Creador,NA,Colombia,Tempestad,5 Año III,1895-10-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,154
+Revista Gris,401,Anónimo,Director,NA,NA,Notas,5 Año III,1895-10-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,154
+Revista Gris,402,Anónimo,Anunciante,NA,NA,Lotería Cundinamarca,5 Año III,1895-10-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Revista Gris,403,Anónimo,Anunciante,NA,NA,Anuncios,5 Año III,1895-10-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,NA
+Revista Gris,404,Anónimo,Ilustrador,NA,NA,Salomón Ponce Aguilera,6 Año III,1895-11-01,No,NA,Español,NA,Imagen,NA,NA,NA,0.6,155
+Revista Gris,405,"Villegas Arango, Alfonso",Creador,NA,Colombia,Salomón Ponce Aguilera,6 Año III,1895-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5,155-160
+Revista Gris,406,"Ponce Aguilera, Salomón",Creador,NA,Panamá,Un devoto,6 Año III,1895-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,6,160-166
+Revista Gris,407,"Campoamor, Ramón de",Creador,NA,España,Del desarrollo de las ideas,6 Año III,1895-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.6,166-169
+Revista Gris,408,"Flórez, Julio",Creador,NA,Colombia,Solos,6 Año III,1895-11-01,No,NA,Español,NA,Poesía,NA,"Ponce Aguilera, Salomón",NA,1.4,169-170
+Revista Gris,409,"Piñeyro, Enrique",Creador,NA,Cuba,La poesía cubana,6 Año III,1895-11-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,9.4,170-179
+Revista Gris,410,"Carrasquilla, Tomás",Creador,NA,Colombia,Frutos de mi tierra,6 Año III,1895-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.2,180-184
+Revista Gris,411,Anónimo,Director,NA,NA,Notas,6 Año III,1895-11-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,185-186
+Revista Gris,412,"Posada, Eduardo",Creador,NA,Colombia,Teusaquillo,7 Año III,1895-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,11.4,187-198
+Revista Gris,413,"Peña, José Segundo",Creador,NA,Colombia,Apuntamientos históricos,7 Año III,1895-12-01,No,NA,Español,NA,Prosa No Ficción,NA,"Roldán, Antonio",NA,5,198-203
+Revista Gris,414,"Torres, Carlos Arturo",Creador,NA,Colombia,Selva,7 Año III,1895-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.4,203-205
+Revista Gris,415,"Sorela, Luis",Creador,NA,España,Carta al Señor Cánovas del Castillo,7 Año III,1895-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3.2,205-208
+Revista Gris,416,"Lavigerie, Charles Martial",Creador,Cardenal de Lavigerie,Francia,Carta al señor Sorela,7 Año III,1895-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4,209-212
+Revista Gris,417,"Aguilera Herrera, Benjamín",Creador,NA,Colombia,Revista de libros,7 Año III,1895-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.8,213-217
+Revista Gris,418,Anónimo,Director,NA,NA,Notas,7 Año III,1895-12-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,217-218
+Revista Gris,419,"Torres, Carlos Arturo",Creador,NA,Colombia,Cuba ante América,8 y 9 Año III,1896-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,14.2,200-213
+Revista Gris,420,"Londoño, Víctor Manuel",Creador,NA,Colombia,En el puesto de Guardia,8 y 9 Año III,1896-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.8,213
+Revista Gris,421,"Grillo, Maximiliano",Director,NA,Colombia,Frutos de mi tierra,8 y 9 Año III,1896-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,5.8,214-219
+Revista Gris,422,"Soto Borda, Clímaco",Creador,NA,Colombia,Viajera,8 y 9 Año III,1896-02-01,No,NA,Español,NA,Poesía,NA,"Borda, Margarita",NA,0.8,219-220
+Revista Gris,423,"Tirado Macías, Ricardo",Director,NA,Colombia,Libros,8 y 9 Año III,1896-02-01,No,NA,Español,NA,Reseña,NA,NA,"""Literatura extranjera"" por Enrique Gómez Carrillo; ""Cristóbal Colón"" por Juan Fastenrath.",6.6,220-227
+Revista Gris,424,"Schuler, Ricardo",Creador,NA,NA,Los economistas clásicos y sus adversidades,8 y 9 Año III,1896-02-01,Sí,"Montaña, H.",Español,NA,Prosa No Ficción,NA,NA,NA,5.8,227-232
+Revista Gris,425,"Casal, Julián del",Creador,NA,Cuba,Joris Karl Huysmans,8 y 9 Año III,1896-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7.8,233-240
+Revista Gris,426,"Tirado Macías, Ricardo",Director,NA,Colombia,Un folleto,8 y 9 Año III,1896-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,4.4,240-245
+Revista Gris,427,"Ospina Vásquez, Mariano",Creador,NA,Colombia,¡Infeliz!,8 y 9 Año III,1896-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.6,245
+Revista Gris,428,"Peña, José Segundo",Creador,NA,Colombia,Apuntamientos históricos,8 y 9 Año III,1896-02-01,No,NA,Español,NA,Prosa No Ficción,NA,"Roldán, Antonio",NA,5.8,245-251
+Revista Gris,429,Anónimo,Director,NA,NA,Notas,8 y 9 Año III,1896-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.2,251-252

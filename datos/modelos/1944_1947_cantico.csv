@@ -1,0 +1,159 @@
+NombreR,NumContrib,Colaborador,Roles,Seudonimo,PaisOrigen,Titulo,NumFasciculo,Fecha,Fecha-ISO,Traduccion,Traductor,Lengua,LenguaOriginal,Tipo,TipoIndice,Dedicatoria,ObrasResenadas,CantidadPaginas,Paginacion
+Cántico,1,"Ibáñez, Jaime",Director,NA,Colombia,Jaime Ibáñez,"Año I, 1",1944,1944-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,1
+Cántico,2,"Ibáñez, Jaime",Director,NA,Colombia,Sangre infinita,"Año I, 1",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,3
+Cántico,3,"Ibáñez, Jaime",Director,NA,Colombia,Tácita doncella,"Año I, 1",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,"Carranza, Eduardo",NA,1,4
+Cántico,4,"Ibáñez, Jaime",Director,NA,Colombia,Canción nostálgica,"Año I, 1",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,"Holguín, Andrés",NA,2,5-6
+Cántico,5,"Ibáñez, Jaime",Director,NA,Colombia,Un día para siempre,"Año I, 1",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,7-8
+Cántico,6,"Ibáñez, Jaime",Director,NA,Colombia,Tarde en el corazón,"Año I, 1",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,9-10
+Cántico,7,"Ibáñez, Jaime",Director,NA,Colombia,"Ah, ven tú… ven tú…","Año I, 1",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,11-12
+Cántico,8,"Ibáñez, Jaime",Director,NA,Colombia,Serenidad en la noche,"Año I, 1",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,"Rojas, Jorge",NA,1,13
+Cántico,9,"Ibáñez, Jaime",Director,NA,Colombia,Claridad en el aire,"Año I, 1",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,14
+Cántico,10,"Ibáñez, Jaime",Director,NA,Colombia,Caminos de la noche,"Año I, 1",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,"Charry Lara, Fernando",NA,2,15-16
+Cántico,11,"Ibáñez, Jaime",Director,NA,Colombia,Resurrección del hombre,"Año I, 1",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,"López Narváez, Carlos",NA,2,17-18
+Cántico,12,"Ibáñez, Jaime",Director,NA,Colombia,Poemilla,"Año I, 1",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,19
+Cántico,13,"Ibáñez, Jaime",Director,NA,Colombia,Ver tus ojos,"Año I, 1",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,20
+Cántico,14,"Ibáñez, Jaime",Director,NA,Colombia,Como el viento,"Año I, 1",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,21
+Cántico,15,"Ibáñez, Jaime",Director,NA,Colombia,Palabras de amor,"Año I, 1",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,22-23
+Cántico,16,"Ibáñez, Jaime",Director,NA,Colombia,Francisco Luis Bernárdez,"Año I, 2",1944,1944-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,25
+Cántico,17,"Bernárdez, Francisco Luis",Creador,NA,Argentina,Soneto enamorado,"Año I, 2",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,27
+Cántico,18,"Bernárdez, Francisco Luis",Creador,NA,Argentina,Soneto ausente,"Año I, 2",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,28
+Cántico,19,"Bernárdez, Francisco Luis",Creador,NA,Argentina,Soneto de la doncella lejana,"Año I, 2",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,29
+Cántico,20,"Bernárdez, Francisco Luis",Creador,NA,Argentina,El buque,"Año I, 2",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,3,30-32
+Cántico,21,"Bernárdez, Francisco Luis",Creador,NA,Argentina,Oración por el alma de un niño montañés,"Año I, 2",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,3,33-35
+Cántico,22,"Bernárdez, Francisco Luis",Creador,NA,Argentina,La noche,"Año I, 2",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,4,36-39
+Cántico,23,"Bernárdez, Francisco Luis",Creador,NA,Argentina,Estar enamorado,"Año I, 2",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,3,40-42
+Cántico,24,"Bernárdez, Francisco Luis",Creador,NA,Argentina,La hoguera,"Año I, 2",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,3,43-45
+Cántico,25,"Bernárdez, Francisco Luis",Creador,NA,Argentina,Las nubes,"Año I, 2",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,3,46-48
+Cántico,26,"Ibáñez, Jaime",Director,NA,Colombia,Andrés Holguín,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,49
+Cántico,27,"Holguín, Andrés",Creador,NA,Colombia,Invitación al amor,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,51-52
+Cántico,28,"Holguín, Andrés",Creador,NA,Colombia,Imagen del olvido,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,53
+Cántico,29,"Holguín, Andrés",Creador,NA,Colombia,Noche en ascenso,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,54
+Cántico,30,"Holguín, Andrés",Creador,NA,Colombia,Aroma de la rosa,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,55
+Cántico,31,"Holguín, Andrés",Creador,NA,Colombia,A una leve niña,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,56
+Cántico,32,"Holguín, Andrés",Creador,NA,Colombia,La voz indescifrable,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,57-58
+Cántico,33,"Holguín, Andrés",Creador,NA,Colombia,Visión,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,59
+Cántico,34,"Holguín, Andrés",Creador,NA,Colombia,Canciones ligeras,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,60-61
+Cántico,35,"Holguín, Andrés",Creador,NA,Colombia,Imagen,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,62
+Cántico,36,"Holguín, Andrés",Creador,NA,Colombia,Te ciñe un claro ambiente,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,63
+Cántico,37,"Holguín, Andrés",Creador,NA,Colombia,Soneto al templo de Monserrate iluminado en la noche,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,64
+Cántico,38,"Holguín, Andrés",Creador,NA,Colombia,Nostalgia de la noche,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,65-66
+Cántico,39,"Holguín, Andrés",Creador,NA,Colombia,Ríos del mundo,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,67
+Cántico,40,"Holguín, Andrés",Creador,NA,Colombia,Instante del recuerdo,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,68
+Cántico,41,"Holguín, Andrés",Creador,NA,Colombia,Fuga del río,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,69
+Cántico,42,"Holguín, Andrés",Creador,NA,Colombia,Poemillas en tecnicolor,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,70
+Cántico,43,"Holguín, Andrés",Creador,NA,Colombia,Muchacha lejana,"Año I, 3",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,71
+Cántico,44,"Ibáñez, Jaime",Director,NA,Colombia,Rainer María Rilke,"Año I, 4",1944,1944-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,73
+Cántico,45,"Rilke, Rainer María",Creador,NA,Alemania,Leyenda del amor y de la muerte del abanderado Cristóbal Rilke,"Año I, 4",1944,1944-01-01,Sí,"González Fernández, Alberto",Español,Alemán,Poesía,Poema,NA,NA,21,75-95
+Cántico,46,"Ibáñez, Jaime",Director,NA,Colombia,Fernando Charry Lara,"Año I, 5",1944,1944-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,97
+Cántico,47,"Charry Lara, Fernando",Creador,NA,Colombia,Al mar la sombra mía,"Año I, 5",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,99
+Cántico,48,"Charry Lara, Fernando",Creador,NA,Colombia,Cielo de un día,"Año I, 5",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,100
+Cántico,49,"Charry Lara, Fernando",Creador,NA,Colombia,Noche del alma,"Año I, 5",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,101
+Cántico,50,"Charry Lara, Fernando",Creador,NA,Colombia,Blanca taciturna,"Año I, 5",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,102
+Cántico,51,"Charry Lara, Fernando",Creador,NA,Colombia,El verso llega de la noche,"Año I, 5",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,3,103-105
+Cántico,52,"Charry Lara, Fernando",Creador,NA,Colombia,Noche desierta,"Año I, 5",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,106-107
+Cántico,53,"Charry Lara, Fernando",Creador,NA,Colombia,Aniversario,"Año I, 5",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,108-109
+Cántico,54,"Charry Lara, Fernando",Creador,NA,Colombia,Retorno,"Año I, 5",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,110
+Cántico,55,"Charry Lara, Fernando",Creador,NA,Colombia,Nocturno lejanía,"Año I, 5",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,4,111-114
+Cántico,56,"Charry Lara, Fernando",Creador,NA,Colombia,Tristeza del Oeste,"Año I, 5",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,115
+Cántico,57,"Charry Lara, Fernando",Creador,NA,Colombia,Cuerpo solitario,"Año I, 5",1944,1944-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,4,116-119
+Cántico,58,"Ibáñez, Jaime",Director,NA,Colombia,Paul Valery,"Año I, 6",1945,1945-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,121
+Cántico,59,"Valéry, Paul",Creador,NA,Francia,El cementerio marino,"Año I, 6",1945,1945-01-01,Sí,"Rojas, Jorge",Español,Francés,Poesía,Poema,NA,NA,5,123-127
+Cántico,60,"Valéry, Paul",Creador,NA,Francia,Los pasos,"Año I, 6",1945,1945-01-01,Sí,"Holguín, Andrés",Español,Francés,Poesía,Poema,NA,NA,1,128
+Cántico,61,"Valéry, Paul",Creador,NA,Francia,Helena,"Año I, 6",1945,1945-01-01,Sí,"López Narváez, Carlos",Español,Francés,Poesía,Poema,NA,NA,1,129
+Cántico,62,"Valéry, Paul",Creador,NA,Francia,Encantamiento,"Año I, 6",1945,1945-01-01,Sí,"López Narváez, Carlos",Español,Francés,Poesía,Poema,NA,NA,1,130
+Cántico,63,"Valéry, Paul",Creador,NA,Francia,Alba,"Año I, 6",1945,1945-01-01,Sí,Anónimo,Español,Francés,Poesía,Poema,NA,NA,1,131
+Cántico,64,"Valéry, Paul",Creador,NA,Francia,La durmiente,"Año I, 6",1945,1945-01-01,Sí,"Holguín, Andrés",Español,Francés,Poesía,Poema,NA,NA,1,132
+Cántico,65,"Valéry, Paul",Creador,NA,Francia,El bosque amistoso,"Año I, 6",1945,1945-01-01,Sí,"Lozano, Rafael",Español,Francés,Poesía,Poema,NA,NA,1,133
+Cántico,66,"Valéry, Paul",Creador,NA,Francia,Fragmento (único) del Primer Narciso,"Año I, 6",1945,1945-01-01,Sí,"Lozano, Rafael",Español,Francés,Poesía,Poema,NA,NA,3,134-136
+Cántico,67,"Valéry, Paul",Creador,NA,Francia,Tres fragmentos (únicos) del Segundo Narciso,"Año I, 6",1945,1945-01-01,Sí,"Lozano, Rafael",Español,Francés,Poesía,Poema,NA,NA,5,137-141
+Cántico,68,"Valéry, Paul",Creador,NA,Francia,El silfo,"Año I, 6",1945,1945-01-01,Sí,Anónimo,Español,Francés,Poesía,Poema,NA,NA,1,142
+Cántico,69,"Valéry, Paul",Creador,NA,Francia,El vino perdido,"Año I, 6",1945,1945-01-01,Sí,Anónimo,Español,Francés,Poesía,Poema,NA,NA,1,143
+Cántico,70,"Ibáñez, Jaime",Director,NA,Colombia,Aurelio Arturo,"Año II, 7",1945,1945-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,145
+Cántico,71,"Arturo, Aurelio",Creador,NA,Colombia,Canción del ayer,"Año II, 7",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,Esteban,NA,2,147-148
+Cántico,72,"Arturo, Aurelio",Creador,NA,Colombia,La ciudad de Almaguer,"Año II, 7",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,149
+Cántico,73,"Arturo, Aurelio",Creador,NA,Colombia,Clima,"Año II, 7",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,150-151
+Cántico,74,"Arturo, Aurelio",Creador,NA,Colombia,Interludio,"Año II, 7",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,152
+Cántico,75,"Arturo, Aurelio",Creador,NA,Colombia,Canción de la noche callada,"Año II, 7",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,153-154
+Cántico,76,"Arturo, Aurelio",Creador,NA,Colombia,Qué noche de hojas suaves,"Año II, 7",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,155
+Cántico,77,"Arturo, Aurelio",Creador,NA,Colombia,Remota luz,"Año II, 7",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,156
+Cántico,78,"Arturo, Aurelio",Creador,NA,Colombia,Arrullo,"Año II, 7",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,157-158
+Cántico,79,"Arturo, Aurelio",Creador,NA,Colombia,Vinieron mis hermanos,"Año II, 7",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,159
+Cántico,80,"Arturo, Aurelio",Creador,NA,Colombia,Canción de la distancia,"Año II, 7",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,160-161
+Cántico,81,"Arturo, Aurelio",Creador,NA,Colombia,Rapsodia de Sáulo,"Año II, 7",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,162-163
+Cántico,82,"Arturo, Aurelio",Creador,NA,Colombia,Canción de amor soledad,"Año II, 7",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,164
+Cántico,83,"Arturo, Aurelio",Creador,NA,Colombia,Canción de hojas y de lejanías,"Año II, 7",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,165-166
+Cántico,84,"Ibáñez, Jaime",Director,NA,Colombia,Federico García Lorca,"Año II, 8",1945,1945-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,169
+Cántico,85,"García Lorca, Federico",Creador,NA,España,Ritmo de otoño,"Año II, 8",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,4.3,171-175
+Cántico,86,"García Lorca, Federico",Creador,NA,España,Espigas,"Año II, 8",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1.7,175-176
+Cántico,87,"García Lorca, Federico",Creador,NA,España,Balada de un día de julio,"Año II, 8",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,3,177-179
+Cántico,88,"García Lorca, Federico",Creador,NA,España,La sombra de mi alma,"Año II, 8",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1.3,180-181
+Cántico,89,"García Lorca, Federico",Creador,NA,España,Canción primaveral,"Año II, 8",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1.1,181-182
+Cántico,90,"García Lorca, Federico",Creador,NA,España,Prendimiento de Antoñito el Camborio en el camino de Sevilla,"Año II, 8",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1.6,182-183
+Cántico,91,"García Lorca, Federico",Creador,NA,España,Muerte de Antoñito el Camborio,"Año II, 8",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,184-185
+Cántico,92,"García Lorca, Federico",Creador,NA,España,La casada infiel,"Año II, 8",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,186-187
+Cántico,93,"García Lorca, Federico",Creador,NA,España,Romance de los pelegrinitos,"Año II, 8",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,188-189
+Cántico,94,"García Lorca, Federico",Creador,NA,España,Caída de la mujer tendida boca arriba,"Año II, 8",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,190
+Cántico,95,"García Lorca, Federico",Creador,NA,España,El poeta exige a su amor que le escriba,"Año II, 8",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,191
+Cántico,96,"García Lorca, Federico",Creador,NA,España,Canción del herido por el agua,"Año II, 8",1945,1945-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,192
+Cántico,97,"Ibáñez, Jaime",Director,NA,Colombia,Jorge Rojas,"Año III, 9",1946,1946-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,193
+Cántico,98,"Rojas, Jorge",Creador,NA,Colombia,El gesto,"Año III, 9",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,195
+Cántico,99,"Rojas, Jorge",Creador,NA,Colombia,Niña,"Año III, 9",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,196
+Cántico,100,"Rojas, Jorge",Creador,NA,Colombia,El amor,"Año III, 9",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,197
+Cántico,101,"Rojas, Jorge",Creador,NA,Colombia,Vida,"Año III, 9",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,198
+Cántico,102,"Rojas, Jorge",Creador,NA,Colombia,Salmo de la triste desposada,"Año III, 9",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,3,199-201
+Cántico,103,"Rojas, Jorge",Creador,NA,Colombia,El salmo de los árboles,"Año III, 9",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,202-203
+Cántico,104,"Rojas, Jorge",Creador,NA,Colombia,El cuerpo de la patria,"Año III, 9",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,"Neruda, Pablo",NA,5,204-208
+Cántico,105,"Rojas, Jorge",Creador,NA,Colombia,Momentos de la doncella,"Año III, 9",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,3,209-211
+Cántico,106,"Ibáñez, Jaime",Director,NA,Colombia,Pablo Neruda,"Año III, 10",1946,1946-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,213-214
+Cántico,107,"Neruda, Pablo",Creador,NA,Chile,"Amiga, no te mueras","Año III, 10",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,215-216
+Cántico,108,"Neruda, Pablo",Creador,NA,Chile,Poema 6,"Año III, 10",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,217
+Cántico,109,"Neruda, Pablo",Creador,NA,Chile,Poema 15,"Año III, 10",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,218
+Cántico,110,"Neruda, Pablo",Creador,NA,Chile,Poema 19,"Año III, 10",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,219
+Cántico,111,"Neruda, Pablo",Creador,NA,Chile,Poema 20,"Año III, 10",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,220-221
+Cántico,112,"Neruda, Pablo",Creador,NA,Chile,Juntos nosotros,"Año III, 10",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,222-223
+Cántico,113,"Neruda, Pablo",Creador,NA,Chile,Ángela Adónica,"Año III, 10",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,224
+Cántico,114,"Neruda, Pablo",Creador,NA,Chile,Solo la muerte,"Año III, 10",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,225-226
+Cántico,115,"Neruda, Pablo",Creador,NA,Chile,Entrada a la madera,"Año III, 10",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,227-228
+Cántico,116,"Neruda, Pablo",Creador,NA,Chile,Mares de Chile,"Año III, 10",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,229-230
+Cántico,117,"Neruda, Pablo",Creador,NA,Chile,Océano,"Año III, 10",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,231-232
+Cántico,118,"Neruda, Pablo",Creador,NA,Chile,Un canto para Bolívar,"Año III, 10",1946,1946-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,233-234
+Cántico,119,"Ibáñez, Jaime",Director,NA,Colombia,León de Greiff,"Año IV, 11",1947,1947-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,1
+Cántico,120,"Greiff, León de",Creador,NA,Colombia,Tergiversaciones,"Año IV, 11",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,3-4
+Cántico,121,"Greiff, León de",Creador,NA,Colombia,"Rondeles, arietas y otros ritmos","Año IV, 11",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,9,5-10
+Cántico,122,"Greiff, León de",Creador,NA,Colombia,Divagación nocturna,"Año IV, 11",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,11-12
+Cántico,123,"Greiff, León de",Creador,NA,Colombia,El solitario (poema trunco),"Año IV, 11",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,13-14
+Cántico,124,"Greiff, León de",Creador,NA,Colombia,Música de cámara y al aire libre,"Año IV, 11",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,15-16
+Cántico,125,"Greiff, León de",Creador,NA,Colombia,"Nocturno número 6, en Do Mayor","Año IV, 11",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,17
+Cántico,126,"Greiff, León de",Creador,NA,Colombia,Canción del viento,"Año IV, 11",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,18-19
+Cántico,127,"Greiff, León de",Creador,NA,Colombia,Aire para fagote,"Año IV, 11",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,20
+Cántico,128,"Greiff, León de",Creador,NA,Colombia,Relato de Claudio Monteflavo,"Año IV, 11",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,21-22
+Cántico,129,"Ibáñez, Jaime",Director,NA,Colombia,Vicente Gerbasi,"Año IV, 12",1947,1947-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,1
+Cántico,130,"Gerbasi, Vicente",Creador,NA,Venezuela,A veces creo ser un árbol seco,"Año IV, 12",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,3
+Cántico,131,"Gerbasi, Vicente",Creador,NA,Venezuela,Bosque de música,"Año IV, 12",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,4
+Cántico,132,"Gerbasi, Vicente",Creador,NA,Venezuela,Liras,"Año IV, 12",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,5-6
+Cántico,133,"Gerbasi, Vicente",Creador,NA,Venezuela,Liras,"Año IV, 12",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,7
+Cántico,134,"Gerbasi, Vicente",Creador,NA,Venezuela,Liras,"Año IV, 12",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,8-9
+Cántico,135,"Gerbasi, Vicente",Creador,NA,Venezuela,Mi tierra,"Año IV, 12",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,"Liscano, Juan",NA,1,10
+Cántico,136,"Gerbasi, Vicente",Creador,NA,Venezuela,"Mi padre, el inmigrante","Año IV, 12",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,11-12
+Cántico,137,"Gerbasi, Vicente",Creador,NA,Venezuela,Canto XX,"Año IV, 12",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,13-14
+Cántico,138,"Gerbasi, Vicente",Creador,NA,Venezuela,Mientras los niños duermen,"Año IV, 12",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,15
+Cántico,139,"Gerbasi, Vicente",Creador,NA,Venezuela,En las salinas de Zipaquirá,"Año IV, 12",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,4,16-19
+Cántico,140,"Gerbasi, Vicente",Creador,NA,Venezuela,Agua que se precipita,"Año IV, 12",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,20-21
+Cántico,141,"Gerbasi, Vicente",Creador,NA,Venezuela,Ante la puerta antigua de la noche,"Año IV, 12",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,22-23
+Cántico,142,"Ibáñez, Jaime",Director,NA,Colombia,Julio Barrenechea,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,1
+Cántico,143,"Barrenechea, Julio",Creador,NA,Chile,Definición de suavidad,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,3
+Cántico,144,"Barrenechea, Julio",Creador,NA,Chile,Muchacha durmiendo,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,4
+Cántico,145,"Barrenechea, Julio",Creador,NA,Chile,Esquina con flauta,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,5
+Cántico,146,"Barrenechea, Julio",Creador,NA,Chile,Surtidor,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,6
+Cántico,147,"Barrenechea, Julio",Creador,NA,Chile,Círculo,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,7
+Cántico,148,"Barrenechea, Julio",Creador,NA,Chile,Evocaciones,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,8-9
+Cántico,149,"Barrenechea, Julio",Creador,NA,Chile,Latido de la luz,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,10
+Cántico,150,"Barrenechea, Julio",Creador,NA,Chile,La luna de monte patria,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,11
+Cántico,151,"Barrenechea, Julio",Creador,NA,Chile,Camelia,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,12
+Cántico,152,"Barrenechea, Julio",Creador,NA,Chile,Recojo la tristeza,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,13
+Cántico,153,"Barrenechea, Julio",Creador,NA,Chile,Rienda perdida,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,14-15
+Cántico,154,"Barrenechea, Julio",Creador,NA,Chile,Es el tiempo,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,16-17
+Cántico,155,"Barrenechea, Julio",Creador,NA,Chile,Junto al olvido,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,18-19
+Cántico,156,"Barrenechea, Julio",Creador,NA,Chile,Destino deshecho,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,20
+Cántico,157,"Barrenechea, Julio",Creador,NA,Chile,Poder ser solo,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,1,21
+Cántico,158,"Barrenechea, Julio",Creador,NA,Chile,Reino perdido,"Año IV, 13",1947,1947-01-01,No,NA,Español,NA,Poesía,Poema,NA,NA,2,22-23

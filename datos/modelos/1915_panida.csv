@@ -1,0 +1,216 @@
+NombreR,NumContrib,Colaborador,Roles,Seudonimo,PaisOrigen,Titulo,NumFasciculo,Fecha,Fecha-ISO,Traduccion,Traductor,Lengua,LenguaOriginal,Tipo,TipoIndice,Dedicatoria,ObrasResenadas,CantidadPaginas,Paginacion
+Panida,1,"Rendón, Ricardo",Ilustrador,R. Rendón B.,Colombia,Panida,1,15 de febrero de 1915,1915-02-15,No,NA,Español,NA,Imagen,NA,NA,NA,0.4,SD
+Panida,2,Anónimo,Redactor,Redacción,Colombia,"""Panida""",1,15 de febrero de 1915,1915-02-15,No,NA,Español,NA,Publicidad,NA,NA,NA,0.5,SD
+Panida,3,"Rodó, José Enrique",Creador,NA,Uruguay,En el álbum de un poeta,1,15 de febrero de 1915,1915-02-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,1
+Panida,4,"Villa Carrasquilla, Jorge",Creador,M. Carré,Colombia,Una historia,1,15 de febrero de 1915,1915-02-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,2
+Panida,5,"Mejía Arango, José Félix",Creador,C. R. Pino,Colombia,Elegía,1,15 de febrero de 1915,1915-02-15,No,NA,Español,NA,Poesía,NA,NA,NA,1.1,2-3
+Panida,6,"Remouchamps, Victor",Creador,NA,Francia,Nil Noir,1,15 de febrero de 1915,1915-02-15,Sí,"Restrepo Olarte, Jesús",Español,Francés,Poesía,NA,NA,NA,0.7,4
+Panida,7,"Machado, Manuel",Creador,NA,España,"Granada, por Rusiñol",1,15 de febrero de 1915,1915-02-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,5
+Panida,8,"France, Anatole",Creador,NA,Francia,Cuento de Hadas,1,15 de febrero de 1915,1915-02-15,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,2,5-7
+Panida,9,"Greiff, León de",Director,Leo LEGRIS,Colombia,La Balada de los Buhos Estáticos,1,15 de febrero de 1915,1915-02-15,No,NA,Español,NA,Poesía,NA,NA,NA,1.5,7-8
+Panida,10,"Altenberg, Peter",Creador,NA,Austria,De diez y siete a treinta,1,15 de febrero de 1915,1915-02-15,Sí,Anónimo,Español,Alemán,Prosa Ficción,NA,NA,NA,1.4,9-10
+Panida,11,"Jaramillo Arango, Rafael",Creador,Fernando Villalba,Colombia,Pan,1,15 de febrero de 1915,1915-02-15,No,NA,Español,NA,Poesía,NA,NA,NA,1,10-11
+Panida,12,Anónimo,Creador,Cebrián de Amocete,Colombia,"Del libro ""Don Juan Manuel de Padilla""",1,15 de febrero de 1915,1915-02-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.4,11-12
+Panida,13,"Graf, Arturo",Creador,NA,Italia,Morte Regina,1,15 de febrero de 1915,1915-02-15,Sí,"Díez Canedo, Enrique",Español,Italiano,Poesía,NA,NA,NA,0.5,13
+Panida,14,Anónimo,Creador,El Visir GULLIVER,Colombia,Al Crayon,1,15 de febrero de 1915,1915-02-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.1,13-14
+Panida,15,Anónimo,Redactor,⁂,Colombia,NA,1,15 de febrero de 1915,1915-02-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,15
+Panida,16,Anónimo,Redactor,⁂,Colombia,NA,1,15 de febrero de 1915,1915-02-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,15
+Panida,17,"Turgenev, Ivan",Creador,NA,Rusia,NA,1,15 de febrero de 1915,1915-02-15,Sí,Anónimo,Español,Ruso,Prosa No Ficción,NA,NA,NA,0.1,15
+Panida,18,Anónimo,Redactor,⁂,Colombia,NA,1,15 de febrero de 1915,1915-02-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.2,15-16
+Panida,19,Anónimo,Creador,NA,NA,Arturo Graf,1,15 de febrero de 1915,1915-02-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.1,16
+Panida,20,"Jiménez, Juan Ramón",Creador,NA,España,Páginas Dolorosas,1,15 de febrero de 1915,1915-02-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,16
+Panida,21,"Rendón, Ricardo",Ilustrador,R. Rendón B.,Colombia,Panida,2,28/02/15,1915-02-28,No,NA,Español,NA,Imagen,NA,NA,NA,0.4,SD
+Panida,22a,"Isaza Botero, Teodomiro",Creador,Helena de MAIA,Colombia,Almas Humanas,2,28/02/15,1915-02-28,No,NA,Español,NA,Poesía,NA,NA,NA,2.7,17-19
+Panida,22b,"Mejía Arango, José Félix",Creador,Helena de MAIA,Colombia,Almas Humanas,2,28/02/15,1915-02-28,No,NA,Español,NA,Poesía,NA,NA,NA,2.7,17-19
+Panida,23,"Greiff, León de",Director,Juan CRISTÓBAL,Colombia,Omar Khayyam,2,28/02/15,1915-02-28,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,19
+Panida,24,"Villa López, Francisco",Creador,V. de LUSSICH,Colombia,Del parque,2,28/02/15,1915-02-28,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,20
+Panida,25,"Villa Carrasquilla, Jorge",Creador,M. Carré,Colombia,Como un río,2,28/02/15,1915-02-28,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.5,20-21
+Panida,26,"Restrepo Restrepo, Antonio María",Creador,Abel Farina,Colombia,Evocación,2,28/02/15,1915-02-28,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,22
+Panida,27,"Rodríguez Rendueles, Manuel",Creador,"Rodríguez Rendueles, M.",Cuba,A Paul Verlaine,2,28/02/15,1915-02-28,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,22
+Panida,28,"Restrepo Olarte, Jesús",Creador,Jean GÉNIER,Colombia,Feas,2,28/02/15,1915-02-28,No,NA,Español,NA,Poesía,NA,"Márquez, Tomás",NA,2,23-24
+Panida,29,"Jaramillo Arango, Rafael",Creador,Fernando Villalba,Colombia,La Historia de Zulema,2,28/02/15,1915-02-28,No,NA,Español,NA,Poesía,NA,NA,NA,1,25
+Panida,30,"Mejía Arango, José Félix",Creador,C. R. Pino,Colombia,Como quiero mi amor,2,28/02/15,1915-02-28,No,NA,Español,NA,Poesía,NA,"Mejía M., C.",NA,1,26
+Panida,31,"Papini, Giovanni",Creador,NA,Italia,Elegía por lo que no fue,2,28/02/15,1915-02-28,Sí,Anónimo,Español,Italiano,Poesía,Elegía,NA,NA,1.5,27-28
+Panida,32,"Jammes, Francis",Creador,NA,Francia,Cette Persone…,2,28/02/15,1915-02-28,Sí,"Díez Canedo, Enrique",Español,Francés,Poesía,NA,NA,NA,1,28-29
+Panida,33,"Parra Toro, Libardo",Creador,NA,Colombia,Tierra Fría,2,28/02/15,1915-02-28,No,NA,Español,NA,Poesía,NA,"Carré, M.",NA,0.4,29
+Panida,34,"Greiff, León de",Director,Leo LEGRIS,Colombia,Balada Desolada,2,28/02/15,1915-02-28,No,NA,Español,NA,Poesía,Balada,NA,NA,1,30
+Panida,35,Anónimo,Creador,NA,Colombia,Francis Jammes,2,28/02/15,1915-02-28,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,31
+Panida,36,"Ingenieros, José",Creador,NA,Argentina,NA,2,28/02/15,1915-02-28,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,31
+Panida,37,Anónimo,Redactor,⁂,Colombia,NA,2,28/02/15,1915-02-28,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,31
+Panida,38,Anónimo,Redactor,⁂,Colombia,Omar Khayyam,2,28/02/15,1915-02-28,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,31
+Panida,39,"Poe, Edgar Allan",Creador,NA,Estados Unidos,NA,2,28/02/15,1915-02-28,Sí,Anónimo,Español,Inglés,Prosa Ficción,NA,NA,NA,0.1,31
+Panida,40,Anónimo,Redactor,⁂,Colombia,NA,2,28/02/15,1915-02-28,No,NA,Español,NA,Reseña,NA,NA,El jardín de Berenice (Maurice Barrés),0.3,32
+Panida,41,"Mallarmé, Stéphane",Creador,NA,Francia,NA,2,28/02/15,1915-02-28,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,0.2,32
+Panida,42,Anónimo,Redactor,Redacción,Colombia,Giovanni Papini,2,28/02/15,1915-02-28,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,32
+Panida,43,"Wilde, Oscar",Creador,NA,Irlanda,NA,2,28/02/15,1915-02-28,Sí,Anónimo,Español,Inglés,Prosa No Ficción,NA,NA,NA,0.1,32
+Panida,44,"Rendón, Ricardo",Ilustrador,R. Rendón B.,Colombia,Panida,3,15/02/15,1915-02-15,No,NA,Español,NA,Imagen,NA,NA,NA,0.4,SD
+Panida,45,Anónimo,Redactor,Redacción,Colombia,"""Panida""",3,15/03/15,1915-03-15,No,NA,Español,NA,Publicidad,NA,NA,NA,1,SD
+Panida,46,"Rendón, Ricardo",Ilustrador,NA,Colombia,Tomás Carrasquilla,3,15/03/15,1915-03-15,No,NA,NA,NA,Imagen,NA,NA,NA,1,SD
+Panida,47,"Altenberg, Peter",Creador,NA,Austria,Autobiografía,3,15/03/15,1915-03-15,Sí,Anónimo,Español,Alemán,Prosa No Ficción,Autobiografía,NA,NA,1.7,33-34
+Panida,48,"Jiménez, Juan Ramón",Creador,NA,España,Fragmento,3,15/03/15,1915-03-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,34
+Panida,49,"Cano, Antonio José",Creador,NA,Colombia,Rimas Orientales,3,15/03/15,1915-03-15,No,NA,Español,NA,Poesía,NA,NA,NA,1,35
+Panida,50,"Rendón, Ricardo",Creador,Daniel ZEGRI,Colombia,"""Ego te absolvo""",3,15/03/15,1915-03-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,36
+Panida,51,"Wilde, Oscar",Creador,NA,Irlanda,El discípulo,3,15/03/15,1915-03-15,Sí,Anónimo,Español,Inglés,Prosa Ficción,NA,NA,NA,0.8,36-37
+Panida,52,"Mejía Arango, José Félix",Creador,C. R. P.,Colombia,Palabras,3,15/03/15,1915-03-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,37
+Panida,53,"Jaramillo Arango, Rafael",Creador,Fernando Villalba,Colombia,Mithos por tu amor…,3,15/03/15,1915-03-15,No,NA,Español,NA,Poesía,NA,NA,NA,1,38
+Panida,54,"Suarès, André",Creador,NA,Francia,Le Ressucité,3,15/03/15,1915-03-15,Sí,"Restrepo Olarte, Jesús",Español,Francés,Poesía,NA,NA,NA,1.2,39-40
+Panida,55,"Mejía Arango, José Félix",Creador,C. R. Pino,Colombia,"Una página del ""Libro de mis pecados""",3,15/03/15,1915-03-15,No,NA,Español,NA,Poesía,NA,"Lussich, V. de",NA,0.8,40
+Panida,56,"Villa Carrasquilla, Jorge",Creador,M. Carré,Colombia,Primeras paradas,3,15/03/15,1915-03-15,No,NA,Español,NA,Poesía,NA,NA,NA,1,41
+Panida,57,"Vasco Gutiérrez, Eduardo",Creador,Alhy CAVATINI,Colombia,Epistolario sentimental,3,15/03/15,1915-03-15,No,NA,Español,NA,Poesía,Carta,Maruja,NA,2,42-43
+Panida,58,"Greiff, León de",Director,Leo LEGRIS,Colombia,Baladas Desoladas,3,15/03/15,1915-03-15,No,NA,Español,NA,Poesía,Balada,NA,NA,1,44
+Panida,59,"Restrepo Olarte, Jesús",Creador,Xavier de LYS,Colombia,Salida del Baile,3,15/03/15,1915-03-15,No,NA,Español,NA,Poesía,NA,"Villalba, Fernando",NA,2,45-46
+Panida,60,Anónimo,Redactor,⁂,Colombia,Antonio J. Cano,3,15/03/15,1915-03-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,47
+Panida,61,"Darío, Rubén",Creador,NA,Nicaragua,NA,3,15/03/15,1915-03-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,47
+Panida,62,Anónimo,Redactor,⁂,Colombia,Oscar Wilde,3,15/03/15,1915-03-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,47
+Panida,63,Anónimo,Redactor,⁂,Colombia,Abel Farina,3,15/03/15,1915-03-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,47-48
+Panida,64,"Fort, Paul",Creador,NA,Francia,NA,3,15/03/15,1915-03-15,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,0.1,48
+Panida,65,"Martínez Ruiz, José",Creador,Azorín,España,NA,3,15/03/15,1915-03-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,48
+Panida,66,"Schopenhauer, Arthur",Creador,NA,Alemania,NA,3,15/03/15,1915-03-15,Sí,Anónimo,Español,Alemán,Prosa No Ficción,NA,NA,NA,0.2,48
+Panida,67,"Rendón, Ricardo",Ilustrador,R. Rendón B.,Colombia,Panida,4,28/03/15,1915-03-28,No,NA,Español,NA,Imagen,NA,NA,NA,0.4,SD
+Panida,68,Anónimo,Redactor,Redacción,Colombia,"""Panida""",4,28/03/15,1915-03-28,No,NA,Español,NA,Publicidad,NA,NA,NA,1,SD
+Panida,69,"Rendón, Ricardo",Ilustrador,NA,Colombia,Jesús Restrepo Rivera,4,28/03/15,1915-03-28,No,NA,NA,NA,Imagen,NA,NA,NA,0.6,SD
+Panida,70,"Restrepo Rivera, Jesús",Creador,NA,Colombia,Fabla Doliente,4,28/03/15,1915-03-28,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,SD
+Panida,71a,"Isaza Botero, Teodomiro",Creador,Helena de MAIA,Colombia,Almas Humanas,4,28/03/15,1915-03-28,No,NA,Español,NA,Poesía,NA,NA,NA,2,49-50
+Panida,71b,"Mejía Arango, José Félix",Director,Helena de MAIA,Colombia,Almas Humanas,4,28/03/15,1915-03-28,No,NA,Español,NA,Poesía,NA,NA,NA,2,49-50
+Panida,72,"Restrepo Rivera, Jesús",Creador,NA,Colombia,Fabla Doliente,4,28/03/15,1915-03-28,No,NA,Español,NA,Poesía,NA,NA,NA,1,51
+Panida,73,"Darío, Rubén",Creador,NA,Nicaragua,Stella,4,28/03/15,1915-03-28,No,NA,Español,NA,Poesía,NA,NA,NA,1.2,52-53
+Panida,74,"Rendón, Ricardo",Creador,Daniel ZEGRI,Colombia,Llueve,4,28/03/15,1915-03-28,No,NA,Español,NA,Poesía,NA,NA,NA,0.8,53
+Panida,75,"Mejía Arango, José Félix",Director,C. R. Pino,Colombia,Sol,4,28/03/15,1915-03-28,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,54
+Panida,76,"Mejía Arango, José Félix",Director,C. R. Pino,Colombia,Salomé,4,28/03/15,1915-03-28,No,NA,Español,NA,Poesía,NA,Velazco G. E.,NA,0.5,54
+Panida,77,"Mejía Arango, José Félix",Director,C. R. Pino,Colombia,Ofrenda,4,28/03/15,1915-03-28,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,55
+Panida,78,"Silvestre, Armand",Creador,NA,Francia,El botón de Rosa,4,28/03/15,1915-03-28,Sí,Anónimo,Español,Francés,Poesía,NA,NA,NA,0.6,55
+Panida,79,"Claussen, Sophus",Creador,NA,Dinamarca,A une morte,4,28/03/15,1915-03-28,Sí,"Restrepo Olarte, Jesús",Español,Danés,Poesía,NA,"Stuckenberg, Ingeborg",NA,2,56-57
+Panida,80,"Restrepo Olarte, Jesús",Creador,Xavier de LYS,Colombia,Panida,4,28/03/15,1915-03-28,No,NA,Español,NA,Poesía,NA,NA,NA,1,58
+Panida,81,"Jaramillo Arango, Rafael",Creador,Fernando Villalba,Colombia,Cuenta de cómo fizo las rimas que dijole Don Amor,4,28/03/15,1915-03-28,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,59
+Panida,82,"Khayyam, Omar",Creador,NA,Irán,Los Rubayata,4,28/03/15,1915-03-28,Sí,NA,Español,NA,Poesía,NA,NA,NA,2.2,59-61
+Panida,83,"Villa Carrasquilla, Jorge",Creador,M. Carré,Colombia,Menade,4,28/03/15,1915-03-28,No,NA,Español,NA,Poesía,NA,"Trelles, Paco",NA,0.6,62
+Panida,84,"Restrepo Olarte, Jesús",Creador,Jean GÉNIER,Colombia,Lucem Tuam,4,28/03/15,1915-03-28,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,62
+Panida,85,"Villa López, Francisco",Creador,V. de LUSSICH,Colombia,J. Restrepo Rivera,4,28/03/15,1915-03-28,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,63
+Panida,86,Anónimo,Redactor,Redacción,Colombia,Armand Silvestre,4,28/03/15,1915-03-28,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,63
+Panida,87,"Villaespesa, Francisco",Creador,NA,España,NA,4,28/03/15,1915-03-28,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,63-64
+Panida,88,Anónimo,Redactor,⁂,Colombia,Alpha,4,28/03/15,1915-03-28,No,NA,Español,NA,Reseña de revista,NA,NA,Alpha,0.1,64
+Panida,89,Anónimo,Redactor,⁂,Colombia,NA,4,28/03/15,1915-03-28,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,64
+Panida,90,"Rendón, Ricardo",Ilustrador,R. Rendón B.,Colombia,Panida,5,11/04/15,1915-04-11,No,NA,Español,NA,Imagen,NA,NA,NA,0.4,SD
+Panida,91a,"Isaza Botero, Teodomiro",Creador,Helena de MAIA,Colombia,Almas Humanas,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,NA,NA,NA,2,65-66
+Panida,91b,"Mejía Arango, José Félix",Director,Helena de MAIA,Colombia,Almas Humanas,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,NA,NA,NA,2,65-66
+Panida,92,"Rendón, Ricardo",Creador,Daniel ZEGRI,Colombia,Florecillas,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,NA,NA,NA,1,67
+Panida,93,"Montoya, José",Creador,NA,Colombia,Abnegación,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,NA,NA,NA,1,68
+Panida,94,"Greiff, León de",Creador,Leo LEGRIS,Colombia,Baladas Desoladas,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,NA,NA,NA,1,69
+Panida,95,"Mejía Arango, José Félix",Director,C. R. Pino,Colombia,Jardín de amor,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,NA,NA,NA,1,70
+Panida,96,"Martínez Ruiz, José",Creador,Azorín,España,Jardín junto a la vía,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,NA,NA,NA,1,71
+Panida,97,"Isaza Botero, Teodomiro",Creador,Mosén Canijo,Colombia,Angelus,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,72
+Panida,98,"Parra Toro, Libardo",Creador,NA,Colombia,Contraste,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,72
+Panida,99,"Villa Carrasquilla, Jorge",Creador,M. Carré,Colombia,Primeras paradas,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,72
+Panida,100,"Restrepo Olarte, Jesús",Creador,Xavier de LYS,Colombia,Con los perfumes de las cosas idas,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,73
+Panida,101,"Vasco Gutiérrez, Eduardo",Creador,Alhy CAVATINI,Colombia,Epistolario sentimental,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,NA,NA,NA,1.8,73-75
+Panida,102,"González Ochoa, Fernando",Creador,NA,Colombia,Meditaciones,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,Meditación,NA,NA,1.2,75-76
+Panida,103,"Díaz, Leopoldo",Creador,NA,Colombia,Oda breve a Gonzalo de Berceo,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,Oda,NA,NA,1.3,76-77
+Panida,104,"Carriego, Evaristo",Creador,NA,Argentina,El clavel,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,78
+Panida,105,"Carriego, Evaristo",Creador,NA,Argentina,En el café,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,78
+Panida,106,Anónimo,Redactor,⁂,Colombia,Azorín,5,11/04/15,1915-04-11,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.5,79
+Panida,107,Anónimo,Redactor,⁂,Colombia,España,5,11/04/15,1915-04-11,No,NA,Español,NA,Reseña de revista,NA,NA,"Helios, Renacimiento.",0.4,79
+Panida,108,"Francés, José",Creador,NA,España,NA,5,11/04/15,1915-04-11,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,80
+Panida,109,Anónimo,Redactor,⁂,Colombia,NA,5,11/04/15,1915-04-11,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,80
+Panida,110,"González Blanco, Andrés",Creador,NA,España,NA,5,11/04/15,1915-04-11,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,80
+Panida,111,"Rendón, Ricardo",Ilustrador,R. Rendón B.,Colombia,Panida,6,25/04/15,1915-04-25,No,NA,Español,NA,Imagen,NA,NA,NA,0.4,SD
+Panida,112,Anónimo,Redactor,Redacción,Colombia,"""Panida""",6,25/04/15,1915-04-25,No,NA,Español,NA,Publicidad,NA,NA,NA,1,SD
+Panida,113,"Rendón, Ricardo",Ilustrador,NA,Colombia,Abel Farina,6,25/04/15,1915-04-25,No,NA,NA,NA,Imagen,NA,NA,NA,0.7,SD
+Panida,114,"Restrepo Restrepo, Antonio María",Creador,Abel Farina,Colombia,Epicedio,6,25/04/15,1915-04-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,SD
+Panida,115,"Valle-Inclán, Ramón del",Creador,NA,España,"De ""Sonata de estío"" ",6,25/04/15,1915-04-25,No,NA,Español,NA,Poesía,NA,NA,NA,1.1,81-82
+Panida,116,"Jaramillo Arango, Roberto",Creador,NA,Colombia,"Sobre ""Crisálidas""",6,25/04/15,1915-04-25,No,NA,Español,NA,Poesía,NA,NA,NA,1.7,82-83
+Panida,117,"Bécquer, Gustavo Adolfo",Creador,NA,España,Rima,6,25/04/15,1915-04-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,83
+Panida,118,"Jammes, Francis",Creador,NA,Francia,La inteligencia,6,25/04/15,1915-04-25,Sí,Anónimo,Español,Francés,Prosa Ficción,NA,NA,NA,0.5,84
+Panida,119,"Mejía Arango, José Félix",Director,C. R. Pino,Colombia,Cántiga de amistanzas de las Fijas Indias a la Madre España,6,25/04/15,1915-04-25,No,NA,Español,NA,Poesía,Cántiga,"Restrepo Rivera, J.",NA,1.3,84-85
+Panida,120,"Mora Vásquez, José Manuel",Creador,Juan Manuel Montenegro,Colombia,La abuelita,6,25/04/15,1915-04-25,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.2,86-87
+Panida,121,"Greiff, León de",Creador,Juan CRISTÓBAL,Colombia,Gesta dolens,6,25/04/15,1915-04-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.8,87
+Panida,122,"Jaramillo Arango, Rafael",Creador,Fernando Villalba,Colombia,Tankas,6,25/04/15,1915-04-25,No,NA,Español,NA,Poesía,Tanka,NA,NA,1.7,88-89
+Panida,123,"Villa López, Francisco",Creador,V. de LUSSICH,Colombia,Estancia,6,25/04/15,1915-04-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,90
+Panida,124,"Parra Toro, Libardo",Creador,NA,Colombia,Rasgos,6,25/04/15,1915-04-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,90
+Panida,125,"Vasco Gutiérrez, Eduardo",Creador,Alhy CAVATINI,Colombia,Epistolario sentimental,6,25/04/15,1915-04-25,No,NA,Español,NA,Poesía,Carta,NA,NA,1,91
+Panida,126,"Isaza Botero, Teodomiro",Creador,Mosén Canijo,Colombia,Gamas,6,25/04/15,1915-04-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,92
+Panida,127,"Villa Carrasquilla, Jorge",Creador,M. Carré,Colombia,Primeras paradas,6,25/04/15,1915-04-25,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,92
+Panida,128,"González Ochoa, Fernando",Creador,NA,Colombia,Meditaciones,6,25/04/15,1915-04-25,No,NA,Español,NA,Poesía,NA,NA,NA,1,93
+Panida,129,"Villaespesa, Francisco",Creador,NA,España,Toledo,6,25/04/15,1915-04-25,No,NA,Español,NA,Poesía,NA,NA,NA,1,94
+Panida,130,Anónimo,Redactor,⁂,Colombia,La caricatura,6,25/04/15,1915-04-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,95
+Panida,131,Anónimo,Redactor,⁂,Colombia,NA,6,25/04/15,1915-04-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,95
+Panida,132,Anónimo,Redactor,Redacción,Colombia,Evaristo Carriego,6,25/04/15,1915-04-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,95
+Panida,133,"Vargas Vila, José María",Creador,NA,Colombia,NA,6,25/04/15,1915-04-25,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,95-96
+Panida,134,"Rendón, Ricardo",Ilustrador,R. Rendón B.,Colombia,Panida,7,10/05/15,1915-05-10,No,NA,Español,NA,Imagen,NA,NA,NA,0.4,SD
+Panida,135,Anónimo,Redactor,Redacción,Colombia,"""Panida""",7,10/05/15,1915-05-10,No,NA,Español,NA,Publicidad,NA,NA,NA,1,SD
+Panida,136,"Rendón, Ricardo",Ilustrador,NA,Colombia,Antonio Merizalde,7,10/05/15,1915-05-10,No,NA,NA,NA,Imagen,NA,NA,NA,0.6,SD
+Panida,137,"Merizalde Uribe, Antonio",Creador,NA,Colombia,Canto de Esperanza,7,10/05/15,1915-05-10,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,SD
+Panida,138,"González Blanco, Andrés",Creador,NA,España,Los poetas de América,7,10/05/15,1915-05-10,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.8,97-98
+Panida,139,"Merizalde Uribe, Antonio",Creador,NA,Colombia,Versos de la noche,7,10/05/15,1915-05-10,No,NA,Español,NA,Poesía,NA,NA,NA,1,99
+Panida,140,"Rendón, Ricardo",Ilustrador,NA,Colombia,Prólogo de los intereses creados,7,10/05/15,1915-05-10,No,NA,NA,NA,Imagen,NA,NA,NA,0.6,100
+Panida,141,"Benavente, Jacinto",Creador,NA,España,Prólogo de los intereses creados,7,10/05/15,1915-05-10,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.3,100-101
+Panida,142,"Fernández Ríos, Ovidio",Creador,NA,Uruguay,A una vieja espada,7,10/05/15,1915-05-10,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,102
+Panida,143,"Parra Toro, Libardo",Creador,NA,Colombia,Rasgos,7,10/05/15,1915-05-10,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,102
+Panida,144,"Isaza, Fernando",Reseñista,NA,Colombia,Epílogos,7,10/05/15,1915-05-10,No,NA,Español,NA,Reseña,NA,NA,Sonetos en prosa,0.6,103
+Panida,145,"Gourmont, Remy de",Creador,NA,Francia,Tiene ella un cuerpo…,7,10/05/15,1915-05-10,Sí,Anónimo,Español,Francés,Poesía,NA,NA,NA,1.3,103-104
+Panida,146,"Vasco Gutiérrez, Eduardo",Creador,Alhy CAVATINI,Colombia,Epistolario sentimental,7,10/05/15,1915-05-10,No,NA,Español,NA,Poesía,Carta,NA,NA,1.2,105-106
+Panida,147,"Greiff, León de",Creador,Juan CRISTÓBAL,Colombia,Lied,7,10/05/15,1915-05-10,No,NA,Español,NA,Poesía,Lied,NA,NA,0.8,106
+Panida,148,"Restrepo Jaramillo, José Luis",Creador,NA,Colombia,Ingenuas,7,10/05/15,1915-05-10,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,107
+Panida,149,"Isaza Botero, Teodomiro",Creador,Mosén Canijo,Colombia,Detalle,7,10/05/15,1915-05-10,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,107
+Panida,150,Anónimo,Creador,ATL,Colombia,Eva,7,10/05/15,1915-05-10,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,108
+Panida,151,"González Ochoa, Fernando",Creador,NA,Colombia,Meditaciones,7,10/05/15,1915-05-10,No,NA,Español,NA,Poesía,Meditación,NA,NA,0.8,108-109
+Panida,152,"Villegas, Aquilino",Creador,NA,Colombia,Rondel,7,10/05/15,1915-05-10,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,109
+Panida,153,"Jaramillo Arango, Rafael",Creador,Fernando Villalba,Colombia,Canzonetta Capricciosa,7,10/05/15,1915-05-10,No,NA,Español,NA,Poesía,Canzonetta,NA,NA,1,110
+Panida,154,Anónimo,Redactor,⁂,Colombia,Antonio Merizalde,7,10/05/15,1915-05-10,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,111
+Panida,155,Anónimo,Redactor,⁂,Colombia,Nosotros,7,10/05/15,1915-05-10,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,111
+Panida,156,Anónimo,Redactor,⁂,Colombia,Los intereses creados,7,10/05/15,1915-05-10,No,NA,Español,NA,Reseña,NA,NA,Intereses creados,0.4,111-112
+Panida,157,Anónimo,Redactor,⁂,Colombia,El poeta,7,10/05/15,1915-05-10,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,112
+Panida,158,Anónimo,Creador,NA,Colombia,Publicidad,7,10/05/15,1915-05-10,No,NA,Español,NA,Publicidad,NA,NA,NA,4,SD
+Panida,159,"Rendón, Ricardo",Ilustrador,R. Rendón B.,Colombia,Panida,8,23/05/15,1915-05-23,No,NA,Español,NA,Imagen,NA,NA,NA,0.4,SD
+Panida,160,Anónimo,Redactor,Redacción,Colombia,"""Panida""",8,23/05/15,1915-05-23,No,NA,Español,NA,Publicidad,NA,NA,NA,1,SD
+Panida,161,"González Blanco, Andrés",Creador,NA,España,Los poetas de América,8,23/05/15,1915-05-23,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2.1,113-115
+Panida,162,"Bayona Posada, Jorge",Creador,NA,Colombia,Tu pulsera,8,23/05/15,1915-05-23,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,115
+Panida,163,"Mejía Arango, José Félix",Director,C. R. Pino,Colombia,Pierrot,8,23/05/15,1915-05-23,No,NA,Español,NA,Poesía,NA,"Isaza, Teodomiro",NA,2.6,116-118
+Panida,164,"Vasco Gutiérrez, Eduardo",Creador,Alhy CAVATINI,Colombia,Epistolario sentimental,8,23/05/15,1915-05-23,No,NA,Español,NA,Poesía,Carta,NA,NA,1.4,118-119
+Panida,165,"Jaramillo Arango, Rafael",Creador,Fernando Villalba,Colombia,Del jardín de Mayo,8,23/05/15,1915-05-23,No,NA,Español,NA,Poesía,NA,NA,NA,1,120
+Panida,166,"Fort, Paul",Creador,NA,Francia,Baladas,8,23/05/15,1915-05-23,Sí,"González Martinez, Enrique",Español,Francés,Poesía,Balada,NA,NA,0.3,121
+Panida,167,"Fort, Paul",Creador,NA,Francia,El buen tiempo,8,23/05/15,1915-05-23,Sí,"González Martinez, Enrique",Español,Francés,Poesía,NA,NA,NA,0.7,121
+Panida,168,Anónimo,Creador,Aurelio ZALDIVAR,Colombia,Todo ha muerto,8,23/05/15,1915-05-23,No,NA,Español,NA,Poesía,NA,Czarina,NA,1,122
+Panida,169,"González Ochoa, Fernando",Creador,NA,Colombia,Meditaciones,8,23/05/15,1915-05-23,No,NA,Español,NA,Poesía,Meditación,NA,NA,1.5,123-124
+Panida,170,Anónimo,Creador,Juan CRISTÓBAL,Colombia,Cantos de la noche,8,23/05/15,1915-05-23,No,NA,Español,NA,Poesía,Canto,NA,NA,0.5,124
+Panida,171,"Jiménez, Juan Ramón",Creador,NA,España,Hojas verdes,8,23/05/15,1915-05-23,No,NA,Español,NA,Poesía,NA,NA,NA,0.3,125
+Panida,172,"Icaza, Francisco A. de",Creador,NA,México,En cada hoja,8,23/05/15,1915-05-23,No,NA,español,NA,Poesía,NA,NA,NA,0.3,125
+Panida,173,"Mora Vásquez, José Manuel",Creador,Juan Manuel Montenegro,Colombia,Melancolía,8,23/05/15,1915-05-23,No,NA,Español,NA,Poesía,NA,NA,NA,0.7,125-126
+Panida,174,"Palacio, Eduardo A.",Creador,NA,Colombia,Oro y Sangre,8,23/05/15,1915-05-23,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,126
+Panida,175,"Visan, Tancrède de",Creador,NA,Francia,Paul Fort,8,23/05/15,1915-05-23,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,1.1,127-128
+Panida,176,Anónimo,Redactor,⁂,Colombia,NA,8,23/05/15,1915-05-23,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,128
+Panida,177,Anónimo,Redactor,⁂,Colombia,CVLTVRA,8,23/05/15,1915-05-23,No,NA,Español,NA,Reseña de revista,NA,NA,CVLTVRA,0.2,128
+Panida,178,Anónimo,Creador,NA,Colombia,Publicidad,8,23/05/15,1915-05-23,No,NA,Español,NA,Publicidad,NA,NA,NA,3,SD
+Panida,179,"Rendón, Ricardo",Ilustrador,R. Rendón B.,Colombia,Panida,9,06/06/15,1915-06-06,No,NA,Español,NA,Imagen,NA,NA,NA,0.4,SD
+Panida,180,Anónimo,Redactor,Redacción,Colombia,"""Panida""",9,06/06/15,1915-06-06,No,NA,Español,NA,Publicidad,NA,NA,NA,1,SD
+Panida,181,"González Blanco, Andrés",Creador,NA,España,Los poetas de América,9,06/06/15,1915-06-06,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.6,129-130
+Panida,182,"Restrepo Rivera, Jesús",Creador,NA,Colombia,Dulce tristeza,9,06/06/15,1915-06-06,No,NA,Español,NA,Poesía,NA,NA,NA,1,131
+Panida,183,"Valencia, Guillermo",Creador,NA,Colombia,Mis votos,9,06/06/15,1915-06-06,No,NA,Español,NA,Poesía,NA,NA,NA,2,132-133
+Panida,184,"D'Ors, Eugenio",Creador,NA,España,Junio,9,06/06/15,1915-06-06,No,NA,Español,NA,Poesía,NA,NA,NA,1,134
+Panida,185,"Vasco Gutiérrez, Eduardo",Creador,Alhy CAVATINI,Colombia,Rimas del alma,9,06/06/15,1915-06-06,No,NA,Español,NA,Poesía,NA,NA,NA,1,135
+Panida,186,"Miró Ferrer, Gabriel",Creador,NA,Colombia,Parábola del Pino,9,06/06/15,1915-06-06,No,NA,Español,NA,Prosa Ficción,Parábola,NA,NA,3,136-138
+Panida,187,Anónimo,Creador,Aurelio ZALDIVAR,Colombia,El alma de la hora,9,06/06/15,1915-06-06,No,NA,Español,NA,Poesía,NA,NA,NA,0.8,139
+Panida,188,"González Ochoa, Fernando",Creador,NA,Colombia,Meditaciones,9,06/06/15,1915-06-06,No,NA,Español,NA,Poesía,Meditación,NA,NA,1.2,139-140
+Panida,189,"Silva, José Asunción",Creador,NA,Colombia,Futura,9,06/06/15,1915-06-06,No,NA,Español,NA,Poesía,NA,NA,NA,1.3,141-142
+Panida,190,"Díez Canedo, Enrique",Creador,NA,Colombia,Watteau,9,06/06/15,1915-06-06,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,142
+Panida,191,"Rusiñol, Santiago",Creador,NA,España,NA,9,06/06/15,1915-06-06,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,143
+Panida,192,Anónimo,Redactor,⁂,Colombia,Noche serena,9,06/06/15,1915-06-06,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,143-144
+Panida,193,Anónimo,Redactor,⁂,Colombia,José A. Silva,9,06/06/15,1915-06-06,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.3,144
+Panida,194,Anónimo,Creador,NA,Colombia,Publicidad,9,06/06/15,1915-06-06,No,NA,Español,NA,Publicidad,NA,NA,NA,4,SD
+Panida,195,"Rendón, Ricardo",Ilustrador,R. Rendón B.,Colombia,Panida,10,20/06/15,1915-06-20,No,NA,Español,NA,Imagen,NA,NA,NA,0.4,SD
+Panida,196,"Benavente, Jacinto",Dramaturgo,NA,España,La senda del amor,10,20/06/15,1915-06-20,No,NA,Español,NA,Teatro,NA,NA,NA,3.2,145-148
+Panida,197,"Mejía Arango, José Félix",Director,C. R. Pino,Colombia,Allá en el cielo,10,20/06/15,1915-06-20,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,148
+Panida,198,"Mejía Ángel, Gustavo",Creador,NA,Colombia,Las canciones del recuerdo,10,20/06/15,1915-06-20,No,NA,Español,NA,Poesía,NA,NA,NA,1,149
+Panida,199,"Parra Toro, Libardo",Creador,NA,Colombia,De gitanería,10,20/06/15,1915-06-20,No,NA,Español,NA,Poesía,NA,NA,NA,1,150
+Panida,200,"González Ochoa, Fernando",Creador,Juan Matías,Colombia,Desde mi tinglado,10,20/06/15,1915-06-20,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1.7,151-152
+Panida,201,"Rendón, Ricardo",Creador,Daniel ZEGRI,Colombia,Soneto,10,20/06/15,1915-06-20,No,NA,Español,NA,Poesía,Soneto,NA,NA,1,153
+Panida,202,"Darío, Rubén",Creador,NA,Nicaragua,Dream,10,20/06/15,1915-06-20,No,NA,Español,NA,Poesía,NA,NA,NA,1,154
+Panida,203,"Márquez Bravo, Tomás",Creador,NA,Colombia,La cartera de Andrés,10,20/06/15,1915-06-20,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1,155
+Panida,204,"Marquina, Eduardo",Creador,NA,España,Elegía,10,20/06/15,1915-06-20,No,NA,Español,NA,Poesía,Elegía,NA,NA,1,156
+Panida,205,"Vasco Gutiérrez, Eduardo",Creador,Alhy CAVATINI,Colombia,Versos a Magda,10,20/06/15,1915-06-20,No,NA,Español,NA,Poesía,NA,NA,NA,1,157
+Panida,206,"Darío, Rubén",Creador,NA,Nicaragua,Caupolican,10,20/06/15,1915-06-20,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,158
+Panida,207,"Darío, Rubén",Creador,NA,Nicaragua,Margarita,10,20/06/15,1915-06-20,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,158
+Panida,208,"Martínez Ruiz, José",Creador,Azorín,España,NA,10,20/06/15,1915-06-20,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.9,159
+Panida,209,Anónimo,Redactor,⁂,Colombia,La nueva edición de las obras de Rubén Darío,10,20/06/15,1915-06-20,No,NA,Español,NA,Reseña,NA,NA,"Muy siglo XVIII; Muy antiguo y muy moderno; Audaz, cosmopolita; Una sed de ilusiones infinita; Canto a la Argentina.",0.5,158-159
+Panida,210,Anónimo,Redactor,⁂,Colombia,Revista,10,20/06/15,1915-06-20,No,NA,Español,NA,Reseña de revista,NA,NA,Cultura; Revista moderna; Alpha; Lauros; La Pluma; Alianza; Alma nueva.,0.2,160
+Panida,211,Anónimo,Redactor,⁂,Colombia,NA,10,20/06/15,1915-06-20,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.1,160
+Panida,212,Anónimo,Creador,NA,Colombia,"""Panida""",10,20/06/15,1915-06-20,No,NA,Español,NA,Publicidad,NA,NA,NA,1,SD
