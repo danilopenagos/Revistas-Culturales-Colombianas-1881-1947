@@ -1,16 +1,16 @@
 ---
 title: "Revistas culturales y literarias colombianas (1881-1947): análisis y visualización de datos"
 output: 
-  html_notebook: 
-    toc: yes
-    code_folding: hide
-    highlight: kate
-    theme: cosmo
   html_document: 
     toc: yes
     highlight: zenburn
     theme: readable
     df_print: default
+  html_notebook: 
+    toc: yes
+    code_folding: hide
+    highlight: kate
+    theme: cosmo
 ---
 
 ```{r Carga de paquetes, message=FALSE, warning=FALSE, include=FALSE}
