@@ -922,7 +922,7 @@ El resultado arroja que hay una modularidad del **65,2%**. Este número represen
 
 ### 4.2. Visualización interactiva de la red
 
-Versión interactiva de la [red de revistas](1881_1847_red_revistas_colombianas_viz.html)
+Versión interactiva de la [red de revistas](1881_1947_red_revistas_colombianas_viz.html)
 
 ```{r Visualización de la red, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 
