@@ -75,7 +75,6 @@ variables_entorno <- ls()
 lista_revistas <- variables_entorno[sapply(variables_entorno, function(x) "data.frame" %in% class(get(x)))]
 lista_revistas <- lapply(lista_revistas, get)
 
-
 # Reemplaza "nombre_columna" y "numeric" con los valores adecuados
 lista_revistas <- lapply(lista_revistas, cambiar_tipo_variable, columna_nombre = "NumContrib", tipo_deseado = "character") 
 
@@ -91,8 +90,6 @@ lista_revistas <- lapply(lista_revistas, cambiar_tipo_variable, columna_nombre =
 Luego creamos un data set único llamado `revistas` con todos nuestros modelos y se comprueba que no haya valores `NA` en la columna colaborador. 
 
 ```{r Creación dataset único, echo=FALSE, message=FALSE, warning=FALSE, include=FALSE}
-
-# revistas <- bind_rows(alpha, athenea, bohemia_alegre, buena_lectura, caminos, cantico, claridad, contemporanea_bogota, contemporanea_cartagena, cultura, cyrano, escuela_literaria, femenina, golondrina, gruta, hispania, hojas_poesia, la_revista, lectura_amena, lectura_arte, montannes, panida, repertorio, revista_gris, revista_literaria, revista_moderna, sabado, trofeos)
 
 revistas <- bind_rows(lista_revistas)
 
@@ -110,30 +107,13 @@ Aquí, importamos el modelo de datos de colaboradores ya identificados. De este 
 
 ```{r Base de datos colaboradores, message=FALSE, warning=FALSE, include=FALSE}
 
-# colaboradores_BD <- read.csv("datos/colaboradores_datos_biograficos.csv", header = T, encoding = "UTF-8", stringsAsFactors = FALSE)
-
 datos_biograficos <- read.csv("datos/colaboradores_datos_biograficos.csv", header = T, encoding = "UTF-8", stringsAsFactors = FALSE)
 
-# # Reducimos la información a las variables esenciales
-# colaboradores_BD <- colaboradores_BD[,-c(8:25)]
-
+# Reducimos la información a las variables esenciales
 datos_biograficos <- datos_biograficos[,-c(8:25)]
 
 # Renombramos las columnas
-# names(colaboradores_BD) <- c("Colaborador", "Fuente", "Seudonimo", "Sexo", "PaisOrigen","Nacimiento", "Muerte")
-
 names(datos_biograficos) <- c("Colaborador", "Fuente", "Seudonimo", "Sexo", "PaisOrigen","Nacimiento", "Muerte")
-# 
-
-# 
-# # Datos proyecto Revistas Culturales 2.0
-# colaboradores_RC <- read.csv("datos/colaboradores_revistas_culturales.csv", header = T, encoding = "UTF-8", stringsAsFactors = FALSE)
-# 
-# names(colaboradores_RC) <- c("Colaborador", "Fuente", "Sexo", "PaisOrigen","Nacimiento", "Muerte")
-# 
-# # Creación de un data set único con ambos conjuntos de datos
-# 
-# datos_biograficos <- merge(colaboradores_BD, colaboradores_RC, by = "Colaborador", all = T)
 
 ```
 
@@ -155,15 +135,12 @@ revistas_datos_bio <- merge(revistas, datos_biograficos, by = "Colaborador", all
 # Ahora reordenamos las columnas sacando, además las columnas país de origen de 
 # los modelos y los seudónimos (de la base de datos de colaboradores) 
 
-# revistas_datos_bio <- revistas_datos_bio[,c(12, 1, 3, 15:18, 2, 6:8, 11, 9, 10)]
-
 revistas_datos_bio <- revistas_datos_bio[,c(21, 2, 3, 7:10, 1, 5, 24:27, 11:20)]
 
 # Ordenamos las entradas por el índice
 revistas_datos_bio  <- revistas_datos_bio[order(revistas_datos_bio$ID, decreasing = FALSE), ]
 
-# Cuando esta ordenado, eliminamos los índices de los dataframes
-# "revistas" y "revistas_datos_bio"
+# Cuando esta ordenado, eliminamos los índices de los dataframes "revistas" y "revistas_datos_bio"
 
 revistas$ID <- NULL
 revistas_datos_bio$ID <- NULL
@@ -180,12 +157,6 @@ names(revistas_datos_bio) <- c("Revista", "NumContribucion", "Titulo", "Fascicul
 Visualizamos las primeras filas en una tabla, para comprobar que todo este correcto.
 
 ```{r Visualización dataset único, echo=FALSE, message=FALSE, warning=FALSE}
-
-# figura_1 <- datatable(data = revistas,
-#           colnames = c("ID", "Nombre de la revista", "Número de contribución", "Autor", "Rol", "Seudónimo/Firma", "País de Origen", "Título", "Fecha publicación", "Fecha de publicación ISO", "Tipo de texto", "Traducción (Sí/No)", "Traductor", "Cantidad de páginas", "Paginación"),
-#           caption = "Tabla 1. Datos recopilados en el modelo de captura.  (Fuente: Elaboración propia)",
-#           filter = "top",
-#           class = "compact row-border")
 
 figura_1 <- datatable(data = revistas_datos_bio,
           colnames = c("Revista", "Número de contribución", "Título", "Fascículo", "Fecha de publicación","Fecha de publicación ISO", "Colaborador", "Seudónimo/Firma", "Sexo", "País de origen", "Nacimiento", "Muerte", "Traducción (Sí/No)", "Traductor", "Lengua", "Lengua original", "Tipología textual", "Tipología textual según el índice", "Dedicatoria", "Obras reseñadas", "Cantitad páginas", "Paginación"),
@@ -208,10 +179,6 @@ figura_1
 A partir de los datos en nuestra variable `revistas_datos_biográficos` creamos una tabla de datos con el cálculo de la frecuencia de colaboradores (es decir el número de contribuciones públicadas) en el conjunto de 28 revistas. Esta tabla incluye las variables `Colaborador` y `Frecuencia`.
 
 ```{r Frecuencia colaboradores, message=FALSE, warning=FALSE, include=FALSE}
-
-# colaboradores_revistas <- as.data.frame(table(revistas$Colaborador))
-# colaboradores_revistas <- colaboradores_revistas[order(colaboradores_revistas$Freq, decreasing = T), ]
-# colnames(colaboradores_revistas) <- c("Colaborador", "Frecuencia")
 
 colaboradores_revistas <- as.data.frame(table(revistas_datos_bio$Colaborador))
 colaboradores_revistas <- colaboradores_revistas[order(colaboradores_revistas$Freq, decreasing = T), ]
@@ -275,9 +242,6 @@ figura_3
 Ahora tomamos los anónimos de nuestro conjunto de datos y los guardamos en una variable. Luego se quitan de la tabla de colaboradores.
 
 ```{r Anónimos , include=FALSE, message=FALSE, warning=FALSE, include=FALSE}
-# anonimos = subset(colaboradores_revistas, Colaborador == "Anónimo")$Frecuencia
-# 
-# colaboradores_revistas <- colaboradores_revistas[colaboradores_revistas$Colaborador != "Anónimo", ] 
 
 anonimos = subset(colaboradores_revistas, Colaborador == "Anónimo")$Frecuencia
 
@@ -371,29 +335,6 @@ La primera es una visualización de los colaboradores más prolíficos, esto es 
 
 colaboradores_genero <- select(revistas_datos_bio, Colaborador, Tipo)
 colaboradores_genero <- count(colaboradores_genero, Colaborador, Tipo)
-# 
-# colaboradores_genero_pais <- select(revistas_datos_bio, Colaborador, Tipo, PaisOrigen.x)
-# colaboradores_genero_pais <- colaboradores_genero_pais |>
-#    group_by(Tipo, PaisOrigen.x) |>
-#    dplyr::filter(Colaborador != "Anónimo") |>
-#    count(Colaborador)
-# 
-# total_colaboraciones_genero <- colaboradores_genero_pais |>
-#    group_by(Colaborador) |>
-#    summarise(TotalTextos = sum(n))
-# #
-# top_100_colaboradores <- total_colaboraciones_genero|>
-#    top_n(100, wt = TotalTextos) |>
-#    pull(Colaborador)
-# 
-#  top_colaboradores_revistas_genero <- colaboradores_genero_pais |>
-#    group_by(Colaborador) |>
-#    mutate(Total_textos = sum(n)) |>
-#    ungroup() |>
-#    arrange(desc(Total_textos), Colaborador) |>
-#    dplyr::filter(Colaborador %in% top_100_colaboradores)
-
-# write.csv(top_colaboradores_revistas_genero, file = "top_100_colaboradores_genero.csv", fileEncoding = "UTF-8", row.names = F)
 
 total_textos_por_autor <- colaboradores_genero |>
    group_by(Colaborador) |>
@@ -417,16 +358,6 @@ top_colaboradores_revistas <- colaboradores_genero |>
   arrange(desc(Total_textos), Colaborador) |>
   dplyr::filter(Colaborador %in% top_25_autores) |>
   dplyr::filter(Colaborador != "Anónimo")
-
-# ggplot(top_colab_revistas, aes(x = Colaborador, y = n, fill = Tipo)) +
-#   geom_bar(stat = "identity") +
-#   geom_text(aes(label = n), position = position_stack(vjust = 0.5)) +
-#   labs(title = "Número de textos por autor y género literario",
-#        x = "Autor",
-#        y = "Número de Textos",
-#        fill = "Género Literario") +
-#   theme_minimal() +
-#   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 # Definimos una paleta de color para la mayoría de gráficos
 paleta_color = c('#125567', '#125140', '#259A77','#88D89E','#C2DDC7','#E8F2C2','#BBF850', '#DBF227','#BAD977')
@@ -567,10 +498,6 @@ tipos_anio_viz <- tipos_anio |>
   ggplot(aes(x=Año, y=n, group=Tipo, color=Tipo)) +
     geom_line() +
     scale_color_manual(values = paleta_color) +
-    # theme(legend.position="none",
-    #       # axis.title.x = labs(label = "Año de publicación"),
-    #       # axis.title.y = labs(label = "Cantidad de textos")
-    #       ) +
     ggtitle("Mirada diacrónica de las tipologías textuales") +
     ylab("Cantidad de textos") +
     xlab("Año de publicación") +
@@ -995,7 +922,7 @@ El resultado arroja que hay una modularidad del **65,2%**. Este número represen
 
 ### 4.2. Visualización interactiva de la red
 
-Versión interactiva de la [red de revistas](red_revistas_colombianas_viz.html)
+Versión interactiva de la [red de revistas](1881_1847_red_revistas_colombianas_viz.html)
 
 ```{r Visualización de la red, eval=FALSE, message=FALSE, warning=FALSE, include=FALSE}
 
