@@ -1,7 +1,7 @@
 NombreR,NumContrib,Colaborador,Roles,Seudonimo,PaisOrigen,Titulo,NumFasciculo,Fecha,Fecha-ISO,Traduccion,Traductor,Lengua,LenguaOriginal,Tipo,TipoIndice,Dedicatoria,ObrasResenadas,CantidadPaginas,Paginacion
 Caminos. Revista Quincenal de Letras,1,"García Herreros, Manuel",Director,NA,Colombia,Caminos…,1,1 de febrero de 1922,1922-02-01,No,No,Español,NA,Prosa No Ficción,NA,NA,NA,1,1
 Caminos. Revista Quincenal de Letras,2,"Vinyes, Ramón",Creador,NA,España,Luis Carlos López,1,1 de febrero de 1922,1922-02-01,No,No,Español,NA,Prosa No Ficción,NA,NA,NA,5.3,2-6
-Caminos. Revista Quincenal de Letras,3,"Maragall, Joan",Creador,NA,España,Las montañas,1,1 de febrero de 1922,1922-02-01,Sí,"Maseras, Alfonso",Español,Catalán,Poesía,Poesía,NA,NA,1.7,6-7
+Caminos. Revista Quincenal de Letras,3,"Maragall, Juan",Creador,"Maragall, Joan",España,Las montañas,1,1 de febrero de 1922,1922-02-01,Sí,"Maseras, Alfonso",Español,Catalán,Poesía,Poesía,NA,NA,1.7,6-7
 Caminos. Revista Quincenal de Letras,4,"García Herreros, Manuel",Creador,NA,Colombia,Las lecturas de “Villa Lilia”,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,5,8-12
 Caminos. Revista Quincenal de Letras,5,"Castañeda Aragón, Gregorio",Creador,NA,Colombia,Los poemas sobrios: El amor de la tierra,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.7,13
 Caminos. Revista Quincenal de Letras,6,"Castañeda Aragón, Gregorio",Creador,NA,Colombia,Los poemas sobrios: La voz ausente,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,0.6,13-14
@@ -9,7 +9,7 @@ Caminos. Revista Quincenal de Letras,7,"Smith, Logan Pearsall",Creador,NA,Estado
 Caminos. Revista Quincenal de Letras,8,"Smith, Logan Pearsall",Creador,NA,Estados Unidos,Poemas: Cuestiones complejas,1,1 de febrero de 1922,1922-02-01,Sí,Anónimo,Español,Inglés,Poesía,Poesía,NA,NA,0.4,15
 Caminos. Revista Quincenal de Letras,9,"Smith, Logan Pearsall",Creador,NA,Estados Unidos,Poemas: Bligh Haus,1,1 de febrero de 1922,1922-02-01,Sí,Anónimo,Español,Inglés,Poesía,Poesía,NA,NA,0.5,15-16
 Caminos. Revista Quincenal de Letras,10,"Smith, Logan Pearsall",Creador,NA,Estados Unidos,Poemas: Mi buen amigo,1,1 de febrero de 1922,1922-02-01,Sí,Anónimo,Español,Inglés,Poesía,Poesía,NA,NA,0.8,16
-Caminos. Revista Quincenal de Letras,11,"López Penha, Abraham Zacarías",Creador,NA,Curazao,Palabras,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,17-18
+Caminos. Revista Quincenal de Letras,11,"López Penha, Abraham Zacarías",Creador,NA,Curazao,Palabras,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,2,17-18
 Caminos. Revista Quincenal de Letras,12,"Pareja, Carlos Henrique",Creador,"Latino, Simón",Colombia,Elogio del monte,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Poesía,NA,NA,NA,2,19-20
 Caminos. Revista Quincenal de Letras,13,"Pérez Amaya, Carlos",Creador,NA,Colombia,La nube que quería viajar,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3.2,21-24
 Caminos. Revista Quincenal de Letras,14,"Jaramillo Arango, R.",Creador,NA,Colombia,La montaña. Meditación dramática en dos actos,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Teatro,Dramaturgia,NA,NA,2.8,24-26
@@ -20,9 +20,9 @@ Caminos. Revista Quincenal de Letras,18,Anónimo,Director,NA,Colombia,Alexandre 
 Caminos. Revista Quincenal de Letras,19,Anónimo,Director,NA,Colombia,El país de Rubén Darío,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Reseña,Nota,NA,El país de Rubén Darío de Juan B. Delgado,1.3,29-31
 Caminos. Revista Quincenal de Letras,20,Anónimo,Director,NA,Colombia,Un día,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Reseña,Nota,NA,"Del vivir de Gabriel Miró, La última cigüeña de Félix Urabayan",0.4,31
 Caminos. Revista Quincenal de Letras,21,Anónimo,Director,NA,Colombia,Civilidad,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Prosa No Ficción,Nota,NA,NA,0.4,31
-Caminos. Revista Quincenal de Letras,22,Anónimo,Anunciador,NA,NA,Nuevo producto de “El Indio”,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Publicidad,NA,NA,NA,0.3,31-32
-Caminos. Revista Quincenal de Letras,23,Anónimo,Anunciador,NA,NA,Caminos. Condiciones y tarifa,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Publicidad,NA,NA,NA,0.2,32
-Caminos. Revista Quincenal de Letras,24,Anónimo,Anunciador,NA,NA,Gran Joyería Italiana Volpe – Raúl H. Méndez & Ca.,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Publicidad,NA,NA,NA,0.6,32
+Caminos. Revista Quincenal de Letras,22,Anónimo,Anunciante,NA,NA,Nuevo producto de “El Indio”,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Publicidad,NA,NA,NA,0.3,31-32
+Caminos. Revista Quincenal de Letras,23,Anónimo,Anunciante,NA,NA,Caminos. Condiciones y tarifa,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Publicidad,NA,NA,NA,0.2,32
+Caminos. Revista Quincenal de Letras,24,Anónimo,Anunciante,NA,NA,Gran Joyería Italiana Volpe – Raúl H. Méndez & Ca.,1,1 de febrero de 1922,1922-02-01,No,NA,Español,NA,Publicidad,NA,NA,NA,0.6,32
 Caminos. Revista Quincenal de Letras,25,"D'Ors, Eugenio",Creador,NA,España,Glosario: Palabras fuertes,2,15 de febrero de 1922,1922-02-15,Sí,Anónimo,Español,Catalán,Prosa No Ficción,NA,NA,NA,1,33
 Caminos. Revista Quincenal de Letras,26,"D'Ors, Eugenio",Creador,NA,España,Glosario: El “Undesirable”,2,15 de febrero de 1922,1922-02-15,Sí,Anónimo,Español,Catalán,Prosa No Ficción,NA,NA,NA,0.7,34
 Caminos. Revista Quincenal de Letras,27,"D'Ors, Eugenio",Creador,NA,España,Glosario: Tagore y las infusiones,2,15 de febrero de 1922,1922-02-15,Sí,Anónimo,Español,Catalán,Prosa No Ficción,NA,NA,NA,1,34-35
@@ -47,9 +47,9 @@ Caminos. Revista Quincenal de Letras,44,Anónimo,Director,NA,Colombia,Rubén Dar
 Caminos. Revista Quincenal de Letras,45,Anónimo,Director,NA,Colombia,“Fermina Márquez” de Valery-Larbaud,2,15 de febrero de 1922,1922-02-15,No,NA,Español,NA,Reseña,Nota,NA,“Fermina Márquez” de Valery Larbaud (Trad. Enrique Díaz Canedo),1,60-61
 Caminos. Revista Quincenal de Letras,45,Anónimo,Director,NA,Colombia,El teatro ruso durante la revolución,2,15 de febrero de 1922,1922-02-15,No,NA,Español,NA,Prosa No Ficción,Nota,NA,NA,1.4,61-62
 Caminos. Revista Quincenal de Letras,46,Anónimo,Director,NA,Colombia,Una encuesta en “El sol” de Madrid,2,15 de febrero de 1922,1922-02-15,No,NA,Español,NA,Prosa No Ficción,Nota,NA,NA,1,62-63
-Caminos. Revista Quincenal de Letras,47,Anónimo,Anunciador,NA,NA,Los almanaques de “El Indio”,2,15 de febrero de 1922,1922-02-15,No,NA,Español,NA,Publicidad,NA,NA,NA,0.3,63-64
-Caminos. Revista Quincenal de Letras,48,Anónimo,Anunciador,NA,NA,J. A. Correa. Departamento de Automóviles – El Fénix,2,15 de febrero de 1922,1922-02-15,No,NA,Español,NA,Publicidad,NA,NA,NA,0.4,63
-Caminos. Revista Quincenal de Letras,49,Anónimo,Anunciador,NA,NA,“Caminos”. Condiciones y tarifa – Gran Joyería Italian – Raúl H. Mendez & Cía.,2,15 de febrero de 1922,1922-02-15,No,NA,Español,NA,Publicidad,NA,NA,NA,0.6,64
+Caminos. Revista Quincenal de Letras,47,Anónimo,Anunciante,NA,NA,Los almanaques de “El Indio”,2,15 de febrero de 1922,1922-02-15,No,NA,Español,NA,Publicidad,NA,NA,NA,0.3,63-64
+Caminos. Revista Quincenal de Letras,48,Anónimo,Anunciante,NA,NA,J. A. Correa. Departamento de Automóviles – El Fénix,2,15 de febrero de 1922,1922-02-15,No,NA,Español,NA,Publicidad,NA,NA,NA,0.4,63
+Caminos. Revista Quincenal de Letras,49,Anónimo,Anunciante,NA,NA,“Caminos”. Condiciones y tarifa – Gran Joyería Italian – Raúl H. Mendez & Cía.,2,15 de febrero de 1922,1922-02-15,No,NA,Español,NA,Publicidad,NA,NA,NA,0.6,64
 Caminos. Revista Quincenal de Letras,50,"García Herreros, Manuel",Director,NA,Colombia,Literatura Hispanoamericana: A. Fernández García: “Búcaros en flor”.,3,1 de marzo de 1922,1922-03-01,No,NA,Español,NA,Reseña,NA,NA,“Búcaros en flor” de Alejandro Fernández García,1.1,65-66
 Caminos. Revista Quincenal de Letras,51,"García Herreros, Manuel",Director,NA,Colombia,Literatura Hispanoamericana: José Rafael Pocaterra: “Vidas oscuras”,3,1 de marzo de 1922,1922-03-01,No,NA,Español,NA,Reseña,NA,NA,“Vidas oscuras” de José Rafael Pocaterra,0.8,66
 Caminos. Revista Quincenal de Letras,52,"García Herreros, Manuel",Director,NA,Colombia,Literatura Hispanoamericana: Daniel Ruzo,3,1 de marzo de 1922,1922-03-01,No,NA,Español,NA,Reseña,NA,NA,“Marginales” y “Así ha cantado la naturaleza” de Daniel Ruzo,1.3,66-67
@@ -82,9 +82,9 @@ Caminos. Revista Quincenal de Letras,78,"Sansores y Pren, Rosario",Creador,NA,M�
 Caminos. Revista Quincenal de Letras,79,"Andreis, Fernando de",Creador,NA,NA,Poemas acres,3,1 de marzo de 1922,1922-03-01,No,NA,Español,NA,Poesía,Poesía,NA,NA,2.9,91-94
 Caminos. Revista Quincenal de Letras,80,Anónimo,Director,NA,Colombia,Llevamos prisa,3,1 de marzo de 1922,1922-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.7,94-95
 Caminos. Revista Quincenal de Letras,81,Anónimo,Director,NA,Colombia,Nota a nuestros críticos que no son críticos,3,1 de marzo de 1922,1922-03-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.2,95
-Caminos. Revista Quincenal de Letras,82,Anónimo,Anunciador,NA,NA,Chocolatería “El Indio” – Caminos – Ediciones de “Caminos”,3,1 de marzo de 1922,1922-03-01,No,NA,Español,NA,Publicidad,NA,NA,NA,0.7,95
-Caminos. Revista Quincenal de Letras,83,Anónimo,Anunciador,NA,NA,J. V. Mogollón & Ca.,3,1 de marzo de 1922,1922-03-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,96
-Caminos. Revista Quincenal de Letras,84,"López Penha, Abraham Zacarías",Creador,NA,Curazao,Ecos del oriente,4,15 de marzo de 1922,1922-03-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7,97-103
+Caminos. Revista Quincenal de Letras,82,Anónimo,Anunciante,NA,NA,Chocolatería “El Indio” – Caminos – Ediciones de “Caminos”,3,1 de marzo de 1922,1922-03-01,No,NA,Español,NA,Publicidad,NA,NA,NA,0.7,95
+Caminos. Revista Quincenal de Letras,83,Anónimo,Anunciante,NA,NA,J. V. Mogollón & Ca.,3,1 de marzo de 1922,1922-03-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,96
+Caminos. Revista Quincenal de Letras,84,"López Penha, Abraham Zacarías",Creador,NA,Curazao,Ecos del oriente,4,15 de marzo de 1922,1922-03-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,7,97-103
 Caminos. Revista Quincenal de Letras,85,"Arciniegas, Germán",Creador,"Gaseyra, León de",Colombia,El consejo útil,4,15 de marzo de 1922,1922-03-15,No,NA,Español,NA,Poesía,NA,NA,NA,1,104
 Caminos. Revista Quincenal de Letras,86,"Vinyes, Ramón",Creador,NA,España,"Varia: Tritón, viejo en alta mar",4,15 de marzo de 1922,1922-03-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,0.6,105
 Caminos. Revista Quincenal de Letras,87,"Vinyes, Ramón",Creador,NA,España,Varia: De las Islas Canarias,4,15 de marzo de 1922,1922-03-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.1,105
@@ -134,6 +134,6 @@ Caminos. Revista Quincenal de Letras,130,"García Herreros, Manuel",Director,M. 
 Caminos. Revista Quincenal de Letras,131,"García Herreros, Manuel",Director,M. G. H.,Colombia,La fecundidad de Gómez de la Serna,5,1 de abril de 1922,1922-04-01,No,NA,Español,NA,Reseña,Nota,NA,“El doctor inverosímil” de Ramón Gómez de la Serna,0.5,151-152
 Caminos. Revista Quincenal de Letras,132,"García Herreros, Manuel",Director,M. G. H.,Colombia,“Muerte en vida”,5,1 de abril de 1922,1922-04-01,No,NA,Español,NA,Reseña,Nota,NA,“Muerte en vida” de Pedro Manrique Arévalo,0.7,152
 Caminos. Revista Quincenal de Letras,133,Anónimo,Creador,El Cronista,NA,Barranquilla comercial: Con Don Julio E. Gerlein,5,1 de abril de 1922,1922-04-01,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,3,153-155
-Caminos. Revista Quincenal de Letras,134,Anónimo,Anunciador,NA,NA,Nos ocupamos de política – Plumeros japones de fuente – Un elegante almacén – Una recomendación – Mentolina,5,1 de abril de 1922,1922-04-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,156
-Caminos. Revista Quincenal de Letras,135,Anónimo,Anunciador,NA,NA,Crédito mercantil – Agencia Judicial,5,1 de abril de 1922,1922-04-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,SD
-Caminos. Revista Quincenal de Letras,136,Anónimo,Anunciador,NA,NA,Bando Dugand,5,1 de abril de 1922,1922-04-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,SD
+Caminos. Revista Quincenal de Letras,134,Anónimo,Anunciante,NA,NA,Nos ocupamos de política – Plumeros japones de fuente – Un elegante almacén – Una recomendación – Mentolina,5,1 de abril de 1922,1922-04-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,156
+Caminos. Revista Quincenal de Letras,135,Anónimo,Anunciante,NA,NA,Crédito mercantil – Agencia Judicial,5,1 de abril de 1922,1922-04-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,SD
+Caminos. Revista Quincenal de Letras,136,Anónimo,Anunciante,NA,NA,Bando Dugand,5,1 de abril de 1922,1922-04-01,No,NA,Español,NA,Publicidad,NA,NA,NA,1,SD

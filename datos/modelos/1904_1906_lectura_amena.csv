@@ -1,20 +1,20 @@
 NombreR,NumContrib,Colaborador,Roles,Seudonimo,PaisOrigen,Titulo,NumFasciculo,Fecha,Fecha-ISO,Traduccion,Traductor,Lengua,LenguaOriginal,Tipo,TipoIndice,Dedicatoria,ObrasResenadas,CantidadPaginas,Paginacion
 Lectura Amena,1,Anónimo,Creador,NA,NA,Lectura Amena,1,15 de septiembre de 1904,1904-09-15,No,NA,Español,NA,Prosa No Ficción,NA,Lectura Amena,NA,1,NA
-Lectura Amena,2,"Tejada Córdoba, Benjamín",Creador,NA,Colombia,Juegos florales,1,15 de septiembre de 1904,1904-09-15,No,NA,Español,NA,Prosa No Ficción,NA,Lectura Amena,NA,2.5,1--3
-Lectura Amena,3,"Cano, Antonio José",Creador,NA,Colombia,Soñada…,1,15 de septiembre de 1904,1904-09-15,No,NA,Español,NA,Poesía,NA,NA,NA,1,3--4
-Lectura Amena,4,"Dicenta, Joaquín",Creador,NA,España,La corona de Zorilla,1,15 de septiembre de 1904,1904-09-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,4--5
-Lectura Amena,5,"Gautier, Théophile",Creador,NA,Francia,"La ""Gioconda"" de Leonardo da Vinci",1,15 de septiembre de 1904,1904-09-15,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,1,5--6
-Lectura Amena,6,"Darío, Rubén",Creador,NA,Nicaragua,Filtración,1,15 de septiembre de 1904,1904-09-15,No,NA,Español,NA,Poesía,NA,NA,NA,1,6--7
-Lectura Amena,7,Anónimo,Creador,NA,NA,Rochefort poerta religioso,1,15 de septiembre de 1904,1904-09-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,7
-Lectura Amena,8,"Rochefort, Henri",Creador,NA,Francia,NA,1,15 de septiembre de 1904,1904-09-15,No,NA,Francés,Francés,Poesía,NA,NA,NA,0.4,7--8
-Lectura Amena,9,"Rochefort, Henri",Creador,NA,Francia,Traducción,1,15 de septiembre de 1904,1904-09-15,Sí,Anónimo,Español,Francés,Poesía,NA,NA,NA,0.4,8--
-Lectura Amena,10,"Gerin, Gabriel",Creador,NA,Francia,La invitación del doctor,1,15 de septiembre de 1904,1904-09-15,Sí,"Martínez Rivas, Federico",Español,Francés,Poesía,NA,NA,NA,3,8--11
-Lectura Amena,11,"Restrepo, Saturnino",Creador,S. Restrepo,Colombia,Amado Nervo,1,15 de septiembre de 1904,1904-09-15,No,NA,Español,NA,Prosa No Ficción,NA,Lectura Amena,NA,9,11--20
+Lectura Amena,2,"Tejada Córdoba, Benjamín",Creador,NA,Colombia,Juegos florales,1,15 de septiembre de 1904,1904-09-15,No,NA,Español,NA,Prosa No Ficción,NA,Lectura Amena,NA,2.5,1-3
+Lectura Amena,3,"Cano, Antonio José",Creador,NA,Colombia,Soñada…,1,15 de septiembre de 1904,1904-09-15,No,NA,Español,NA,Poesía,NA,NA,NA,1,3-4
+Lectura Amena,4,"Dicenta, Joaquín",Creador,NA,España,La corona de Zorilla,1,15 de septiembre de 1904,1904-09-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,1,4-5
+Lectura Amena,5,"Gautier, Théophile",Creador,NA,Francia,"La ""Gioconda"" de Leonardo da Vinci",1,15 de septiembre de 1904,1904-09-15,Sí,Anónimo,Español,Francés,Prosa No Ficción,NA,NA,NA,1,5-6
+Lectura Amena,6,"Darío, Rubén",Creador,NA,Nicaragua,Filtración,1,15 de septiembre de 1904,1904-09-15,No,NA,Español,NA,Poesía,NA,NA,NA,1,6-7
+Lectura Amena,7,Anónimo,Creador,NA,NA,Rochefort poeta religioso,1,15 de septiembre de 1904,1904-09-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,7
+Lectura Amena,8,"Rochefort, Henri",Creador,NA,Francia,NA,1,15 de septiembre de 1904,1904-09-15,No,NA,Francés,Francés,Poesía,NA,NA,NA,0.4,7-8
+Lectura Amena,9,"Rochefort, Henri",Creador,NA,Francia,Traducción,1,15 de septiembre de 1904,1904-09-15,Sí,Anónimo,Español,Francés,Poesía,NA,NA,NA,0.4,8
+Lectura Amena,10,"Gerin, Gabriel",Creador,NA,Francia,La invitación del doctor,1,15 de septiembre de 1904,1904-09-15,Sí,"Martínez Rivas, Federico",Español,Francés,Poesía,NA,NA,NA,3,8-11
+Lectura Amena,11,"Restrepo, Saturnino",Creador,S. Restrepo,Colombia,Amado Nervo,1,15 de septiembre de 1904,1904-09-15,No,NA,Español,NA,Prosa No Ficción,NA,Lectura Amena,NA,9,11-20
 Lectura Amena,12,Anónimo,Creador,NA,NA,NA,1,15 de septiembre de 1904,1904-09-15,No,NA,Español,NA,Publicidad,NA,NA,NA,4.3,NA
 Lectura Amena,13,"Maupassant, Guy de",Creador,NA,Francia,El paraguas,2,15 de octubre de 1904,1904-10-15,Sí,Anónimo,Español,Francés,Prosa Ficción,NA,"Oudinot, Camilo",NA,6,21-26
 Lectura Amena,14,"Velázquez, Alejandro",Creador,NA,Colombia,¡Oh… Artistas!,2,15 de octubre de 1904,1904-10-15,No,NA,Español,NA,Poesía,NA,NA,NA,1.2,27-28
 Lectura Amena,15,"Monte, D. L.",Creador,D.L. Monte,NA,"""Reir llorando""",2,15 de octubre de 1904,1904-10-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.1,28-29
-Lectura Amena,16,"Flórez, Julio",Creador,NA,Colombia,¡Oh Luna!,2,15 de octubre de 1904,1904-10-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,29--
+Lectura Amena,16,"Flórez, Julio",Creador,NA,Colombia,¡Oh Luna!,2,15 de octubre de 1904,1904-10-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.4,29
 Lectura Amena,17,"Montoya, Antonio José",Creador,NA,Colombia,Limosnera,2,15 de octubre de 1904,1904-10-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,1.3,29-30
 Lectura Amena,18,"Mercado, Julio",Creador,NA,Colombia,Himnario,2,15 de octubre de 1904,1904-10-15,No,NA,Español,NA,Poesía,NA,"Velasquez, Leticia",NA,0.4,31
 Lectura Amena,19,"Restrepo Restrepo, Antonio María",Creador,Abel Farina,Colombia,En un albúm (*),2,15 de octubre de 1904,1904-10-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.6,31-32
@@ -127,7 +127,7 @@ Lectura Amena,125,"Tejada Córdoba, Benjamín",Creador,B. Tejada Córdoba,Colomb
 Lectura Amena,126,"Vélez, Salvador",Creador,NA,NA,Luz y sombra,10,15 de febrero de 1905,1905-02-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,198
 Lectura Amena,127,Anónimo,Creador,NA,NA,De todo,10,15 de febrero de 1905,1905-02-15,No,NA,Español,NA,Prosa No Ficción,De Todo,NA,NA,0.3,198
 Lectura Amena,128,"Uribe Uribe, Rafael",Creador,NA,Colombia,"Medellín, Enero 22 de 1905",10,15 de febrero de 1905,1905-02-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.4,198-199
-Lectura Amena,129,"Cardenas, Bernardino",Creador,NA,NA,D. José Elias Toro,10,15 de febrero de 1905,1905-02-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,199
+Lectura Amena,129,"Cárdenas, Bernardino",Creador,NA,NA,D. José Elias Toro,10,15 de febrero de 1905,1905-02-15,No,NA,Español,NA,Prosa No Ficción,NA,NA,NA,0.6,199
 Lectura Amena,130,Anónimo,Creador,NA,NA,NA,10,15 de febrero de 1905,1905-02-15,No,NA,Español,NA,Publicidad,NA,NA,NA,1.3,199-200
 Lectura Amena,131,"Cano, Luis",Director,NA,Colombia,Índice del Tomo 1,10,15 de febrero de 1905,1905-02-15,No,NA,Español,NA,Prosa No Ficción,Índice,NA,NA,2,NA
 Lectura Amena,132,Anónimo,Ilustrador,NA,NA,Jorge Isaacs,10,15 de febrero de 1905,1905-02-15,No,NA,NA,NA,Imagen,NA,NA,NA,1,NA
@@ -302,7 +302,7 @@ Lectura Amena,296,Anónimo,Creador,NA,NA,Feria y Exposición de Aniamles en Mede
 Lectura Amena,,"Gómez Carrillo, Enrique",Creador,NA,Guatemala,Después del divorcio,22,1 de septiembre de 1905,1905-09-01,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3.2,457-460
 Lectura Amena,,"Nieto, Ricardo",Creador,NA,Colombia,Eco triste,22,1 de septiembre de 1905,1905-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,460
 Lectura Amena,,"Merizalde Uribe, Antonio",Creador,NA,Colombia,Blanco y rojo,22,1 de septiembre de 1905,1905-09-01,No,NA,Español,NA,Poesía,NA,"Farina, Abel",NA,0.5,460-461
-Lectura Amena,,"Michaud d'Hamiac, Léon",Creador,"Michaud-D'Hamiac, L.",Francia,La caperucita azul,22,1 de septiembre de 1905,1905-09-01,Sí,"Velásquez, Leticia",Español,Francés,Prosa Ficción,NA,NA,NA,2,461-463
+Lectura Amena,,"Michaud d'Humiac, Léon",Creador,"Michaud-D'Hamiac, L.",Francia,La caperucita azul,22,1 de septiembre de 1905,1905-09-01,Sí,"Velásquez, Leticia",Español,Francés,Prosa Ficción,NA,NA,NA,2,461-463
 Lectura Amena,,"Grillo, Maximiliano",Creador,Max. Grillo,Colombia,Anima rerum,22,1 de septiembre de 1905,1905-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.5,463-464
 Lectura Amena,,"Zola, Émile",Creador,NA,Francia,En un cementerio,22,1 de septiembre de 1905,1905-09-01,Sí,Anónimo,Español,Francés,Prosa Ficción,NA,NA,NA,2.2,465-467
 Lectura Amena,,"Pérez Zúñiga, Juan",Creador,NA,España,Primavera incipiente,22,1 de septiembre de 1905,1905-09-01,No,NA,Español,NA,Poesía,NA,NA,NA,1.3,467-468
@@ -364,7 +364,7 @@ Lectura Amena,,"Cano, Luis",Director,NA,Colombia,Funeral,26 y 27,15 de noviembre
 Lectura Amena,,"Ugarte, Manuel",Creador,NA,Argentina,Un sueño de Margot,26 y 27,15 de noviembre de 1905,1905-11-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,3.5,549-552
 Lectura Amena,,"Merizalde Uribe, Antonio",Creador,NA,Colombia,Contrastes,26 y 27,15 de noviembre de 1905,1905-11-15,No,NA,Español,NA,Poesía,NA,NA,NA,1,553
 Lectura Amena,,"Gramont, Luciano",Creador,NA,NA,Calidoscopio,26 y 27,15 de noviembre de 1905,1905-11-15,No,NA,Español,NA,Prosa Ficción,NA,NA,NA,5,554-558
-Lectura Amena,,"Cervera, Manuel S.",Creador,NA,Colombia,Preerraquelina,26 y 27,15 de noviembre de 1905,1905-11-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,559
+Lectura Amena,,"Cervera, Manuel",Creador,Manuel S. Cervera,Colombia,Preerraquelina,26 y 27,15 de noviembre de 1905,1905-11-15,No,NA,Español,NA,Poesía,NA,NA,NA,0.5,559
 Lectura Amena,,"D'Enjoÿ, Paul",Creador,NA,Francia,Flor de Mayo (Cuento Chino),26 y 27,15 de noviembre de 1905,1905-11-15,Sí,Anónimo,Español,Francés,Prosa Ficción,NA,Lectura Amena,NA,4.8,559-564
 Lectura Amena,,"Jaramillo P., Escipión",Creador,NA,Colombia,Compasión,26 y 27,15 de noviembre de 1905,1905-11-15,No,NA,Español,NA,Poesía,NA,Lectura Amena,NA,0.8,564
 Lectura Amena,,"D'Ors, Eugenio",Creador,NA,España,Gracias,26 y 27,15 de noviembre de 1905,1905-11-15,No,NA,Español,NA,Poesía,NA,NA,NA,1,565
